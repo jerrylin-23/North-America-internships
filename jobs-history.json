@@ -120,14 +120,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
-    "company": "Pinterest",
-    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
     "company": "Pinterest",
@@ -256,26 +248,10 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Quantitative Researcher Intern",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=7238472",
-    "company": "Tower Research Capital",
-    "location": "New York",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Quantitative Trader Intern (PhD 2026)",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
     "company": "Tower Research Capital",
     "location": "New York",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026)",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
-    "company": "Tower Research Capital",
-    "location": "Montreal",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -342,5 +318,29 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Quantitative Researcher Intern",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7238472",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
+    "company": "Tower Research Capital",
+    "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
   }
 ]
