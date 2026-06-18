@@ -7,7 +7,7 @@ Automated repository tracking Software Engineering, Data Science, Product, and A
 
 ---
 
-## 📈 Active Postings (38)
+## 📈 Active Postings (37)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -26,7 +26,6 @@ Automated repository tracking Software Engineering, Data Science, Product, and A
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Software Engineer, Internship | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | 2026-06-17 |
 | **Pinterest** | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 2026-06-17 |
-| **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
 | **Scale AI** | AI Builder Intern | `San Francisco, CA; New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-06-17 |
 | **Scale AI** | Finance Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4565836005) | 2026-06-17 |
 | **Scale AI** | Legal Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4565834005) | 2026-06-17 |
@@ -71,12 +70,13 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (5)
+## 🔒 Closed Postings (6)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Hootsuite** | Co-op/Intern, Product Management - Summer 2026 | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://careers.hootsuite.com/job/?gh_jid=7942387) | 2026-06-17 |
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
+| **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
 | **Tower Research Capital** | Quantitative Researcher Intern | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 2026-06-17 |
 | **Tower Research Capital** | Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026) | `Montreal` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 2026-06-17 |
 | **Verkada** | AI Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5117760007) | 2026-06-17 |
