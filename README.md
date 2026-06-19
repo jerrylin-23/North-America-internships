@@ -3,11 +3,11 @@
 Automated repository tracking Software Engineering, Data Science, Product, and AI/ML internships & co-ops in North America for **2027** (Winter, Summer, Fall).
 
 > 🤖 **Automated Tracker:** This list is updated automatically every 12 hours using GitHub Actions.
-> 📅 **Last Scanned:** `2026-06-18`
+> 📅 **Last Scanned:** `2026-06-19`
 
 ---
 
-## 📈 Active Postings (37)
+## 📈 Active Postings (36)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -45,7 +45,6 @@ Automated repository tracking Software Engineering, Data Science, Product, and A
 | **Verkada** | Frontend Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 2026-06-17 |
 | **Verkada** | Hardware Engineer (Fall Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | 2026-06-17 |
 | **Verkada** | Technical Support Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5017082007) | 2026-06-17 |
-| **Visier** | Software Developer Co-op | `Vancouver, BC, Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) | 2026-06-17 |
 | **Aquatic Capital Management** | Quantitative Researcher, Intern (Summer 2027)  | `Chicago; London` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 2026-06-13 |
 | **Aquatic Capital Management** | Software Engineer, Intern (Summer 2027)  | `Chicago` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 2026-06-13 |
 
@@ -70,7 +69,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (6)
+## 🔒 Closed Postings (7)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -80,6 +79,7 @@ Major tech, quant, and finance year-round application portals:
 | **Tower Research Capital** | Quantitative Researcher Intern | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 2026-06-17 |
 | **Tower Research Capital** | Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026) | `Montreal` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 2026-06-17 |
 | **Verkada** | AI Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5117760007) | 2026-06-17 |
+| **Visier** | Software Developer Co-op | `Vancouver, BC, Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) | 2026-06-17 |
 
 ---
 

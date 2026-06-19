@@ -272,14 +272,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Software Developer Co-op",
-    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006",
-    "company": "Visier",
-    "location": "Vancouver, BC, Canada",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Quantitative Researcher, Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
     "company": "Aquatic Capital Management",
@@ -340,6 +332,14 @@
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
     "company": "Verkada",
     "location": "San Mateo, CA United States",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Software Developer Co-op",
+    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006",
+    "company": "Visier",
+    "location": "Vancouver, BC, Canada",
     "status": "Closed",
     "date_added": "2026-06-17"
   }
