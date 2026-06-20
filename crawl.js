@@ -1,5 +1,15 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { makeHttpCtx } from './providers/_http.mjs';
+
+// Import providers
+import greenhouse from './providers/greenhouse.mjs';
+import ashby from './providers/ashby.mjs';
+import lever from './providers/lever.mjs';
+import smartrecruiters from './providers/smartrecruiters.mjs';
+import recruitee from './providers/recruitee.mjs';
+import workday from './providers/workday.mjs';
+import workable from './providers/workable.mjs';
 
 const COMPANIES_PATH = './companies.json';
 const HISTORY_PATH = './jobs-history.json';
@@ -7,193 +17,33 @@ const README_PATH = './README.md';
 
 const CONCURRENCY_LIMIT = 10;
 
-// API Detection Logic
-function detectApi(company) {
+const providers = {
+  greenhouse,
+  ashby,
+  lever,
+  smartrecruiters,
+  recruitee,
+  workday,
+  workable,
+};
+
+// API / Provider Detection Logic
+function detectProvider(company) {
+  // 1. Explicit boards-api Greenhouse link in "api" field takes precedence
   if (company.api && (company.api.includes('greenhouse') || company.api.includes('boards-api'))) {
-    return { type: 'greenhouse', url: company.api };
+    return providers.greenhouse;
   }
 
-  const url = company.careers_url || '';
-
-  // Ashby
-  const ashbyMatch = url.match(/jobs\.ashbyhq\.com\/([^/?#]+)/);
-  if (ashbyMatch) {
-    return {
-      type: 'ashby',
-      url: `https://api.ashbyhq.com/posting-api/job-board/${ashbyMatch[1]}?includeCompensation=true`,
-    };
-  }
-
-  // Lever
-  const leverMatch = url.match(/jobs\.lever\.co\/([^/?#]+)/);
-  if (leverMatch) {
-    return {
-      type: 'lever',
-      url: `https://api.lever.co/v0/postings/${leverMatch[1]}`,
-    };
-  }
-
-  // Greenhouse (handles boards.greenhouse.io and job-boards.greenhouse.io)
-  const ghMatch = url.match(/boards(?:\.eu)?\.greenhouse\.io\/([^/?#]+)/) || url.match(/job-boards(?:\.eu)?\.greenhouse\.io\/([^/?#]+)/);
-  if (ghMatch) {
-    return {
-      type: 'greenhouse',
-      url: `https://boards-api.greenhouse.io/v1/boards/${ghMatch[1]}/jobs`,
-    };
-  }
-
-  // SmartRecruiters
-  const srMatch = url.match(/(?:careers|jobs)\.smartrecruiters\.com\/([^/?#]+)/);
-  if (srMatch) {
-    return {
-      type: 'smartrecruiters',
-      url: `https://api.smartrecruiters.com/v1/companies/${srMatch[1]}/postings?limit=100`,
-    };
-  }
-
-  // Workday
-  const wdMatch = url.match(/^https:\/\/([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/);
-  if (wdMatch) {
-    const [, tenant, instance, site] = wdMatch;
-    return {
-      type: 'workday',
-      url: `https://${tenant}.${instance}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/jobs`,
-      meta: { 
-        jobBase: `https://${tenant}.${instance}.myworkdayjobs.com/${site}`,
-        landingUrl: url
-      }
-    };
-  }
-
-  // Workable
-  const workableMatch = url.match(/apply\.workable\.com\/([^/?#]+)/);
-  if (workableMatch) {
-    return {
-      type: 'workable',
-      url: `https://apply.workable.com/${workableMatch[1]}/jobs.md`
-    };
-  }
-
-  // Recruitee
-  const recruiteeMatch = url.match(/([a-z0-9][a-z0-9-]*)\.recruitee\.com/);
-  if (recruiteeMatch) {
-    return {
-      type: 'recruitee',
-      url: `https://${recruiteeMatch[1]}.recruitee.com/api/offers/`
-    };
-  }
-
-  return null;
-}
-
-// API Parsers
-function parseJobs(type, json, companyName, meta) {
-  if (type === 'greenhouse') {
-    const jobs = json.jobs || [];
-    return jobs.map(j => ({
-      title: j.title || '',
-      url: j.absolute_url || '',
-      company: companyName,
-      location: j.location?.name || 'Canada',
-    }));
-  }
-
-  if (type === 'ashby') {
-    const jobs = json.jobs || [];
-    return jobs.map(j => {
-      const locs = [j.location];
-      if (j.secondaryLocations) {
-        j.secondaryLocations.forEach(sl => {
-          if (sl.location) locs.push(sl.location);
-        });
-      }
-      return {
-        title: j.title || '',
-        url: j.jobUrl || '',
-        company: companyName,
-        location: locs.filter(Boolean).join(', '),
-      };
-    });
-  }
-
-  if (type === 'lever') {
-    const jobs = Array.isArray(json) ? json : [];
-    return jobs.map(j => ({
-      title: j.text || '',
-      url: j.hostedUrl || '',
-      company: companyName,
-      location: j.categories?.location || 'Canada',
-    }));
-  }
-
-  if (type === 'smartrecruiters') {
-    const jobs = json.content || [];
-    return jobs.map(j => ({
-      title: j.name || '',
-      url: `https://jobs.smartrecruiters.com/${j.company.identifier}/${j.id}`,
-      company: companyName,
-      location: j.location ? `${j.location.city}, ${j.location.country}` : 'Canada',
-    }));
-  }
-
-  if (type === 'recruitee') {
-    const offers = json?.offers || [];
-    return offers.map(j => {
-      const city = j.city || '';
-      const country = j.country || '';
-      const remote = j.remote ? 'Remote' : '';
-      const location = j.location || [city, country, remote].filter(Boolean).join(', ');
-      return {
-        title: j.title || '',
-        url: j.careers_url || j.url || '',
-        company: companyName,
-        location: location || 'Canada',
-      };
-    });
-  }
-
-  if (type === 'workday') {
-    const postings = Array.isArray(json?.jobPostings) ? json.jobPostings : [];
-    return postings.map(j => ({
-      title: j.title || '',
-      url: meta && j.externalPath ? meta.jobBase + j.externalPath : '',
-      company: companyName,
-      location: j.locationsText || '',
-    }));
-  }
-
-  return [];
-}
-
-function parseWorkableMarkdown(text, companyName) {
-  if (typeof text !== 'string') return [];
-  const jobs = [];
-  for (const line of text.split('\n')) {
-    if (!line.startsWith('|') || !line.includes('[View]')) continue;
-    const cols = line.split('|').map(c => c.trim());
-    if (cols.length < 8) continue;
-    const title = cols[1];
-    if (!title || title === 'Title') continue;
-    const location = cols[3] || '';
-    const urlMatch = line.match(/\[View\]\(([^)]+)\)/);
-    let url = urlMatch ? urlMatch[1] : '';
-    if (url.endsWith('.md')) url = url.slice(0, -3);
-    if (!url) continue;
-
+  // 2. Otherwise run each provider's detect logic
+  for (const provider of Object.values(providers)) {
     try {
-      const parsedUrl = new URL(url);
-      if (parsedUrl.protocol === 'https:' && parsedUrl.hostname === 'apply.workable.com') {
-        url = parsedUrl.href;
-      } else {
-        continue;
-      }
+      const hit = provider.detect(company);
+      if (hit) return provider;
     } catch {
-      continue;
+      // Ignore detection errors
     }
-
-    jobs.push({ title, url, location, company: companyName });
   }
-  return jobs;
+  return null;
 }
 
 // 2027 North America Internship Filter (modified to accept any open season/year)
@@ -205,113 +55,15 @@ function is2027NorthAmericaInternship(job) {
   const isIntern = /\bintern(ship)?s?\b|\bco-?op\b|\bcoop\b|\bstudent\b|\bfellow\b/i.test(title);
   if (!isIntern) return false;
 
-  // 2. Location Check (North America or Remote)
-  const isNorthAmerica = /united states|usa|\bus\b|canada|remote/i.test(location) || 
+  // 2. Location Check (North America or Remote).
+  // Keep roles with no location or "Multiple Locations" — many Workday boards omit a
+  // specific city, and dropping them silently hides real internships.
+  const isUnknownLocation = !location.trim() || /multiple locations/i.test(location);
+  const isNorthAmerica = /united states|usa|\bus\b|canada|remote/i.test(location) ||
                          /toronto|waterloo|vancouver|montreal|ottawa|calgary|edmonton|winnipeg|san francisco|new york|seattle|boston|chicago|austin|palo alto|mountain view|sunnyvale|los angeles|denver|atlanta|dallas|houston/i.test(location);
-  if (!isNorthAmerica) return false;
+  if (!isNorthAmerica && !isUnknownLocation) return false;
 
   return true;
-}
-
-// Fetch helper with timeout
-async function fetchWithTimeout(url, options = {}, timeout = 10000) {
-  const controller = new AbortController();
-  const id = setTimeout(() => controller.abort(), timeout);
-  try {
-    const response = await fetch(url, { ...options, signal: controller.signal });
-    clearTimeout(id);
-    return response;
-  } catch (error) {
-    clearTimeout(id);
-    throw error;
-  }
-}
-
-// Workday session initiator + POST request runner
-async function fetchWorkdayWithSession(landingUrl, apiEndpoint, timeout = 10000) {
-  let currentUrl = landingUrl;
-  let cookiesMap = new Map();
-  let csrfToken = null;
-  let redirectCount = 0;
-
-  // 1. GET request with manual redirect handling to collect all cookies and the CSRF token
-  while (redirectCount < 5) {
-    const headers = {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-      'Accept-Language': 'en-US,en;q=0.9',
-    };
-    
-    if (cookiesMap.size > 0) {
-      const cookieStr = Array.from(cookiesMap.entries()).map(([k, v]) => `${k}=${v}`).join('; ');
-      headers['Cookie'] = cookieStr;
-    }
-
-    const res = await fetchWithTimeout(currentUrl, {
-      method: 'GET',
-      headers: headers,
-      redirect: 'manual'
-    }, timeout);
-
-    // Extract cookies
-    let setCookies = [];
-    if (typeof res.headers.getSetCookie === 'function') {
-      setCookies = res.headers.getSetCookie();
-    } else if (res.headers.raw && res.headers.raw()['set-cookie']) {
-      setCookies = res.headers.raw()['set-cookie'];
-    } else {
-      const cookieHeader = res.headers.get('set-cookie');
-      if (cookieHeader) setCookies = cookieHeader.split(/,\s*/);
-    }
-
-    for (const cookie of setCookies) {
-      const parts = cookie.split(';')[0].split('=');
-      if (parts.length >= 2) {
-        const key = parts[0].trim();
-        const val = parts.slice(1).join('=').trim();
-        cookiesMap.set(key, val);
-      }
-    }
-
-    // Extract CSRF token
-    const token = res.headers.get('x-calypso-csrf-token');
-    if (token) csrfToken = token;
-
-    if (res.status >= 300 && res.status < 400) {
-      let location = res.headers.get('location');
-      if (!location) break;
-      if (location.startsWith('/')) {
-        const parsedUrl = new URL(currentUrl);
-        location = `${parsedUrl.protocol}//${parsedUrl.host}${location}`;
-      }
-      currentUrl = location;
-      redirectCount++;
-    } else {
-      break;
-    }
-  }
-
-  const cookieStr = Array.from(cookiesMap.entries()).map(([k, v]) => `${k}=${v}`).join('; ');
-
-  // 2. POST request to jobs endpoint
-  const postHeaders = {
-    'content-type': 'application/json',
-    'accept': 'application/json',
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'accept-language': 'en-US,en;q=0.9',
-  };
-  if (csrfToken) {
-    postHeaders['x-calypso-csrf-token'] = csrfToken;
-  }
-  if (cookieStr) {
-    postHeaders['Cookie'] = cookieStr;
-  }
-
-  return fetchWithTimeout(apiEndpoint, {
-    method: 'POST',
-    body: JSON.stringify({ "appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "" }),
-    headers: postHeaders
-  }, timeout);
 }
 
 // Concurrency queue
@@ -334,7 +86,7 @@ async function runConcurrent(tasks, limit) {
 
 async function main() {
   try {
-    console.log("Starting 2027 North America Internship Scraper...");
+    console.log("Starting 2027 North America Internship Scraper (using modular providers)...");
 
     // Load companies
     if (!fs.existsSync(COMPANIES_PATH)) {
@@ -352,45 +104,28 @@ async function main() {
 
     const activeJobs = [];
     const scannedCompanies = new Set();
+    const ctx = makeHttpCtx();
 
     // Build scraping tasks
     const tasks = companies.map(company => async () => {
-      const apiInfo = detectApi(company);
-      if (!apiInfo) return;
+      const provider = detectProvider(company);
+      if (!provider) {
+        console.warn(`[WARN] Skipping ${company.name}: no provider matched careers_url or api.`);
+        return;
+      }
 
       try {
-        let parsed = [];
-        if (apiInfo.type === 'workable') {
-          const res = await fetchWithTimeout(apiInfo.url, {}, 10000);
-          if (!res.ok) {
-            console.warn(`[WARN] Failed to fetch ${company.name}: HTTP ${res.status}`);
-            return;
-          }
-          const text = await res.text();
-          parsed = parseWorkableMarkdown(text, company.name);
-        } else if (apiInfo.type === 'workday') {
-          const res = await fetchWorkdayWithSession(apiInfo.meta.landingUrl, apiInfo.url, 10000);
-          if (!res.ok) {
-            console.warn(`[WARN] Failed to fetch ${company.name}: HTTP ${res.status}`);
-            return;
-          }
-          const json = await res.json();
-          parsed = parseJobs(apiInfo.type, json, company.name, apiInfo.meta);
-        } else {
-          const res = await fetchWithTimeout(apiInfo.url, {}, 10000);
-          if (!res.ok) {
-            console.warn(`[WARN] Failed to fetch ${company.name}: HTTP ${res.status}`);
-            return;
-          }
-          const json = await res.json();
-          parsed = parseJobs(apiInfo.type, json, company.name, apiInfo.meta);
-        }
-
-        const filtered = parsed.filter(is2027NorthAmericaInternship);
+        const parsed = await provider.fetch(company, ctx);
+        const filtered = parsed.map(j => ({
+          title: j.title || '',
+          url: j.url || '',
+          company: company.name,
+          location: j.location || 'Canada',
+        })).filter(is2027NorthAmericaInternship);
 
         activeJobs.push(...filtered);
         scannedCompanies.add(company.name);
-        console.log(`[SUCCESS] Scanned ${company.name} — found ${filtered.length} matching 2027 roles.`);
+        console.log(`[SUCCESS] Scanned ${company.name} via ${provider.id} — found ${filtered.length} matching roles.`);
       } catch (err) {
         console.warn(`[ERROR] Scanning ${company.name} failed: ${err.message}`);
       }
@@ -475,12 +210,17 @@ function generateREADME(jobs, dateStr) {
     ? closedJobs.map(j => `| **${j.company}** | ${j.title} | \`${j.location}\` | 🔴 Closed | [Link ↗](${j.url}) | ${j.date_added} |`).join('\n')
     : '| - | *No closed postings yet.* | - | - | - | - |';
 
-  const content = `# 🍁 2027 North America Internships & Co-ops
+  const content = `# 🍁 North America Tech Internships & Co-ops (Rolling)
 
-Automated repository tracking Software Engineering, Data Science, Product, and AI/ML internships & co-ops in North America for **2027** (Winter, Summer, Fall).
+[![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
+[![Active Postings](https://img.shields.io/badge/active%20postings-${activeJobs.length}-green?style=flat-square)](#-active-postings-${activeJobs.length})
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-${dateStr}-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
-> 🤖 **Automated Tracker:** This list is updated automatically every 12 hours using GitHub Actions.
-> 📅 **Last Scanned:** \`${dateStr}\`
+An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
+
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, and SmartRecruiters job boards for **150+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 💡 **Search Tip:** Press \`⌘+F\` or \`Ctrl+F\` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
 
@@ -520,7 +260,7 @@ ${closedTable}
 ---
 
 ## 🛠️ How it Works
-This repository uses a zero-token scraper script ([crawl.js](./crawl.js)) that hits Greenhouse, Lever, Ashby, and SmartRecruiters APIs directly for **150+ North American employers**.
+This repository uses the same robust, zero-token scraper engine as [career-ops](https://github.com/santifer/career-ops) to query Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable, and Workday APIs directly for **150+ North American employers**.
 
 ### Run locally
 \`\`\`bash
@@ -530,10 +270,11 @@ node crawl.js
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Requesting Companies
 Want to add a company or a missing job board? 
-1. Open a PR modifying [companies.json](./companies.json).
-2. The GitHub action will automatically pick it up and scan it on the next run.
+1. Fork this repository.
+2. Add the company metadata to [companies.json](./companies.json).
+3. Open a Pull Request. The GitHub Action will automatically scan the new company within 12 hours.
 
 *Star the repository to stay updated! ⭐*
 `;

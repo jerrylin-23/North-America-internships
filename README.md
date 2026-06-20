@@ -1,16 +1,32 @@
-# 🍁 2027 North America Internships & Co-ops
+# 🍁 North America Tech Internships & Co-ops (Rolling)
 
-Automated repository tracking Software Engineering, Data Science, Product, and AI/ML internships & co-ops in North America for **2027** (Winter, Summer, Fall).
+[![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
+[![Active Postings](https://img.shields.io/badge/active%20postings-47-green?style=flat-square)](#-active-postings-47)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-06-20-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
-> 🤖 **Automated Tracker:** This list is updated automatically every 12 hours using GitHub Actions.
-> 📅 **Last Scanned:** `2026-06-20`
+An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
+
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, and SmartRecruiters job boards for **150+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 💡 **Search Tip:** Press `⌘+F` or `Ctrl+F` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
 
-## 📈 Active Postings (36)
+## 📈 Active Postings (47)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **BMO** | Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Transaction-Coordinator--Corporate-Real-Estate---Fall-2026--Co-op-Internship----4-Months_R260017904) | 2026-06-20 |
+| **BMO** | Corporate Real Estate Workplace Services  - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Corporate-Real-Estate-Workplace-Services----Fall-2026--Co-op-Internship----4-Months_R260018014) | 2026-06-20 |
+| **BMO** | Data Engineer, Fall 2026 (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1) | 2026-06-20 |
+| **BMO** | Actuarial Analyst, Pricing (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Actuarial-Analyst--Pricing--Co-op-Internship----4-months_R260014092) | 2026-06-20 |
+| **BMO** | Private Wealth Administrative Assistant - Ottawa, Fall 2026 (Co-op/Internship) - 4 months | `Ottawa, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Private-Wealth-Administrative-Assistant---Ottawa--Fall-2026--Co-op-Internship----4-months_R260017848) | 2026-06-20 |
+| **BMO** | Private Wealth Administrative Assistant - Waterloo, Fall 2026 (Co-op/Internship) - 4 months | `Waterloo, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant---Waterloo--Fall-2026--Co-op-Internship----4-months_R260017845) | 2026-06-20 |
+| **BMO** | Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803) | 2026-06-20 |
+| **BMO** | Systems Administrator, Fall 2026 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator--Fall-2026--Co-op-Internship----8-months_R260017635-1) | 2026-06-20 |
+| **BMO** | Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124) | 2026-06-20 |
+| **BMO** | Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst-Internship--Fall-2026--4-Months---Toronto--CA_R260017405-2) | 2026-06-20 |
+| **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Ansatz Capital** | Internship (No intern program at this time) | `New York` | 🟢 Active | [Apply ↗](https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7) | 2026-06-17 |
 | **Cohere** | Software Engineer Intern (Fall / Winter 2026) | `Canada, United States` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 2026-06-17 |
 | **Cohere** | Research Internship (Fall, 2026) | `Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-17 |
@@ -84,7 +100,7 @@ Major tech, quant, and finance year-round application portals:
 ---
 
 ## 🛠️ How it Works
-This repository uses a zero-token scraper script ([crawl.js](./crawl.js)) that hits Greenhouse, Lever, Ashby, and SmartRecruiters APIs directly for **150+ North American employers**.
+This repository uses the same robust, zero-token scraper engine as [career-ops](https://github.com/santifer/career-ops) to query Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable, and Workday APIs directly for **150+ North American employers**.
 
 ### Run locally
 ```bash
@@ -94,9 +110,10 @@ node crawl.js
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Requesting Companies
 Want to add a company or a missing job board? 
-1. Open a PR modifying [companies.json](./companies.json).
-2. The GitHub action will automatically pick it up and scan it on the next run.
+1. Fork this repository.
+2. Add the company metadata to [companies.json](./companies.json).
+3. Open a Pull Request. The GitHub Action will automatically scan the new company within 12 hours.
 
 *Star the repository to stay updated! ⭐*
