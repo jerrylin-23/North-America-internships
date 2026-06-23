@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-45-green?style=flat-square)](#-active-postings-45)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-06-22-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-46-green?style=flat-square)](#-active-postings-46)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-06-23-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,11 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (45)
+## 📈 Active Postings (46)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **BMO** | Derivative Ops Analyst, Fall 2026 (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Derivative-Ops-Analyst--Fall-2026--Co-op-Internship----4-months_R260018669) | 2026-06-23 |
 | **BMO** | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622) | 2026-06-22 |
 | **BMO** | Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Transaction-Coordinator--Corporate-Real-Estate---Fall-2026--Co-op-Internship----4-Months_R260017904) | 2026-06-20 |
 | **BMO** | Corporate Real Estate Workplace Services  - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Corporate-Real-Estate-Workplace-Services----Fall-2026--Co-op-Internship----4-Months_R260018014) | 2026-06-20 |
