@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-47-green?style=flat-square)](#-active-postings-47)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-06-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-46-green?style=flat-square)](#-active-postings-46)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-06-26-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (47)
+## 📈 Active Postings (46)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -54,7 +54,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Scale AI** | SWE Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689954005) | 2026-06-17 |
 | **Scale AI** | SWE Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | 2026-06-17 |
 | **Scale AI** | Technical Advisor Specialist (Part-Time Internship)  | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-06-17 |
-| **StackAdapt** | People Operations Intern (Fall 2026) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4280872009) | 2026-06-17 |
 | **Stripe** | PhD Data Scientist, Intern | `Toronto, Ontario, Canada` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7285974) | 2026-06-17 |
 | **Stripe** | Privacy Fellow | `Seattle, WA; San Francisco, CA` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7834218) | 2026-06-17 |
 | **Verkada** | Backend Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 2026-06-17 |
@@ -85,7 +84,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (13)
+## 🔒 Closed Postings (14)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -97,6 +96,7 @@ Major tech, quant, and finance year-round application portals:
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
 | **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
 | **Squarepoint Capital** | Intern Software Developer - Fall 2026 | `Montreal` | 🔴 Closed | [Link ↗](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 2026-06-17 |
+| **StackAdapt** | People Operations Intern (Fall 2026) | `Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4280872009) | 2026-06-17 |
 | **Tower Research Capital** | Quantitative Trader Intern (PhD 2026) | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 2026-06-17 |
 | **Tower Research Capital** | Quantitative Researcher Intern | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 2026-06-17 |
 | **Tower Research Capital** | Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026) | `Montreal` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 2026-06-17 |
