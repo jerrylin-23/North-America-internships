@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-47-green?style=flat-square)](#-active-postings-47)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-02-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-45-green?style=flat-square)](#-active-postings-45)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-03-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,11 +12,10 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (47)
+## 📈 Active Postings (45)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
-| **TD Bank** | Actuarial Intern / Co-Op - Preferred Candidate | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Intern---Co-Op_R_1496340) | 2026-07-01 |
 | **Palantir** | Privacy and Civil Liberties Software Engineer, Internship | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) | 2026-06-30 |
 | **Toast** | MBA Intern - AI Ops Transformation | `Boston, MA` | 🟢 Active | [Apply ↗](https://careers.toasttab.com/jobs?gh_jid=7909139) | 2026-06-30 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | 2026-06-29 |
@@ -58,7 +57,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Scale AI** | SWE Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | 2026-06-17 |
 | **Scale AI** | Technical Advisor Specialist (Part-Time Internship)  | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 2026-06-17 |
 | **Stripe** | Privacy Fellow | `Seattle, WA; San Francisco, CA` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7834218) | 2026-06-17 |
-| **Verkada** | Backend Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 2026-06-17 |
 | **Verkada** | Hardware Engineer (Fall Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | 2026-06-17 |
 | **Verkada** | Technical Support Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5017082007) | 2026-06-17 |
 | **Aquatic Capital Management** | Quantitative Researcher, Intern (Summer 2027)  | `Chicago; London` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 2026-06-13 |
@@ -85,10 +83,11 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (24)
+## 🔒 Closed Postings (26)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **TD Bank** | Actuarial Intern / Co-Op - Preferred Candidate | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Intern---Co-Op_R_1496340) | 2026-07-01 |
 | **TD Bank** | Business Management Analyst Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Management-Analyst-Intern-Co-op--Fall-2026-_R_1481051) | 2026-06-25 |
 | **BMO** | Data Engineer, Fall 2026 (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1) | 2026-06-20 |
 | **BMO** | Actuarial Analyst, Pricing (Co-op/Internship) - 4 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Actuarial-Analyst--Pricing--Co-op-Internship----4-months_R260014092) | 2026-06-20 |
@@ -110,6 +109,7 @@ Major tech, quant, and finance year-round application portals:
 | **Tower Research Capital** | Quantitative Trader Intern (PhD 2026) | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 2026-06-17 |
 | **Tower Research Capital** | Quantitative Researcher Intern | `New York` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 2026-06-17 |
 | **Tower Research Capital** | Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026) | `Montreal` | 🔴 Closed | [Link ↗](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 2026-06-17 |
+| **Verkada** | Backend Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 2026-06-17 |
 | **Verkada** | Frontend Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 2026-06-17 |
 | **Verkada** | AI Software Engineering Intern - Fall 2026 | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5117760007) | 2026-06-17 |
 | **Visier** | Software Developer Co-op | `Vancouver, BC, Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) | 2026-06-17 |

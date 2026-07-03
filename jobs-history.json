@@ -1,13 +1,5 @@
 [
   {
-    "title": "Actuarial Intern / Co-Op - Preferred Candidate",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Intern---Co-Op_R_1496340",
-    "company": "TD Bank",
-    "location": "Toronto, Ontario",
-    "status": "Active",
-    "date_added": "2026-07-01"
-  },
-  {
     "title": "Privacy and Civil Liberties Software Engineer, Internship",
     "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b",
     "company": "Palantir",
@@ -336,14 +328,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Backend Software Engineering Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Hardware Engineer (Fall Co-op)",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
     "company": "Verkada",
@@ -374,6 +358,14 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Actuarial Intern / Co-Op - Preferred Candidate",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Intern---Co-Op_R_1496340",
+    "company": "TD Bank",
+    "location": "Toronto, Ontario",
+    "status": "Closed",
+    "date_added": "2026-07-01"
   },
   {
     "title": "Business Management Analyst Intern/Co-op (Fall 2026) Preferred Candidate",
@@ -540,6 +532,14 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
     "company": "Tower Research Capital",
     "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Backend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
