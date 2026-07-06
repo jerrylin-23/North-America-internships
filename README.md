@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-44-green?style=flat-square)](#-active-postings-44)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-05-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-47-green?style=flat-square)](#-active-postings-47)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-06-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,13 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (44)
+## 📈 Active Postings (47)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Tower Research Capital** | Quantitative Developer Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 2026-07-06 |
+| **Tower Research Capital** | Quantitative Trader Intern, PhD | `New York` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 2026-07-06 |
+| **Tower Research Capital** | Quantitative Trader Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 2026-07-06 |
 | **Palantir** | Privacy and Civil Liberties Software Engineer, Internship | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) | 2026-06-30 |
 | **Toast** | MBA Intern - AI Ops Transformation | `Boston, MA` | 🟢 Active | [Apply ↗](https://careers.toasttab.com/jobs?gh_jid=7909139) | 2026-06-30 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | 2026-06-29 |
