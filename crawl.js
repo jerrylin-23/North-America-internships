@@ -10,6 +10,8 @@ import smartrecruiters from './providers/smartrecruiters.mjs';
 import recruitee from './providers/recruitee.mjs';
 import workday from './providers/workday.mjs';
 import workable from './providers/workable.mjs';
+import amazon from './providers/amazon.mjs';
+import eightfold from './providers/eightfold.mjs';
 
 const COMPANIES_PATH = './companies.json';
 const HISTORY_PATH = './jobs-history.json';
@@ -25,6 +27,8 @@ const providers = {
   recruitee,
   workday,
   workable,
+  amazon,
+  eightfold,
 };
 
 // API / Provider Detection Logic
@@ -58,7 +62,9 @@ function is2027NorthAmericaInternship(job) {
   // 2. Location Check (North America or Remote).
   // Keep roles with no location or "Multiple Locations" — many Workday boards omit a
   // specific city, and dropping them silently hides real internships.
-  const isUnknownLocation = !location.trim() || /multiple locations/i.test(location);
+  // Keep postings with no usable city — Workday collapses multi-city roles into
+  // "Multiple Locations" or "N Locations", which routinely include NA offices.
+  const isUnknownLocation = !location.trim() || /multiple locations|\d+\s+locations?/i.test(location);
   const isNorthAmerica = /united states|usa|\bus\b|canada|remote/i.test(location) ||
                          /toronto|waterloo|vancouver|montreal|ottawa|calgary|edmonton|winnipeg|san francisco|new york|seattle|boston|chicago|austin|palo alto|mountain view|sunnyvale|los angeles|denver|atlanta|dallas|houston/i.test(location);
   if (!isNorthAmerica && !isUnknownLocation) return false;
@@ -219,7 +225,7 @@ function generateREADME(jobs, dateStr) {
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
 
-> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, and SmartRecruiters job boards for **150+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Amazon, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
 > 💡 **Search Tip:** Press \`⌘+F\` or \`Ctrl+F\` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
@@ -260,7 +266,7 @@ ${closedTable}
 ---
 
 ## 🛠️ How it Works
-This repository uses the same robust, zero-token scraper engine as [career-ops](https://github.com/santifer/career-ops) to query Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable, and Workday APIs directly for **150+ North American employers**.
+This repository uses the same robust, zero-token scraper engine as [career-ops](https://github.com/santifer/career-ops) to query Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable, and Workday APIs directly for **200+ North American employers**.
 
 ### Run locally
 \`\`\`bash

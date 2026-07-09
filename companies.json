@@ -79,7 +79,7 @@
   },
   {
     "name": "OpenAI",
-    "careers_url": "https://openai.com/careers",
+    "careers_url": "https://jobs.ashbyhq.com/openai",
     "api": "",
     "enabled": true
   },
@@ -1094,6 +1094,121 @@
   {
     "name": "Manulife",
     "careers_url": "https://manulife.wd3.myworkdayjobs.com/MFCExternal",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Amazon",
+    "careers_url": "https://www.amazon.jobs",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "NVIDIA",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Netflix",
+    "careers_url": "https://explore.jobs.netflix.net/careers",
+    "domain": "netflix.com",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Salesforce",
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Adobe",
+    "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Intel",
+    "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Autodesk",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "HPE",
+    "careers_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
+    "query": "intern",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Coinbase",
+    "careers_url": "https://job-boards.greenhouse.io/coinbase",
+    "api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Airbnb",
+    "careers_url": "https://job-boards.greenhouse.io/airbnb",
+    "api": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Lyft",
+    "careers_url": "https://job-boards.greenhouse.io/lyft",
+    "api": "https://boards-api.greenhouse.io/v1/boards/lyft/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Instacart",
+    "careers_url": "https://job-boards.greenhouse.io/instacart",
+    "api": "https://boards-api.greenhouse.io/v1/boards/instacart/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Reddit",
+    "careers_url": "https://job-boards.greenhouse.io/reddit",
+    "api": "https://boards-api.greenhouse.io/v1/boards/reddit/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Twilio",
+    "careers_url": "https://job-boards.greenhouse.io/twilio",
+    "api": "https://boards-api.greenhouse.io/v1/boards/twilio/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Elastic",
+    "careers_url": "https://job-boards.greenhouse.io/elastic",
+    "api": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Roblox",
+    "careers_url": "https://job-boards.greenhouse.io/roblox",
+    "api": "https://boards-api.greenhouse.io/v1/boards/roblox/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Block",
+    "careers_url": "https://job-boards.greenhouse.io/block",
+    "api": "https://boards-api.greenhouse.io/v1/boards/block/jobs",
+    "enabled": true
+  },
+  {
+    "name": "Vanta",
+    "careers_url": "https://jobs.ashbyhq.com/vanta",
     "api": "",
     "enabled": true
   }
