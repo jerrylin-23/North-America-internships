@@ -50,12 +50,17 @@ export default {
     const ep = resolveEndpoint(entry);
     if (!ep) throw new Error(`workday: cannot derive CXS endpoint for ${entry.name}`);
 
+    // Large Workday tenants (thousands of postings) overflow the MAX_PAGES cap,
+    // so their internships can fall outside the fetched window. Such entries can
+    // set `query` to narrow server-side (e.g. "intern"). Defaults to '' (all).
+    const searchText = entry.query || '';
+
     const jobs = [];
     for (let page = 0; page < MAX_PAGES; page++) {
       const body = JSON.stringify({
         limit: PAGE_SIZE,
         offset: page * PAGE_SIZE,
-        searchText: '',
+        searchText,
         appliedFacets: {},
       });
       const json = await ctx.fetchJson(ep.api, {

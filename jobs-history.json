@@ -1,81 +1,793 @@
 [
   {
-    "title": "Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Transaction-Coordinator--Corporate-Real-Estate---Fall-2026--Co-op-Internship----4-Months_R260017904",
+    "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Intern - Research Scientist/Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
+    "company": "Adobe",
+    "location": "7 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Manager, Global Intern Evaluations & Offboarding Experience, Amazon University Talent Acquisition (AUTA)",
+    "url": "https://www.amazon.jobs/en/jobs/10448299/manager-global-intern-evaluations-offboarding-experience-amazon-university-talent-acquisition-auta",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2027 Tax Intern (Summer Internship)",
+    "url": "https://www.amazon.jobs/en/jobs/10435122/2027-tax-intern-summer-internship",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Public Policy Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10435114/public-policy-intern",
+    "company": "Amazon",
+    "location": "Arlington, Virginia, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2027 Amazon Finance Rotation Program - Business Unit Finance Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10435672/2027-amazon-finance-rotation-program-business-unit-finance-intern",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2027 Amazon Operations Finance Rotational Program Summer Internship",
+    "url": "https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2027 Amazon Finance Rotation Program - Accounting Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10435671/2027-amazon-finance-rotation-program-accounting-intern",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
+    "company": "Amazon",
+    "location": "Jeffersonville, Ohio, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Hardware Development Engineer Co-op (FALL)",
+    "url": "https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "company": "Amazon",
+    "location": "Sunnyvale, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Vancouver, British Columbia, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Fall Research Science Internship - United States, PhD Student Science Recruiting ",
+    "url": "https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+    "url": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing",
+    "url": "https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing",
+    "company": "Amazon",
+    "location": "Pasadena, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Internship - Fall 2026 (Canada)",
+    "url": "https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada",
+    "company": "Amazon",
+    "location": "Vancouver, British Columbia, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Fall Intern - Military Veteran",
+    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Industrial Designer Co-op",
+    "url": "https://www.amazon.jobs/en/jobs/3176568/industrial-designer-co-op",
+    "company": "Amazon",
+    "location": "Bellevue, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+    "url": "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
+    "company": "Amazon",
+    "location": "Westboro, Wisconsin, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
+    "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
+    "company": "Amazon",
+    "location": "Toronto, Ontario, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+    "company": "Amazon",
+    "location": "Westboro, Wisconsin, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Network Development Engineer Intern - Fall 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
+    "company": "Amazon",
+    "location": "Cupertino, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
+    "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+    "url": "https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
+    "company": "Amazon",
+    "location": "San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+    "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+    "company": "Amazon",
+    "location": "San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Internship - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+    "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Loss Prevention Specialist Intern 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3094856/loss-prevention-specialist-intern-2026",
+    "company": "Amazon",
+    "location": "Stockton, California, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain",
+    "url": "https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern, Content Management",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern, Machine Learning Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Intern, HCI & Visualization Research",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2",
+    "company": "Autodesk",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern, AI in Design & Manufacturing",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900",
+    "company": "Autodesk",
+    "location": "AMER - Canada - Ontario - Toronto - University Ave",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
+    "company": "Autodesk",
+    "location": "Quebec, CAN - Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+    "company": "Autodesk",
+    "location": "Quebec, CAN - Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+    "company": "Block",
+    "location": "Toronto, Ontario , Canada",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
     "status": "Active",
-    "date_added": "2026-06-20"
+    "date_added": "2026-07-09"
   },
   {
-    "title": "Corporate Real Estate Workplace Services  - Fall 2026 (Co-op/Internship) - 4 Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Corporate-Real-Estate-Workplace-Services----Fall-2026--Co-op-Internship----4-Months_R260018014",
+    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
     "status": "Active",
-    "date_added": "2026-06-20"
+    "date_added": "2026-07-09"
   },
   {
-    "title": "Data Engineer, Fall 2026 (Co-op/Internship) - 4 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1",
+    "title": "Administrative Assistant Intern (Co-op/Internship), Fall 2026, Montreal - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Administrative-Assistant-Intern--Co-op-Internship---Fall-2026--Montreal---4-months_R260018871",
     "company": "BMO",
-    "location": "Toronto, ON, CAN",
+    "location": "MONTREAL, QC, CAN",
     "status": "Active",
-    "date_added": "2026-06-20"
+    "date_added": "2026-07-09"
   },
   {
-    "title": "Actuarial Analyst, Pricing (Co-op/Internship) - 4 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Actuarial-Analyst--Pricing--Co-op-Internship----4-months_R260014092",
+    "title": "Private Wealth Administrative Assistant - Belleville - Peterborough, Fall 2026 (Co-op/Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Belleville-ON-CAN/Private-Wealth-Administrative-Assistant---Belleville---Peterborough--Fall-2026--Co-op-Internship----4-months_R260018806",
     "company": "BMO",
-    "location": "Toronto, ON, CAN",
+    "location": "2 Locations",
     "status": "Active",
-    "date_added": "2026-06-20"
+    "date_added": "2026-07-09"
   },
   {
-    "title": "Private Wealth Administrative Assistant - Ottawa, Fall 2026 (Co-op/Internship) - 4 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Private-Wealth-Administrative-Assistant---Ottawa--Fall-2026--Co-op-Internship----4-months_R260017848",
-    "company": "BMO",
-    "location": "Ottawa, ON, CAN",
+    "title": "Business Development Intern - Spanish Speaker",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Business-Development-Intern_1207200-1",
+    "company": "HPE",
+    "location": "2 Locations",
     "status": "Active",
-    "date_added": "2026-06-20"
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "HPE Labs - EMEA Research Lab Ph.D. Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380",
+    "company": "HPE",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "DualStudy by HPE Student (m/w/d)",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Berlin-Berlin-Germany/DualStudy-by-HPE-Student--m-w-d-_1208958",
+    "company": "HPE",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Machine Learning Engineer, PhD Intern (Fall)",
+    "url": "https://instacart.careers/job/?gh_jid=5917202",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Machine Learning PhD Intern, Economics (Fall)",
+    "url": "https://instacart.careers/job/?gh_jid=7532267",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "DTCO Data Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "company": "Intel",
+    "location": "US, Texas, Austin",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Retail Sales and Marketing Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Analog Circuit Design Engineer (Graduate Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "CPU-SoC Silicon Design Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus AI Research Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus AI Research Engineer – Research Automation (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Data Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus FPGA Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Quantitative Researcher, PhD (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8049938",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Quantitative Trader (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Software Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus Systems Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Campus UI Software Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
+    "url": "https://explore.jobs.netflix.net/careers/job/790316547536",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
+    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "company": "NVIDIA",
+    "location": "US, MO, St. Louis",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Applied Research Intern, NLP - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Java Engineering Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineering Intern, JAX - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantum Research Scientist Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
+    "company": "NVIDIA",
+    "location": "US, CA, Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317",
+    "company": "NVIDIA",
+    "location": "US, CA, Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantum Error Correction Research Scientist Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628",
+    "company": "NVIDIA",
+    "location": "US, CA, Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, Generative AI - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Solution Architecture Intern, AI in Industry - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186",
+    "company": "NVIDIA",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
+    "company": "NVIDIA",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Privacy and Civil Liberties Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+    "company": "Palantir",
+    "location": "Denver, CO",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer, Internship - Defense Tech",
+    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer, Internship - Infrastructure",
+    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "company": "Palantir",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Wealth Management Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boulder-Colorado-United-States-of-America/Wealth-Management-Intern_R-0000175466-1",
+    "company": "RBC",
+    "location": "Boulder, Colorado, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Rochester-New-York-United-States-of-America/Intern_R-0000178588-1",
+    "company": "RBC",
+    "location": "Rochester, New York, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Operations Intern (Fall)",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436",
+    "company": "Squarepoint Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Finance ESG Reporting Co-op/Intern Fall 2026",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Finance-ESG-Reporting-Co-op-Intern-Fall-2026_R_1497995-1",
+    "company": "TD Bank",
+    "location": "Toronto, Ontario",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "MBA Intern - AI Ops Transformation",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=7909139",
+    "company": "Toast",
+    "location": "Boston, MA",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantitative Developer Intern - Summer 2027",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "company": "Tower Research Capital",
+    "location": "New York, Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantitative Trader Intern, PhD",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantitative Trader Intern - Summer 2027",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "company": "Tower Research Capital",
+    "location": "New York, Chicago",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Global Sourcing Specialist (Co-op)",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5175755007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-07-09"
   },
   {
     "title": "Private Wealth Administrative Assistant - Waterloo, Fall 2026 (Co-op/Internship) - 4 months",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant---Waterloo--Fall-2026--Co-op-Internship----4-months_R260017845",
     "company": "BMO",
     "location": "Waterloo, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-06-20"
-  },
-  {
-    "title": "Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-06-20"
-  },
-  {
-    "title": "Systems Administrator, Fall 2026 (Co-op/Internship) - 8 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator--Fall-2026--Co-op-Internship----8-months_R260017635-1",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-06-20"
-  },
-  {
-    "title": "Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-06-20"
-  },
-  {
-    "title": "Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst-Internship--Fall-2026--4-Months---Toronto--CA_R260017405-2",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
     "status": "Active",
     "date_added": "2026-06-20"
   },
@@ -288,58 +1000,10 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Intern Software Developer - Fall 2026",
-    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
-    "company": "Squarepoint Capital",
-    "location": "Montreal",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "People Operations Intern (Fall 2026)",
-    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4280872009",
-    "company": "StackAdapt",
-    "location": "Canada",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "PhD Data Scientist, Intern",
-    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-    "company": "Stripe",
-    "location": "Toronto, Ontario, Canada",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Privacy Fellow",
     "url": "https://stripe.com/jobs/search?gh_jid=7834218",
     "company": "Stripe",
     "location": "Seattle, WA; San Francisco, CA",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Quantitative Trader Intern (PhD 2026)",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
-    "company": "Tower Research Capital",
-    "location": "New York",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Backend Software Engineering Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Frontend Software Engineering Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -376,6 +1040,78 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Transaction-Coordinator--Corporate-Real-Estate---Fall-2026--Co-op-Internship----4-Months_R260017904",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Corporate Real Estate Workplace Services  - Fall 2026 (Co-op/Internship) - 4 Months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Corporate-Real-Estate-Workplace-Services----Fall-2026--Co-op-Internship----4-Months_R260018014",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Data Engineer, Fall 2026 (Co-op/Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Actuarial Analyst, Pricing (Co-op/Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Actuarial-Analyst--Pricing--Co-op-Internship----4-months_R260014092",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Private Wealth Administrative Assistant - Ottawa, Fall 2026 (Co-op/Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Private-Wealth-Administrative-Assistant---Ottawa--Fall-2026--Co-op-Internship----4-months_R260017848",
+    "company": "BMO",
+    "location": "Ottawa, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Systems Administrator, Fall 2026 (Co-op/Internship) - 8 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator--Fall-2026--Co-op-Internship----8-months_R260017635-1",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
+    "title": "Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst-Internship--Fall-2026--4-Months---Toronto--CA_R260017405-2",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-06-20"
+  },
+  {
     "title": "Co-op/Intern, Product Management - Summer 2026",
     "url": "https://careers.hootsuite.com/job/?gh_jid=7942387",
     "company": "Hootsuite",
@@ -400,6 +1136,38 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "Intern Software Developer - Fall 2026",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+    "company": "Squarepoint Capital",
+    "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "People Operations Intern (Fall 2026)",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4280872009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+    "company": "Stripe",
+    "location": "Toronto, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Quantitative Trader Intern (PhD 2026)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Quantitative Researcher Intern",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=7238472",
     "company": "Tower Research Capital",
@@ -412,6 +1180,22 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
     "company": "Tower Research Capital",
     "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Backend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Frontend Software Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
