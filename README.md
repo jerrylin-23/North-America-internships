@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-49-green?style=flat-square)](#-active-postings-49)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-08-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-62-green?style=flat-square)](#-active-postings-62)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-09-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,22 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (49)
+## 📈 Active Postings (62)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-07-09 |
+| **Jump Trading** | Campus AI Research Engineer (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 2026-07-09 |
+| **Jump Trading** | Campus AI Research Engineer – Research Automation (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 2026-07-09 |
+| **Jump Trading** | Campus Data Engineer (Intern) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8002998) | 2026-07-09 |
+| **Jump Trading** | Campus FPGA Engineer (Intern) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8003013) | 2026-07-09 |
+| **Jump Trading** | Campus Quantitative Researcher, PhD (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8049938) | 2026-07-09 |
+| **Jump Trading** | Campus Quantitative Researcher, UG/MS (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 2026-07-09 |
+| **Jump Trading** | Campus Quantitative Trader (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7848371) | 2026-07-09 |
+| **Jump Trading** | Campus Software Engineer (Intern) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8002989) | 2026-07-09 |
+| **Jump Trading** | Campus Systems Engineer (Intern) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8007788) | 2026-07-09 |
+| **Jump Trading** | Campus UI Software Engineer (Intern) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 2026-07-09 |
+| **StackAdapt** | Software Engineer Intern - Fall 2026 | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009) | 2026-07-09 |
 | **BMO** | Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151) | 2026-07-08 |
 | **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-08 |
 | **Squarepoint Capital** | Operations Intern (Fall) | `Montreal` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436) | 2026-07-08 |
@@ -35,6 +47,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Verkada** | Global Sourcing Specialist (Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5175755007) | 2026-06-27 |
 | **BMO** | Administrative Assistant Intern (Co-op/Internship), Fall 2026, Montreal - 4 months | `MONTREAL, QC, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Administrative-Assistant-Intern--Co-op-Internship---Fall-2026--Montreal---4-months_R260018871) | 2026-06-24 |
 | **BMO** | Private Wealth Administrative Assistant - Waterloo, Fall 2026 (Co-op/Internship) - 4 months | `Waterloo, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant---Waterloo--Fall-2026--Co-op-Internship----4-months_R260017845) | 2026-06-20 |
+| **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Ansatz Capital** | Internship (No intern program at this time) | `New York` | 🟢 Active | [Apply ↗](https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7) | 2026-06-17 |
 | **Cohere** | Software Engineer Intern (Fall / Winter 2026) | `Canada, United States` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 2026-06-17 |
 | **Cohere** | Research Internship (Fall, 2026) | `Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-17 |
@@ -87,7 +100,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (30)
+## 🔒 Closed Postings (29)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -107,7 +120,6 @@ Major tech, quant, and finance year-round application portals:
 | **BMO** | Private Wealth Administrative Assistant - Ottawa, Fall 2026 (Co-op/Internship) - 4 months | `Ottawa, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Private-Wealth-Administrative-Assistant---Ottawa--Fall-2026--Co-op-Internship----4-months_R260017848) | 2026-06-20 |
 | **BMO** | Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803) | 2026-06-20 |
 | **BMO** | Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124) | 2026-06-20 |
-| **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Hootsuite** | Co-op/Intern, Product Management - Summer 2026 | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://careers.hootsuite.com/job/?gh_jid=7942387) | 2026-06-17 |
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
 | **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
