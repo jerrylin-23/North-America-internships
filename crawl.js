@@ -50,18 +50,29 @@ function detectProvider(company) {
   return null;
 }
 
-// 2027 North America Internship Filter (modified to accept any open season/year)
-function is2027NorthAmericaInternship(job) {
-  const title = (job.title || '').toLowerCase();
+// Early-career qualifier: internships, co-ops, plus new-grad / entry-level roles.
+const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfellow(ship)?\b|\bnew[-\s]?grad(uate)?\b|\buniversity (graduate|grad|hire)\b|\bearly[-\s]?(career|talent)\b|\bcampus\b|\bapprentice(ship)?\b|\bworking student\b|\bgraduate (program(me)?|scheme|engineer|developer|analyst)\b|\bentry[-\s]?level\b/i;
+
+// Technical role signal — SWE, ML/AI, data, research, systems, security, hardware, quant.
+// Restricts the tracker to engineering/science roles so business internships drop off.
+const TECH_ROLE = /\b(software|swe|sde|develop(er|ment)|programmer|full[-\s]?stack|back[-\s]?end|front[-\s]?end|mobile|ios|android|web dev|devops|sre|site reliability|infrastructure|platform|cloud|distributed|embedded|firmware|hardware|silicon|asic|fpga|vlsi|systems?|robotics|autonom(y|ous)|perception|computer vision|nlp|natural language|machine learning|deep learning|ml|ai|artificial intelligence|data scien(ce|tist)|data engineer|data analy(st|tics)|analytics|research scien(ce|tist)|research engineer|applied scien(ce|tist)|quant(itative)?|security|cyber|cryptograph|blockchain|graphics|compiler|network|engineer(ing)?|comput(er|ing) scien|cs)\b/i;
+
+// Non-technical / business roles to drop even when they trip a tech keyword
+// (e.g. "Business Development", "Sales Engineer", "Financial Data Analyst").
+const BUSINESS_EXCLUDE = /\b(tax|audit|accounting|actuar\w*|wealth|sales|marketing|recruit\w*|human resources|hr|legal|counsel|paralegal|financ\w*|procurement|underwriting|real estate|communications|public relations|administrative|receptionist|talent acquisition|business develop\w*|corporate develop\w*|supply chain|supply planning)\b/i;
+
+// North America tech early-career filter (accepts any open season/year).
+function isTechEarlyCareerNA(job) {
+  const title = job.title || '';
   const location = (job.location || '').toLowerCase();
 
-  // 1. Must be an internship or co-op
-  const isIntern = /\bintern(ship)?s?\b|\bco-?op\b|\bcoop\b|\bstudent\b|\bfellow\b/i.test(title);
-  if (!isIntern) return false;
+  // 1. Must be an early-career role (intern/co-op/new-grad/...) that is technical
+  //    and not a business function.
+  if (!EARLY_CAREER.test(title)) return false;
+  if (!TECH_ROLE.test(title)) return false;
+  if (BUSINESS_EXCLUDE.test(title)) return false;
 
   // 2. Location Check (North America or Remote).
-  // Keep roles with no location or "Multiple Locations" — many Workday boards omit a
-  // specific city, and dropping them silently hides real internships.
   // Keep postings with no usable city — Workday collapses multi-city roles into
   // "Multiple Locations" or "N Locations", which routinely include NA offices.
   const isUnknownLocation = !location.trim() || /multiple locations|\d+\s+locations?/i.test(location);
@@ -127,7 +138,7 @@ async function main() {
           url: j.url || '',
           company: company.name,
           location: j.location || 'Canada',
-        })).filter(is2027NorthAmericaInternship);
+        })).filter(isTechEarlyCareerNA);
 
         activeJobs.push(...filtered);
         scannedCompanies.add(company.name);
