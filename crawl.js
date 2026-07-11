@@ -51,7 +51,7 @@ function detectProvider(company) {
 }
 
 // Early-career qualifier: internships, co-ops, plus new-grad / entry-level roles.
-const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfellow(ship)?\b|\bnew[-\s]?grad(uate)?\b|\buniversity (graduate|grad|hire)\b|\bearly[-\s]?(career|talent)\b|\bcampus\b|\bapprentice(ship)?\b|\bworking student\b|\bgraduate (program(me)?|scheme|engineer|developer|analyst)\b|\bentry[-\s]?level\b/i;
+const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfellow(ship)?\b|\bnew[-\s]?grad(uate)?\b|\buniversity (graduate|grad|hire)\b|\bcampus\b|\bapprentice(ship)?\b|\bworking student\b|\bgraduate (program(me)?|scheme|engineer|developer|analyst)\b|\bentry[-\s]?level\b/i;
 
 // Technical role signal — SWE, ML/AI, data, research, systems, security, hardware, quant.
 // Restricts the tracker to engineering/science roles so business internships drop off.
