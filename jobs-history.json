@@ -1,5 +1,21 @@
 [
   {
+    "title": "New Mexico WPM Manufacturing Technician Internship",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
+    "company": "Intel",
+    "location": "US, New Mexico, Albuquerque",
+    "status": "Active",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-07-11"
+  },
+  {
     "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
     "company": "Adobe",
@@ -60,14 +76,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10435671/2027-amazon-finance-rotation-program-accounting-intern",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
-    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
-    "company": "Amazon",
-    "location": "Jeffersonville, Ohio, USA",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -392,26 +400,10 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "DTCO Data Engineer Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-    "company": "Intel",
-    "location": "US, Texas, Austin",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Retail Sales and Marketing Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "company": "Intel",
     "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Silicon Performance Validation and Characterization Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
-    "company": "Intel",
-    "location": "US, Arizona, Phoenix",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -1038,6 +1030,30 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
+    "company": "Amazon",
+    "location": "Jeffersonville, Ohio, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "DTCO Data Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "company": "Intel",
+    "location": "US, Texas, Austin",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
+    "status": "Closed",
+    "date_added": "2026-07-09"
   },
   {
     "title": "Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months",
