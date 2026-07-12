@@ -2,7 +2,7 @@
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
 [![Active Postings](https://img.shields.io/badge/active%20postings-108-green?style=flat-square)](#-active-postings-108)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-11-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-12-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
