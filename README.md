@@ -16,6 +16,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Intel** | Data Science Student for AI Solutions Group | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916) | 2026-07-13 |
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
@@ -102,7 +103,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Tower Research Capital** | Quantitative Developer Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 2026-07-09 |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | `New York` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 2026-07-09 |
 | **Tower Research Capital** | Quantitative Trader Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 2026-07-09 |
-| **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Cohere** | Software Engineer Intern (Fall / Winter 2026) | `Canada, United States` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 2026-06-17 |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall, 2026) | `Canada, United States, Europe, United Kingdom` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | 2026-06-17 |
 | **Databricks** | PhD GenAI Research Scientist Intern | `San Francisco, California` | 🟢 Active | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | 2026-06-17 |
@@ -146,7 +146,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (80)
+## 🔒 Closed Postings (81)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -208,6 +208,7 @@ Major tech, quant, and finance year-round application portals:
 | **BMO** | Systems Administrator, Fall 2026 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator--Fall-2026--Co-op-Internship----8-months_R260017635-1) | 2026-06-20 |
 | **BMO** | Financial Governance and Controls Analyst, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124) | 2026-06-20 |
 | **BMO** | Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst-Internship--Fall-2026--4-Months---Toronto--CA_R260017405-2) | 2026-06-20 |
+| **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Ansatz Capital** | Internship (No intern program at this time) | `New York` | 🔴 Closed | [Link ↗](https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7) | 2026-06-17 |
 | **Cohere** | Research Internship (Fall, 2026) | `Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-17 |
 | **Glean** | Product Management Intern, Admin Console (Summer 2026) | `Mountain View, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/gleanwork/jobs/4699772005) | 2026-06-17 |
