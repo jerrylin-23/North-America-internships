@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-108-green?style=flat-square)](#-active-postings-108)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-13-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-113-green?style=flat-square)](#-active-postings-113)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-14-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,20 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (108)
+## 📈 Active Postings (113)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Akuna Capital** | Hardware Engineer Intern, Summer 2027 | `Chicago, IL ` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | 2026-07-14 |
+| **Akuna Capital** | Platform Engineer Intern, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | 2026-07-14 |
+| **Akuna Capital** | Quantitative Development & Strategy Intern, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | 2026-07-14 |
+| **Akuna Capital** | Quantitative Research Intern, Summer 2027 | `Chicago, IL ` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer (Entry-Level) - C++ | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer (Entry-Level) - Python | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer Intern - C# .NET Desktop, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer Intern - C++, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer Intern - Full Stack Web, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | 2026-07-14 |
+| **Akuna Capital** | Software Engineer Intern - Python, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | 2026-07-14 |
 | **Intel** | Data Science Student for AI Solutions Group | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916) | 2026-07-13 |
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
@@ -48,7 +58,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Amazon** | Hardware Development Engineer Co-op (FALL) | `Sunnyvale, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 2026-07-09 |
 | **Amazon** | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | `Pasadena, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing) | 2026-07-09 |
-| **Amazon** | Software Development Engineer Internship - Fall 2026 (Canada) | `Vancouver, British Columbia, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Fall Intern - Military Veteran | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | 2026-07-09 |
 | **Amazon** | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | `Westboro, Wisconsin, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | 2026-07-09 |
 | **Amazon** | Robotics - Software Development Engineer Intern - 2026 - Toronto | `Toronto, Ontario, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | 2026-07-09 |
@@ -64,7 +73,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-09 |
 | **Instacart** | Machine Learning Engineer, PhD Intern (Fall) | `United States - Remote` | 🟢 Active | [Apply ↗](https://instacart.careers/job/?gh_jid=5917202) | 2026-07-09 |
 | **Instacart** | Machine Learning PhD Intern, Economics (Fall) | `United States - Remote` | 🟢 Active | [Apply ↗](https://instacart.careers/job/?gh_jid=7532267) | 2026-07-09 |
-| **Intel** | Analog Circuit Design Engineer (Graduate Intern) | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503) | 2026-07-09 |
 | **Intel** | CPU-SoC Silicon Design Engineering Intern | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 2026-07-09 |
@@ -82,11 +90,8 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **NVIDIA** | Performance Engineer Intern, Systems Software-  Fall 2026 | `US, MO, St. Louis` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 2026-07-09 |
 | **NVIDIA** | Applied Research Intern, NLP - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 2026-07-09 |
 | **NVIDIA** | Java Engineering Intern - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 2026-07-09 |
-| **NVIDIA** | Software Engineering Intern, JAX - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 2026-07-09 |
 | **NVIDIA** | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 2026-07-09 |
 | **NVIDIA** | PhD Research Intern, Security and Privacy - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 2026-07-09 |
-| **NVIDIA** | Quantum Research Scientist Intern - Fall 2026 | `US, CA, Remote` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 2026-07-09 |
-| **NVIDIA** | Quantum Error Correction Research Scientist Intern - Fall 2026 | `US, CA, Remote` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | 2026-07-09 |
 | **NVIDIA** | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 2026-07-09 |
 | **NVIDIA** | PhD Research Intern, Generative AI - 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 2026-07-09 |
 | **NVIDIA** | DGX Cloud Kubernetes Runtime Intern - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619) | 2026-07-09 |
@@ -146,7 +151,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (81)
+## 🔒 Closed Postings (86)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -160,6 +165,7 @@ Major tech, quant, and finance year-round application portals:
 | **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) | 2026-07-11 |
 | **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) | 2026-07-11 |
 | **Roblox** | Senior Talent Business Partner, Early Career - AI/ML PhD (Short-Term) | `Remote; San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7998438?gh_jid=7998438) | 2026-07-11 |
+| **Amazon** | Software Development Engineer Internship - Fall 2026 (Canada) | `Vancouver, British Columbia, CAN` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) | 2026-07-09 |
 | **Amazon** | Manager, Global Intern Evaluations & Offboarding Experience, Amazon University Talent Acquisition (AUTA) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10448299/manager-global-intern-evaluations-offboarding-experience-amazon-university-talent-acquisition-auta) | 2026-07-09 |
 | **Amazon** | 2027 Tax Intern (Summer Internship) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10435122/2027-tax-intern-summer-internship) | 2026-07-09 |
 | **Amazon** | Public Policy Intern | `Arlington, Virginia, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10435114/public-policy-intern) | 2026-07-09 |
@@ -188,10 +194,14 @@ Major tech, quant, and finance year-round application portals:
 | **HPE** | Business Development Intern - Spanish Speaker | `2 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Business-Development-Intern_1207200-1) | 2026-07-09 |
 | **HPE** | HPE Labs - EMEA Research Lab Ph.D. Intern | `3 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380) | 2026-07-09 |
 | **HPE** | DualStudy by HPE Student (m/w/d) | `3 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Berlin-Berlin-Germany/DualStudy-by-HPE-Student--m-w-d-_1208958) | 2026-07-09 |
+| **Intel** | Analog Circuit Design Engineer (Graduate Intern) | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503) | 2026-07-09 |
 | **Intel** | DTCO Data Engineer Intern | `US, Texas, Austin` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | 2026-07-09 |
 | **Intel** | Retail Sales and Marketing Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369) | 2026-07-09 |
 | **Intel** | Silicon Performance Validation and Characterization Intern | `US, Arizona, Phoenix` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 2026-07-09 |
 | **Netflix** | Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026 | `Los Gatos, California, United States of America` | 🔴 Closed | [Link ↗](https://explore.jobs.netflix.net/careers/job/790315673635) | 2026-07-09 |
+| **NVIDIA** | Software Engineering Intern, JAX - Fall 2026 | `US, CA, Santa Clara` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 2026-07-09 |
+| **NVIDIA** | Quantum Research Scientist Intern - Fall 2026 | `US, CA, Remote` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 2026-07-09 |
+| **NVIDIA** | Quantum Error Correction Research Scientist Intern - Fall 2026 | `US, CA, Remote` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | 2026-07-09 |
 | **NVIDIA** | Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026 | `US, CA, Remote` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 2026-07-09 |
 | **RBC** | Wealth Management Intern | `Boulder, Colorado, United States of America` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boulder-Colorado-United-States-of-America/Wealth-Management-Intern_R-0000175466-1) | 2026-07-09 |
 | **RBC** | Intern | `Rochester, New York, United States of America` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Rochester-New-York-United-States-of-America/Intern_R-0000178588-1) | 2026-07-09 |
