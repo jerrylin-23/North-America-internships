@@ -1,5 +1,13 @@
 [
   {
+    "title": "Quality Assurance Engineer Fall Internship – 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-07-16"
+  },
+  {
     "title": "Hardware Engineer Intern, Summer 2027",
     "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
     "company": "Akuna Capital",
@@ -92,14 +100,6 @@
     "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
     "company": "D2L",
     "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Module Engineering Undergraduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313",
-    "company": "Intel",
-    "location": "US, Oregon, Hillsboro",
     "status": "Active",
     "date_added": "2026-07-11"
   },
@@ -312,14 +312,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Hardware Development Engineer Co-op (FALL)",
-    "url": "https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
-    "company": "Amazon",
-    "location": "Sunnyvale, California, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
     "company": "Amazon",
@@ -444,14 +436,6 @@
     "url": "https://instacart.careers/job/?gh_jid=7532267",
     "company": "Instacart",
     "location": "United States - Remote",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "CPU-SoC Silicon Design Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
-    "company": "Intel",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -920,6 +904,14 @@
     "date_added": "2026-07-11"
   },
   {
+    "title": "Module Engineering Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
     "title": "Software Engineer, Early Career (AI)",
     "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
     "company": "Notion",
@@ -974,6 +966,14 @@
     "location": "Remote; San Mateo, CA, United States",
     "status": "Closed",
     "date_added": "2026-07-11"
+  },
+  {
+    "title": "Hardware Development Engineer Co-op (FALL)",
+    "url": "https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "company": "Amazon",
+    "location": "Sunnyvale, California, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
   },
   {
     "title": "Software Development Engineer Internship - Fall 2026 (Canada)",
@@ -1212,6 +1212,14 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Berlin-Berlin-Germany/DualStudy-by-HPE-Student--m-w-d-_1208958",
     "company": "HPE",
     "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "CPU-SoC Silicon Design Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
+    "company": "Intel",
+    "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
