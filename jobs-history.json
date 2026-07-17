@@ -256,14 +256,6 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "[SkillBridge] Information Security Fellowship",
-    "url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
     "title": "New Graduate Engineer, Software (Starlink)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
     "company": "SpaceX",
@@ -672,14 +664,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "MBA Intern - AI Ops Transformation",
-    "url": "https://careers.toasttab.com/jobs?gh_jid=7909139",
-    "company": "Toast",
-    "location": "Boston, MA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Quantitative Developer Intern - Summer 2027",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
     "company": "Tower Research Capital",
@@ -924,6 +908,14 @@
     "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
     "company": "Notion",
     "location": "San Francisco, California",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "[SkillBridge] Information Security Fellowship",
+    "url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
     "status": "Closed",
     "date_added": "2026-07-11"
   },
@@ -1332,6 +1324,14 @@
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Finance-ESG-Reporting-Co-op-Intern-Fall-2026_R_1497995-1",
     "company": "TD Bank",
     "location": "Toronto, Ontario",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "MBA Intern - AI Ops Transformation",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=7909139",
+    "company": "Toast",
+    "location": "Boston, MA",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
