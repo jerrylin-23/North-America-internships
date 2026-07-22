@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-108-green?style=flat-square)](#-active-postings-108)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-21-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-107-green?style=flat-square)](#-active-postings-107)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-22-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (108)
+## 📈 Active Postings (107)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -40,8 +40,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Jump Trading** | Campus Systems Engineer (Full-Time) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8008112) | 2026-07-11 |
 | **Konrad Group** | Mobile Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-07-11 |
 | **Konrad Group** | Software Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-07-11 |
-| **Notion** | Software Engineer, New Grad | `San Francisco, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | 2026-07-11 |
-| **Notion** | Software Engineer, New Grad (AI) | `San Francisco, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | 2026-07-11 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-07-11 |
@@ -69,6 +67,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Autodesk** | Intern, Machine Learning Developer | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 2026-07-09 |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 2026-07-09 |
 | **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | 2026-07-09 |
+| **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-09 |
 | **Instacart** | Machine Learning Engineer, PhD Intern (Fall) | `United States - Remote` | 🟢 Active | [Apply ↗](https://instacart.careers/job/?gh_jid=5917202) | 2026-07-09 |
 | **Instacart** | Machine Learning PhD Intern, Economics (Fall) | `United States - Remote` | 🟢 Active | [Apply ↗](https://instacart.careers/job/?gh_jid=7532267) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-07-09 |
@@ -146,7 +145,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (96)
+## 🔒 Closed Postings (97)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -156,6 +155,8 @@ Major tech, quant, and finance year-round application portals:
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
 | **HPE** | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
+| **Notion** | Software Engineer, New Grad | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | 2026-07-11 |
+| **Notion** | Software Engineer, New Grad (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | 2026-07-11 |
 | **Notion** | Software Engineer, Early Career (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 2026-07-11 |
 | **Notion** | Software Engineer, Early Career | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | 2026-07-11 |
 | **Roblox** | [SkillBridge] Information Security Fellowship | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7535858?gh_jid=7535858) | 2026-07-11 |
@@ -189,7 +190,6 @@ Major tech, quant, and finance year-round application portals:
 | **Autodesk** | Intern, Content Management | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) | 2026-07-09 |
 | **Autodesk** | PhD Intern, HCI & Visualization Research | `2 Locations` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | 2026-07-09 |
 | **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Toronto, Ontario , Canada` | 🔴 Closed | [Link ↗](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | 2026-07-09 |
-| **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-09 |
 | **BMO** | Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151) | 2026-07-09 |
 | **BMO** | Administrative Assistant Intern (Co-op/Internship), Fall 2026, Montreal - 4 months | `MONTREAL, QC, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Administrative-Assistant-Intern--Co-op-Internship---Fall-2026--Montreal---4-months_R260018871) | 2026-07-09 |
 | **BMO** | Private Wealth Administrative Assistant - Belleville - Peterborough, Fall 2026 (Co-op/Internship) - 4 months | `2 Locations` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Belleville-ON-CAN/Private-Wealth-Administrative-Assistant---Belleville---Peterborough--Fall-2026--Co-op-Internship----4-months_R260018806) | 2026-07-09 |

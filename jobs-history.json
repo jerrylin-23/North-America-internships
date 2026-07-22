@@ -192,22 +192,6 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "Software Engineer, New Grad",
-    "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Software Engineer, New Grad (AI)",
-    "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
     "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
     "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
     "company": "Palantir",
@@ -420,6 +404,14 @@
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
     "company": "Autodesk",
     "location": "Quebec, CAN - Remote",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -912,6 +904,22 @@
     "date_added": "2026-07-11"
   },
   {
+    "title": "Software Engineer, New Grad",
+    "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Software Engineer, New Grad (AI)",
+    "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
     "title": "Software Engineer, Early Career (AI)",
     "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
     "company": "Notion",
@@ -1172,14 +1180,6 @@
     "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
     "company": "Block",
     "location": "Toronto, Ontario , Canada",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
