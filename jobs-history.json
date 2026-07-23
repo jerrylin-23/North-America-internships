@@ -1,5 +1,13 @@
 [
   {
+    "title": "Global Security Manager, Campus Security",
+    "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "status": "Active",
+    "date_added": "2026-07-23"
+  },
+  {
     "title": "Quantitative Trader Intern",
     "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005",
     "company": "Blackedge Capital",
@@ -424,22 +432,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Machine Learning Engineer, PhD Intern (Fall)",
-    "url": "https://instacart.careers/job/?gh_jid=5917202",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Machine Learning PhD Intern, Economics (Fall)",
-    "url": "https://instacart.careers/job/?gh_jid=7532267",
-    "company": "Instacart",
-    "location": "United States - Remote",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Campus AI Research Engineer - Deep Learning (Intern)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
     "company": "Jump Trading",
@@ -554,14 +546,6 @@
   {
     "title": "Applied Research Intern, NLP - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Java Engineering Intern - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
     "status": "Active",
@@ -834,14 +818,6 @@
   {
     "title": "Hardware Engineer (Fall Co-op)",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Technical Support Engineering Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5017082007",
     "company": "Verkada",
     "location": "San Mateo, CA United States",
     "status": "Active",
@@ -1232,6 +1208,22 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Machine Learning Engineer, PhD Intern (Fall)",
+    "url": "https://instacart.careers/job/?gh_jid=5917202",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Machine Learning PhD Intern, Economics (Fall)",
+    "url": "https://instacart.careers/job/?gh_jid=7532267",
+    "company": "Instacart",
+    "location": "United States - Remote",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "CPU-SoC Silicon Design Engineering Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
     "company": "Intel",
@@ -1276,6 +1268,14 @@
     "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "company": "Netflix",
     "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Java Engineering Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1596,6 +1596,14 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
     "company": "Tower Research Capital",
     "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Technical Support Engineering Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5017082007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
