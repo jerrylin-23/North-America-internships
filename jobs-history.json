@@ -16,14 +16,6 @@
     "date_added": "2026-07-21"
   },
   {
-    "title": "AI Software Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-    "company": "Intel",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-07-18"
-  },
-  {
     "title": "MBA Internship – Ecosystem Development Specialist",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "company": "Intel",
@@ -108,14 +100,6 @@
     "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
     "company": "Akuna Capital",
     "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Summer 2027 Intern - Software Engineer",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
-    "company": "Salesforce",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-07-14"
   },
@@ -840,12 +824,28 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "AI Software Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-18"
+  },
+  {
     "title": "Quality Assurance Engineer Fall Internship – 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
     "status": "Closed",
     "date_added": "2026-07-16"
+  },
+  {
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-14"
   },
   {
     "title": "Quantitative Researcher, Early Career ",
