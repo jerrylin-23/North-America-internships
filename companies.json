@@ -1240,7 +1240,7 @@
     "name": "Tesla",
     "careers_url": "https://www.tesla.com/careers",
     "api": "",
-    "enabled": true,
+    "enabled": false,
     "parser": {
       "command": ".venv/bin/python",
       "args": [

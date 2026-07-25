@@ -17,6 +17,15 @@ The whole board comes back in one response -- no pagination:
 Roles are selected on Tesla's own type classification rather than a title
 regex, so postings whose titles omit "intern" are still caught.
 
+STATUS: disabled in companies.json, because this does not work from CI.
+From a residential IP it returns the full board (verified: 7,469 listings,
+535 intern-typed). From a GitHub Actions runner the careers page returns 200
+and Akamai sets _abck, but the state API returns 403 -- _abck is only
+*validated* once Akamai's sensor JavaScript posts telemetry, and the
+protected endpoint rejects an unvalidated cookie where the public HTML page
+accepts it. Playwright fails here too (Akamai fingerprints it even headful).
+Re-enable if running locally; leave off for the scheduled crawl.
+
 Emits a JSON array of {title, url, location} on stdout.
 """
 
