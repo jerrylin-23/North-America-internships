@@ -33,9 +33,12 @@ STATE_URL = f"{ORIGIN}/cua-api/apps/careers/state"
 CRAWL_DELAY_S = 12  # robots.txt asks for 10
 TIMEOUT_S = 45
 
-# Requesting the API too often earns HTTP 429. Back off rather than retry hard.
-MAX_ATTEMPTS = 3
-BACKOFF_S = 45
+# Requesting the API too often earns HTTP 429. Back off rather than retry hard,
+# but keep the worst case inside the parser timeout in companies.json -- an
+# overrunning backoff gets the process killed before it can report anything.
+MAX_ATTEMPTS = 2
+BACKOFF_S = 30
+MAX_BACKOFF_S = 45
 
 
 def fetch_state():
@@ -56,14 +59,19 @@ def fetch_state():
             return response.json()
 
         last = response.status_code
+        # Report every attempt as it happens: if a later backoff overruns the
+        # parser timeout the process is killed, and without this the failure
+        # reaches the crawl log with no explanation at all.
+        print(f"tesla_jobs: attempt {attempt + 1} -> HTTP {last}", file=sys.stderr, flush=True)
+
         if response.status_code != 429 or attempt == MAX_ATTEMPTS - 1:
             break
         # Honour Retry-After when Tesla sends one.
         try:
             wait = int(response.headers.get("retry-after", ""))
         except ValueError:
-            wait = BACKOFF_S * (attempt + 1)
-        time.sleep(min(wait, 180))
+            wait = BACKOFF_S
+        time.sleep(min(wait, MAX_BACKOFF_S))
 
     raise RuntimeError(f"tesla state returned HTTP {last}")
 

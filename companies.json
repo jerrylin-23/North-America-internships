@@ -1246,7 +1246,7 @@
       "args": [
         "providers/tesla_jobs.py"
       ],
-      "timeout_ms": 90000
+      "timeout_ms": 150000
     }
   }
 ]
