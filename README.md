@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-103-green?style=flat-square)](#-active-postings-103)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-24-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-106-green?style=flat-square)](#-active-postings-106)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,15 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (103)
+## 📈 Active Postings (106)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Blackedge Capital** | Quantitative Developer Intern | `Chicago` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | 2026-07-25 |
+| **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
+| **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
+| **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
+| **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🟢 Active | [Apply ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **Roblox** | Global Security Manager, Campus Security | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8075125?gh_jid=8075125) | 2026-07-23 |
 | **Blackedge Capital** | Quantitative Trader Intern | `Chicago` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) | 2026-07-21 |
 | **Intel** | MBA Internship – Ecosystem Development Specialist | `3 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771) | 2026-07-17 |
@@ -40,7 +45,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Jump Trading** | Campus Systems Engineer (Full-Time) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8008112) | 2026-07-11 |
 | **Konrad Group** | Mobile Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-07-11 |
 | **Konrad Group** | Software Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-07-11 |
-| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-07-11 |
 | **Palantir** | Privacy & Civil Liberties Engineer - New Grad | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | 2026-07-11 |
@@ -64,7 +68,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Amazon** | Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Internship - Fall 2026 (US) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 2026-07-09 |
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2026-07-09 |
-| **Autodesk** | Intern, Machine Learning Developer | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 2026-07-09 |
+| **Amazon** | Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning | `Jeffersonville, Ohio, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning) | 2026-07-09 |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 2026-07-09 |
 | **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | 2026-07-09 |
 | **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-09 |
@@ -110,7 +114,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Software Engineer, Internship | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | 2026-06-17 |
-| **Pinterest** | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 2026-06-17 |
 | **Scale AI** | AI Builder Intern | `San Francisco, CA; New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4661650005) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | 2026-06-17 |
@@ -141,7 +144,7 @@ Major tech, quant, and finance year-round application portals:
 
 ---
 
-## 🔒 Closed Postings (102)
+## 🔒 Closed Postings (104)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -156,6 +159,7 @@ Major tech, quant, and finance year-round application portals:
 | **Notion** | Software Engineer, New Grad (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | 2026-07-11 |
 | **Notion** | Software Engineer, Early Career (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 2026-07-11 |
 | **Notion** | Software Engineer, Early Career | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | 2026-07-11 |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `Palo Alto, CA` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
 | **Roblox** | [SkillBridge] Information Security Fellowship | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7535858?gh_jid=7535858) | 2026-07-11 |
 | **Roblox** | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | 2026-07-11 |
 | **Roblox** | [2026] Senior Machine Learning Engineer,  Engine Optimization - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7421746?gh_jid=7421746) | 2026-07-11 |
@@ -170,7 +174,6 @@ Major tech, quant, and finance year-round application portals:
 | **Amazon** | 2027 Amazon Finance Rotation Program - Business Unit Finance Intern | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10435672/2027-amazon-finance-rotation-program-business-unit-finance-intern) | 2026-07-09 |
 | **Amazon** | 2027 Amazon Operations Finance Rotational Program Summer Internship | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | 2026-07-09 |
 | **Amazon** | 2027 Amazon Finance Rotation Program - Accounting Intern | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10435671/2027-amazon-finance-rotation-program-accounting-intern) | 2026-07-09 |
-| **Amazon** | Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning | `Jeffersonville, Ohio, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning) | 2026-07-09 |
 | **Amazon** | 2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | 2026-07-09 |
 | **Amazon** | Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting | `Vancouver, British Columbia, CAN` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | 2026-07-09 |
 | **Amazon** | 2026 Fall Research Science Internship - United States, PhD Student Science Recruiting  | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | 2026-07-09 |
@@ -183,6 +186,7 @@ Major tech, quant, and finance year-round application portals:
 | **Amazon** | 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | `San Francisco, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | 2026-07-09 |
 | **Amazon** | Loss Prevention Specialist Intern 2026 | `Stockton, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3094856/loss-prevention-specialist-intern-2026) | 2026-07-09 |
 | **Amazon** | Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain | `North Reading, Massachusetts, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain) | 2026-07-09 |
+| **Autodesk** | Intern, Machine Learning Developer | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 2026-07-09 |
 | **Autodesk** | Intern, AI in Design & Manufacturing | `AMER - Canada - Ontario - Toronto - University Ave` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900) | 2026-07-09 |
 | **Autodesk** | Intern, Content Management | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) | 2026-07-09 |
 | **Autodesk** | PhD Intern, HCI & Visualization Research | `2 Locations` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | 2026-07-09 |
@@ -228,6 +232,7 @@ Major tech, quant, and finance year-round application portals:
 | **Cohere** | Research Internship (Fall, 2026) | `Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-17 |
 | **Glean** | Product Management Intern, Admin Console (Summer 2026) | `Mountain View, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/gleanwork/jobs/4699772005) | 2026-06-17 |
 | **Hootsuite** | Co-op/Intern, Product Management - Summer 2026 | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://careers.hootsuite.com/job/?gh_jid=7942387) | 2026-06-17 |
+| **Pinterest** | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 2026-06-17 |
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
 | **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
 | **Scale AI** | Finance Fellow - Human Frontier Collective (US) | `United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/scaleai/jobs/4565836005) | 2026-06-17 |

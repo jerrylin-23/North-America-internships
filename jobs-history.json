@@ -1,5 +1,45 @@
 [
   {
+    "title": "Quantitative Developer Intern",
+    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005",
+    "company": "Blackedge Capital",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Summer 2027 Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+    "company": "PDT Partners",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Summer 2027 Systems Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+    "company": "PDT Partners",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Analyst (Entry level)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325",
+    "company": "Sun Life Financial",
+    "location": "4 Locations",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Global Security Manager, Campus Security",
     "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
     "company": "Roblox",
@@ -192,14 +232,6 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-    "company": "Palantir",
-    "location": "Palo Alto, CA",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
     "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
     "company": "Palantir",
@@ -384,10 +416,10 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Intern, Machine Learning Developer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
+    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
+    "company": "Amazon",
+    "location": "Jeffersonville, Ohio, USA",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -752,14 +784,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
-    "company": "Pinterest",
-    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "AI Builder Intern",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
     "company": "Scale AI",
@@ -912,6 +936,14 @@
     "date_added": "2026-07-11"
   },
   {
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
     "title": "[SkillBridge] Information Security Fellowship",
     "url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
     "company": "Roblox",
@@ -1024,14 +1056,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
-    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
-    "company": "Amazon",
-    "location": "Jeffersonville, Ohio, USA",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
     "url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
     "company": "Amazon",
@@ -1124,6 +1148,14 @@
     "url": "https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain",
     "company": "Amazon",
     "location": "North Reading, Massachusetts, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Intern, Machine Learning Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1484,6 +1516,14 @@
     "url": "https://careers.hootsuite.com/job/?gh_jid=7942387",
     "company": "Hootsuite",
     "location": "Toronto, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
