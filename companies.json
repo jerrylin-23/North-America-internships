@@ -1211,5 +1211,42 @@
     "careers_url": "https://jobs.ashbyhq.com/vanta",
     "api": "",
     "enabled": true
+  },
+  {
+    "name": "Microsoft",
+    "careers_url": "https://apply.careers.microsoft.com",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Apple",
+    "careers_url": "https://jobs.apple.com",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Google",
+    "careers_url": "https://www.google.com/about/careers/applications",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Meta",
+    "careers_url": "https://www.metacareers.com",
+    "api": "",
+    "enabled": true
+  },
+  {
+    "name": "Tesla",
+    "careers_url": "https://www.tesla.com/careers",
+    "api": "",
+    "enabled": false,
+    "parser": {
+      "command": ".venv/bin/python",
+      "args": [
+        "providers/tesla_jobs.py"
+      ],
+      "timeout_ms": 150000
+    }
   }
 ]

@@ -12,6 +12,12 @@ import workday from './providers/workday.mjs';
 import workable from './providers/workable.mjs';
 import amazon from './providers/amazon.mjs';
 import eightfold from './providers/eightfold.mjs';
+import microsoft from './providers/microsoft.mjs';
+import apple from './providers/apple.mjs';
+import google from './providers/google.mjs';
+import meta from './providers/meta.mjs';
+import localParser from './providers/local-parser.mjs';
+import { closeBrowser } from './providers/_browser.mjs';
 
 const COMPANIES_PATH = './companies.json';
 const HISTORY_PATH = './jobs-history.json';
@@ -29,6 +35,13 @@ const providers = {
   workable,
   amazon,
   eightfold,
+  microsoft,
+  apple,
+  google,
+  meta,
+  // Last: matches on an entry's `parser` block rather than a URL shape, so the
+  // URL-based providers above get first refusal.
+  'local-parser': localParser,
 };
 
 // API / Provider Detection Logic
@@ -55,7 +68,7 @@ const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfe
 
 // Technical role signal — SWE, ML/AI, data, research, systems, security, hardware, quant.
 // Restricts the tracker to engineering/science roles so business internships drop off.
-const TECH_ROLE = /\b(software|swe|sde|develop(er|ment)|programmer|full[-\s]?stack|back[-\s]?end|front[-\s]?end|mobile|ios|android|web dev|devops|sre|site reliability|infrastructure|platform|cloud|distributed|embedded|firmware|hardware|silicon|asic|fpga|vlsi|systems?|robotics|autonom(y|ous)|perception|computer vision|nlp|natural language|machine learning|deep learning|ml|ai|artificial intelligence|data scien(ce|tist)|data engineer|data analy(st|tics)|analytics|research scien(ce|tist)|research engineer|applied scien(ce|tist)|quant(itative)?|security|cyber|cryptograph|blockchain|graphics|compiler|network|engineer(ing)?|comput(er|ing) scien|cs)\b/i;
+const TECH_ROLE = /\b(software|swe|sde|develop(er|ment)|programmer|full[-\s]?stack|back[-\s]?end|front[-\s]?end|mobile|ios|android|web dev|devops|sre|site reliability|infrastructure|platform|cloud|distributed|embedded|firmware|hardware|silicon|asic|fpga|vlsi|systems?|robotics|autonom(y|ous)|perception|computer vision|nlp|natural language|machine learning|deep learning|ml|ai|artificial intelligence|data scien(ce|tist)|data engineer|data analy(st|tics)|analytics|research(er|ers)?|applied scien(ce|tist)|quant(itative)?|security|cyber|cryptograph|blockchain|graphics|compiler|network|engineer(ing)?|comput(er|ing) scien|cs)\b/i;
 
 // Non-technical / business roles to drop even when they trip a tech keyword
 // (e.g. "Business Development", "Sales Engineer", "Financial Data Analyst").
@@ -150,6 +163,9 @@ async function main() {
 
     // Run crawler
     await runConcurrent(tasks, CONCURRENCY_LIMIT);
+    // Browser-backed providers keep Chromium alive; without this the process
+    // never exits.
+    await closeBrowser();
     console.log(`Finished scanning. Found ${activeJobs.length} active matching jobs.`);
 
     // Merge with history
@@ -236,7 +252,7 @@ function generateREADME(jobs, dateStr) {
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
 
-> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Amazon, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
 > 💡 **Search Tip:** Press \`⌘+F\` or \`Ctrl+F\` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
@@ -251,17 +267,12 @@ ${activeTable}
 
 ## 🔄 Year-Round & Student Pipelines
 
-Major tech, quant, and finance year-round application portals:
+Portals that are **not** scraped above — apply directly. (Google, Microsoft, Apple,
+Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table above.)
 
 | Company | Portal Link | Description |
 |---------|-------------|-------------|
-| **Google** | [Google Students ↗](https://buildyourfuture.withgoogle.com/) | Student internships, scholarships, and opportunities |
-| **Microsoft** | [Microsoft Students ↗](https://careers.microsoft.com/us/en/student-programs) | Internships and full-time opportunities for students & new grads |
-| **Apple** | [Apple Students ↗](https://www.apple.com/careers/us/students.html) | Summer internships and co-op placements |
-| **Meta** | [Meta Careers for Students ↗](https://www.metacareers.com/areas-of-work/students/) | Meta University and student internships |
-| **Amazon** | [Amazon Student Programs ↗](https://www.amazon.jobs/en/business_categories/student-programs) | Global software development and tech internships |
 | **Tesla** | [Tesla Internships ↗](https://www.tesla.com/careers/internships) | Year-round rolling internships (Spring, Summer, Fall) |
-| **NVIDIA** | [NVIDIA Students ↗](https://www.nvidia.com/en-us/about-nvidia/careers/students/) | Internship programs in AI, gaming, and deep learning |
 | **Bloomberg** | [Bloomberg Early Careers ↗](https://www.bloomberg.com/company/careers/early-careers/) | Tech and software engineering early careers programs |
 | **Jane Street** | [Jane Street Positions ↗](https://www.janestreet.com/join-jane-street/position-finder/) | Quantitative trading and engineering rolling applications |
 | **Citadel** | [Citadel Student Careers ↗](https://www.citadel.com/careers/students/) | Software engineering and quant internships |
@@ -282,6 +293,9 @@ This repository uses the same robust, zero-token scraper engine as [career-ops](
 ### Run locally
 \`\`\`bash
 npm install
+npx playwright install chromium              # Meta renders behind a browser
+python3 -m venv .venv                        # Tesla needs curl_cffi
+.venv/bin/pip install -r requirements.txt
 node crawl.js
 \`\`\`
 

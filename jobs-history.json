@@ -1,9 +1,385 @@
 [
   {
+    "title": "Hardware Engineer Intern, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL ",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Platform Engineer Intern, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Quantitative Development & Strategy Intern, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Quantitative Research Intern, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL ",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer (Entry-Level) - C++",
+    "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer (Entry-Level) - Python",
+    "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer Intern - C++, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineer Intern - Python, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Machine Learning and Artificial Intelligence Masters Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664221-3810/machine-learning-and-artificial-intelligence-masters-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Machine Learning and Artificial Intelligence PhD Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664223-3810/machine-learning-and-artificial-intelligence-phd-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Machine Learning and Artificial Intelligence Undergrad Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware PhD Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664421-3810/hardware-phd-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware Masters Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664419-3810/hardware-masters-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware Undergrad Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware Technologies PhD Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664414-3810/hardware-technologies-phd-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware Technologies Masters Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664383-3810/hardware-technologies-masters-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Hardware Technologies Undergrad Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200663968-3810/hardware-technologies-undergrad-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Engineering Program Management Undergrad Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Engineering Program Management Masters Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software PhD Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664323-3810/software-phd-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Masters Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664320-3810/software-engineering-masters-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Undergrad Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Product Design Masters Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200663996-3810/product-design-masters-engineering-internships",
+    "company": "Apple",
+    "location": "Various Locations within United States",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Quantitative Developer Intern",
     "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005",
     "company": "Blackedge Capital",
     "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Quantitative Trader Intern",
+    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005",
+    "company": "Blackedge Capital",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/118981017938600646-network-operations-residency-program-university-graduate-august-2026-start",
+    "company": "Google",
+    "location": "Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Engineer, University Graduate",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/124862995078488774-network-operations-engineer-university-graduate",
+    "company": "Google",
+    "location": "Austin, TX, USA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Student Researcher, PhD, Fall 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Student Researcher, BS/MS, Fall 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bsms-fall-2026",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "MBA Internship – Ecosystem Development Specialist",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
+    "company": "Intel",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Data Science Student for AI Solutions Group",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, AI Alignment",
+    "url": "https://www.metacareers.com/jobs/1782902493113620/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)",
+    "url": "https://www.metacareers.com/jobs/24536664159369645/",
+    "company": "Meta",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+    "url": "https://www.metacareers.com/jobs/2022109075207025/",
+    "company": "Meta",
+    "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
+    "url": "https://www.metacareers.com/jobs/2160167211413098/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
+    "url": "https://www.metacareers.com/jobs/2916726525182155/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
+    "url": "https://www.metacareers.com/jobs/779670167783218/",
+    "company": "Meta",
+    "location": "Redmond, WA; Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Data Science INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Intern - Self-Improving AI",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
+    "company": "Microsoft",
+    "location": "United States, Massachusetts, Cambridge; United States, New York, New York",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -32,116 +408,12 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Network Operations Analyst (Entry level)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325",
-    "company": "Sun Life Financial",
-    "location": "4 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Global Security Manager, Campus Security",
     "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
     "company": "Roblox",
     "location": "San Mateo, CA, United States",
     "status": "Active",
-    "date_added": "2026-07-23"
-  },
-  {
-    "title": "Quantitative Trader Intern",
-    "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005",
-    "company": "Blackedge Capital",
-    "location": "Chicago",
-    "status": "Active",
-    "date_added": "2026-07-21"
-  },
-  {
-    "title": "MBA Internship – Ecosystem Development Specialist",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
-    "company": "Intel",
-    "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-07-17"
-  },
-  {
-    "title": "Hardware Engineer Intern, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL ",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Platform Engineer Intern, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Quantitative Development & Strategy Intern, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Quantitative Research Intern, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL ",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer (Entry-Level) - C++",
-    "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer (Entry-Level) - Python",
-    "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer Intern - C++, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
-  },
-  {
-    "title": "Software Engineer Intern - Python, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL",
-    "status": "Active",
-    "date_added": "2026-07-14"
+    "date_added": "2026-07-25"
   },
   {
     "title": "Summer 2027 Intern - Software Engineer",
@@ -149,15 +421,15 @@
     "company": "Salesforce",
     "location": "2 Locations",
     "status": "Active",
-    "date_added": "2026-07-14"
+    "date_added": "2026-07-25"
   },
   {
-    "title": "Data Science Student for AI Solutions Group",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
-    "company": "Intel",
-    "location": "2 Locations",
+    "title": "Network Operations Analyst (Entry level)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325",
+    "company": "Sun Life Financial",
+    "location": "4 Locations",
     "status": "Active",
-    "date_added": "2026-07-13"
+    "date_added": "2026-07-25"
   },
   {
     "title": "Software Developer - New Graduate",
@@ -448,10 +720,26 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+    "company": "Block",
+    "location": "Toronto, Ontario , Canada",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "HPE Labs - EMEA Research Lab Ph.D. Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380",
+    "company": "HPE",
+    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -716,6 +1004,14 @@
     "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
     "company": "Cohere",
     "location": "Canada, United States, Europe, United Kingdom",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Research Internship (Fall, 2026)",
+    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+    "company": "Cohere",
+    "location": "Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -1184,14 +1480,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
-    "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-    "company": "Block",
-    "location": "Toronto, Ontario , Canada",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151",
     "company": "BMO",
@@ -1224,14 +1512,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "HPE Labs - EMEA Research Lab Ph.D. Intern",
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380",
-    "company": "HPE",
-    "location": "3 Locations",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "DualStudy by HPE Student (m/w/d)",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Berlin-Berlin-Germany/DualStudy-by-HPE-Student--m-w-d-_1208958",
     "company": "HPE",
@@ -1256,16 +1536,16 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "CPU-SoC Silicon Design Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
+    "title": "Analog Circuit Design Engineer (Graduate Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503",
     "company": "Intel",
     "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
   {
-    "title": "Analog Circuit Design Engineer (Graduate Intern)",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503",
+    "title": "CPU-SoC Silicon Design Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
     "company": "Intel",
     "location": "2 Locations",
     "status": "Closed",
@@ -1312,14 +1592,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Solution Architecture Intern, AI in Industry - 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186",
-    "company": "NVIDIA",
-    "location": "3 Locations",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Software Engineering Intern, JAX - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
     "company": "NVIDIA",
@@ -1340,6 +1612,14 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628",
     "company": "NVIDIA",
     "location": "US, CA, Remote",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Solution Architecture Intern, AI in Industry - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1492,14 +1772,6 @@
     "url": "https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7",
     "company": "Ansatz Capital",
     "location": "New York",
-    "status": "Closed",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Research Internship (Fall, 2026)",
-    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-    "company": "Cohere",
-    "location": "Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
