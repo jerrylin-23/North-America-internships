@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jerrylin-23/2027-canada-internships#readme",
   "dependencies": {
-    "js-yaml": "^4.2.0"
+    "js-yaml": "^4.2.0",
+    "playwright": "^1.62.0"
   }
 }

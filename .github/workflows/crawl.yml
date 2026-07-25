@@ -25,6 +25,23 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm install
 
+      # Meta fingerprints plain HTTP clients, so its provider drives Chromium.
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      # Tesla's edge rejects any client whose TLS fingerprint isn't a real
+      # browser; providers/tesla_jobs.py uses curl_cffi to match Chrome's.
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Matches the interpreter path companies.json invokes for Tesla.
+      - name: Install Python dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install -r requirements.txt
+
       - name: Run crawler
         run: node crawl.js
 
