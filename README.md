@@ -288,8 +288,9 @@ This repository uses the same robust, zero-token scraper engine as [career-ops](
 ### Run locally
 ```bash
 npm install
-npx playwright install chromium   # Meta renders behind a browser
-pip install -r requirements.txt   # Tesla needs curl_cffi
+npx playwright install chromium              # Meta renders behind a browser
+python3 -m venv .venv                        # Tesla needs curl_cffi
+.venv/bin/pip install -r requirements.txt
 node crawl.js
 ```
 
