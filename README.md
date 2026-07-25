@@ -7,7 +7,7 @@
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
 
-> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Tesla, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
 > 💡 **Search Tip:** Press `⌘+F` or `Ctrl+F` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
@@ -165,12 +165,12 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ## 🔄 Year-Round & Student Pipelines
 
-Portals that are **not** scraped above — apply directly. (All of the Magnificent 7 —
-Google, Microsoft, Apple, Amazon, Meta, NVIDIA and Tesla — are now scraped, so their
-live roles appear in the table above.)
+Portals that are **not** scraped above — apply directly. (Google, Microsoft, Apple,
+Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table above.)
 
 | Company | Portal Link | Description |
 |---------|-------------|-------------|
+| **Tesla** | [Tesla Internships ↗](https://www.tesla.com/careers/internships) | Year-round rolling internships (Spring, Summer, Fall) |
 | **Bloomberg** | [Bloomberg Early Careers ↗](https://www.bloomberg.com/company/careers/early-careers/) | Tech and software engineering early careers programs |
 | **Jane Street** | [Jane Street Positions ↗](https://www.janestreet.com/join-jane-street/position-finder/) | Quantitative trading and engineering rolling applications |
 | **Citadel** | [Citadel Student Careers ↗](https://www.citadel.com/careers/students/) | Software engineering and quant internships |
