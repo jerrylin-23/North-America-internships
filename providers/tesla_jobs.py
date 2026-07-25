@@ -45,7 +45,13 @@ def fetch_state():
     session = requests.Session(impersonate="chrome")
     # The careers page issues the Akamai sensor handshake and sets _abck;
     # requesting the API cold is rejected.
-    session.get(SEARCH_URL, timeout=TIMEOUT_S)
+    page = session.get(SEARCH_URL, timeout=TIMEOUT_S)
+    print(
+        f"tesla_jobs: careers page -> HTTP {page.status_code}, "
+        f"_abck={'_abck' in session.cookies}",
+        file=sys.stderr,
+        flush=True,
+    )
     time.sleep(CRAWL_DELAY_S)
 
     last = None
