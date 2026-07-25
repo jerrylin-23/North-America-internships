@@ -7,7 +7,7 @@
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
 
-> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Tesla, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
 > 💡 **Search Tip:** Press `⌘+F` or `Ctrl+F` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
@@ -165,22 +165,24 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ## 🔄 Year-Round & Student Pipelines
 
-Portals that are **not** scraped above — apply directly. (All of the Magnificent 7 —
-Google, Microsoft, Apple, Amazon, Meta, NVIDIA and Tesla — are now scraped, so their
-live roles appear in the table above.)
+Portals that are **not** scraped above — apply directly. (Google, Microsoft, Apple,
+Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table above.)
 
 | Company | Portal Link | Description |
 |---------|-------------|-------------|
+| **Tesla** | [Tesla Internships ↗](https://www.tesla.com/careers/internships) | Year-round rolling internships (Spring, Summer, Fall) |
 | **Bloomberg** | [Bloomberg Early Careers ↗](https://www.bloomberg.com/company/careers/early-careers/) | Tech and software engineering early careers programs |
 | **Jane Street** | [Jane Street Positions ↗](https://www.janestreet.com/join-jane-street/position-finder/) | Quantitative trading and engineering rolling applications |
 | **Citadel** | [Citadel Student Careers ↗](https://www.citadel.com/careers/students/) | Software engineering and quant internships |
 
 ---
 
-## 🔒 Closed Postings (98)
+## 🔒 Closed Postings (100)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Intel** | AI Software Engineering Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 2026-07-18 |
+| **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
 | **HPE** | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) | 2026-07-11 |

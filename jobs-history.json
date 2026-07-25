@@ -384,6 +384,14 @@
     "date_added": "2026-07-25"
   },
   {
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Summer 2027 Software Engineering Intern",
     "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "company": "PDT Partners",
@@ -396,14 +404,6 @@
     "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
     "company": "PDT Partners",
     "location": "New York, NY",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
-    "company": "Palantir",
-    "location": "Palo Alto, CA",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -720,18 +720,18 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
     "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
     "company": "Block",
     "location": "Toronto, Ontario , Canada",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -832,6 +832,22 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
+    "url": "https://explore.jobs.netflix.net/careers/job/790316547536",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
     "company": "NVIDIA",
@@ -892,22 +908,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
     "company": "NVIDIA",
     "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
-    "url": "https://explore.jobs.netflix.net/careers/job/790316547536",
-    "company": "Netflix",
-    "location": "Los Gatos, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
-    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-    "company": "Netflix",
-    "location": "Los Gatos, California, United States of America",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -1576,6 +1576,14 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
+    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Java Engineering Intern - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
     "company": "NVIDIA",
@@ -1620,14 +1628,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317",
     "company": "NVIDIA",
     "location": "US, CA, Remote",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
-    "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
-    "company": "Netflix",
-    "location": "Los Gatos, California, United States of America",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
