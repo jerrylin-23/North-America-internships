@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intern Quant Researcher",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+    "company": "Squarepoint Capital",
+    "location": "London, Paris, New York, Singapore, Hong Kong",
+    "status": "Active",
+    "date_added": "2026-07-27"
+  },
+  {
     "title": "Hardware Engineer Intern, Summer 2027",
     "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
     "company": "Akuna Capital",
@@ -216,38 +224,6 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Developer Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Developer Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
     "url": "https://www.google.com/about/careers/applications/jobs/results/118981017938600646-network-operations-residency-program-university-graduate-august-2026-start",
     "company": "Google",
@@ -284,14 +260,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "company": "Intel",
     "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Data Science Student for AI Solutions Group",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
-    "company": "Intel",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -412,14 +380,6 @@
     "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
     "company": "Roblox",
     "location": "San Mateo, CA, United States",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Summer 2027 Intern - Software Engineer",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
-    "company": "Salesforce",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -1142,6 +1102,54 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Software Engineering Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Data Science Student for AI Solutions Group",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
   },
   {
     "title": "AI Software Engineering Intern",
