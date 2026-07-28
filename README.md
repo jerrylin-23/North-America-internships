@@ -16,7 +16,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
-| **Intel** | AI Applied intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 2026-07-28 |
 | **Squarepoint Capital** | Intern Quant Researcher | `London, Paris, New York, Singapore, Hong Kong` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 2026-07-27 |
 | **Akuna Capital** | Hardware Engineer Intern, Summer 2027 | `Chicago, IL ` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) | 2026-07-25 |
 | **Akuna Capital** | Platform Engineer Intern, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | 2026-07-25 |
@@ -64,6 +63,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
 | **Roblox** | Global Security Manager, Campus Security | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8075125?gh_jid=8075125) | 2026-07-25 |
+| **Salesforce** | Summer 2027 Intern - Software Engineer | `2 Locations` | 🟢 Active | [Apply ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 2026-07-25 |
 | **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🟢 Active | [Apply ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
@@ -175,13 +175,13 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Intel** | AI Applied intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 2026-07-28 |
 | **Google** | Software Engineering Intern, BS, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | 2026-07-25 |
 | **Google** | Software Engineering Intern, MS, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027) | 2026-07-25 |
 | **Google** | Software Developer Intern, MS, Summer 2027 | `Waterloo, ON, Canada; Montreal, QC, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027) | 2026-07-25 |
 | **Google** | Software Developer Intern, BS, Summer 2027 | `Waterloo, ON, Canada; Montreal, QC, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027) | 2026-07-25 |
 | **Intel** | Data Science Student for AI Solutions Group | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Photorealistic Telepresence (PhD) | `Sausalito, CA; Pittsburgh, PA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2022109075207025/) | 2026-07-25 |
-| **Salesforce** | Summer 2027 Intern - Software Engineer | `2 Locations` | 🔴 Closed | [Link ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 2026-07-25 |
 | **Intel** | AI Software Engineering Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 2026-07-18 |
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
