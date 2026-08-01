@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-138-green?style=flat-square)](#-active-postings-138)
+[![Active Postings](https://img.shields.io/badge/active%20postings-137-green?style=flat-square)](#-active-postings-137)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-01-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (138)
+## 📈 Active Postings (137)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -59,7 +59,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Software Engineering INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556911730) | 2026-07-25 |
 | **Microsoft** | Data Science INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556917520) | 2026-07-25 |
 | **Microsoft** | Research Intern - Self-Improving AI | `United States, Massachusetts, Cambridge; United States, New York, New York` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 2026-07-25 |
-| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
 | **Microsoft** | Research Sciences INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556641091) | 2026-07-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
@@ -171,7 +170,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (111)
+## 🔒 Closed Postings (112)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -183,6 +182,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Google** | Software Developer Intern, BS, Summer 2027 | `Waterloo, ON, Canada; Montreal, QC, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027) | 2026-07-25 |
 | **Intel** | Data Science Student for AI Solutions Group | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Photorealistic Telepresence (PhD) | `Sausalito, CA; Pittsburgh, PA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2022109075207025/) | 2026-07-25 |
+| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
