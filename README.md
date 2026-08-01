@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-139-green?style=flat-square)](#-active-postings-139)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-07-31-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-138-green?style=flat-square)](#-active-postings-138)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-01-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (139)
+## 📈 Active Postings (138)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -90,7 +90,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Stripe** | Software Engineer, New Grad, Developer & End User Experience Platform | `Toronto` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=7991718) | 2026-07-11 |
 | **Verkada** | Technical Support Engineer - University Graduate 2026 | `New York City, NY United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5172974007) | 2026-07-11 |
 | **Adobe** | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern | `3 Locations` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 2026-07-09 |
-| **Adobe** | 2026 Intern - Research Scientist/Engineer | `7 Locations` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 2026-07-09 |
 | **Amazon** | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | `Pasadena, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Fall Intern - Military Veteran | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | 2026-07-09 |
@@ -172,7 +171,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (110)
+## 🔒 Closed Postings (111)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -200,6 +199,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) | 2026-07-11 |
 | **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) | 2026-07-11 |
 | **Roblox** | Senior Talent Business Partner, Early Career - AI/ML PhD (Short-Term) | `Remote; San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/7998438?gh_jid=7998438) | 2026-07-11 |
+| **Adobe** | 2026 Intern - Research Scientist/Engineer | `7 Locations` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 2026-07-09 |
 | **Amazon** | Hardware Development Engineer Co-op (FALL) | `Sunnyvale, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Internship - Fall 2026 (Canada) | `Vancouver, British Columbia, CAN` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) | 2026-07-09 |
 | **Amazon** | Manager, Global Intern Evaluations & Offboarding Experience, Amazon University Talent Acquisition (AUTA) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10448299/manager-global-intern-evaluations-offboarding-experience-amazon-university-talent-acquisition-auta) | 2026-07-09 |
