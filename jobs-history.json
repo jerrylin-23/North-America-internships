@@ -1,5 +1,53 @@
 [
   {
+    "title": "AI Software Engineer Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
+    "company": "Intel",
+    "location": "Virtual US",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-08-04"
+  },
+  {
     "title": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
     "company": "Microsoft",
@@ -308,14 +356,6 @@
     "url": "https://www.metacareers.com/jobs/24536664159369645/",
     "company": "Meta",
     "location": "Menlo Park, CA; New York, NY",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
-    "url": "https://www.metacareers.com/jobs/2160167211413098/",
-    "company": "Meta",
-    "location": "Sunnyvale, CA; Redmond, WA",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -648,14 +688,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Network Development Engineer Intern - Fall 2026",
-    "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
-    "company": "Amazon",
-    "location": "Cupertino, California, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
     "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
     "company": "Amazon",
@@ -812,14 +844,6 @@
     "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
     "company": "Netflix",
     "location": "Los Gatos, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-    "company": "NVIDIA",
-    "location": "US, MO, St. Louis",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -1160,6 +1184,14 @@
     "date_added": "2026-07-25"
   },
   {
+    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
+    "url": "https://www.metacareers.com/jobs/2160167211413098/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
     "url": "https://www.metacareers.com/jobs/2022109075207025/",
     "company": "Meta",
@@ -1308,6 +1340,14 @@
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
     "company": "Adobe",
     "location": "7 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Network Development Engineer Intern - Fall 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
+    "company": "Amazon",
+    "location": "Cupertino, California, USA",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1620,6 +1660,14 @@
     "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "company": "Netflix",
     "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "company": "NVIDIA",
+    "location": "US, MO, St. Louis",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
