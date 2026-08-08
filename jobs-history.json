@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-08-08"
+  },
+  {
     "title": "Software Engineer, Early Career, Campus",
     "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
     "company": "Google",
@@ -416,14 +424,6 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
-    "url": "https://www.metacareers.com/jobs/779670167783218/",
-    "company": "Meta",
-    "location": "Redmond, WA; Seattle, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Software Engineering INTERN",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
     "company": "Microsoft",
@@ -752,10 +752,10 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
-    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
-    "company": "Amazon",
-    "location": "Jeffersonville, Ohio, USA",
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+    "company": "Autodesk",
+    "location": "Quebec, CAN - Remote",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -896,14 +896,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
     "company": "NVIDIA",
@@ -916,14 +908,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
-    "company": "NVIDIA",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -1208,6 +1192,14 @@
     "date_added": "2026-07-25"
   },
   {
+    "title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
+    "url": "https://www.metacareers.com/jobs/779670167783218/",
+    "company": "Meta",
+    "location": "Redmond, WA; Seattle, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
     "url": "https://www.metacareers.com/jobs/2160167211413098/",
     "company": "Meta",
@@ -1372,6 +1364,14 @@
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
     "company": "Adobe",
     "location": "7 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
+    "company": "Amazon",
+    "location": "Jeffersonville, Ohio, USA",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1552,14 +1552,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
-    "company": "Autodesk",
-    "location": "Quebec, CAN - Remote",
-    "status": "Closed",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Intern, Machine Learning Developer",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
     "company": "Autodesk",
@@ -1700,6 +1692,22 @@
     "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "company": "Netflix",
     "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
