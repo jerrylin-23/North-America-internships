@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-142-green?style=flat-square)](#-active-postings-142)
+[![Active Postings](https://img.shields.io/badge/active%20postings-141-green?style=flat-square)](#-active-postings-141)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-08-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (142)
+## 📈 Active Postings (141)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -78,7 +78,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
 | **Roblox** | Global Security Manager, Campus Security | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8075125?gh_jid=8075125) | 2026-07-25 |
 | **Salesforce** | Summer 2027 Intern - Software Engineer | `2 Locations` | 🟢 Active | [Apply ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 2026-07-25 |
-| **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🟢 Active | [Apply ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **Intel** | AI Software Engineering Intern | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 2026-07-18 |
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
@@ -175,7 +174,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (122)
+## 🔒 Closed Postings (123)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -190,6 +189,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Meta** | Research Scientist Intern, Embedded Contextual AI on Wearables (PhD) | `Sunnyvale, CA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2160167211413098/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Photorealistic Telepresence (PhD) | `Sausalito, CA; Pittsburgh, PA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2022109075207025/) | 2026-07-25 |
 | **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
+| **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🔴 Closed | [Link ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
