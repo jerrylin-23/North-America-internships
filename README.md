@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-140-green?style=flat-square)](#-active-postings-140)
+[![Active Postings](https://img.shields.io/badge/active%20postings-139-green?style=flat-square)](#-active-postings-139)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-10-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (140)
+## 📈 Active Postings (139)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -29,7 +29,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Intern Opportunities for University Students - CoreAI | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 2026-08-03 |
 | **Microsoft** | Software Engineer - Gears of War - The Coalition: Internship Opportunities | `Canada, British Columbia, Vancouver` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 2026-08-03 |
 | **Microsoft** | Solution Engineer - Oman Nationalization Internship | `Oman, Masqat, Rusayl` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556945086) | 2026-07-31 |
 | **Modal** | ML Research Intern | `New York` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-07-29 |
@@ -173,10 +172,11 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (124)
+## 🔒 Closed Postings (125)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Microsoft** | Software Engineer: Intern Opportunities for University Students - CoreAI | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 2026-08-03 |
 | **BMO** | Data and AI Operations Analyst (Cloud), Fall 2026 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | 2026-07-29 |
 | **Intel** | AI Applied intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 2026-07-28 |
 | **Google** | Software Engineering Intern, BS, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | 2026-07-25 |
