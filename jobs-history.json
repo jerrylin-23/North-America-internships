@@ -1,5 +1,13 @@
 [
   {
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-08-11"
+  },
+  {
     "title": "Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
     "company": "Autodesk",
@@ -644,14 +652,6 @@
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
     "company": "Squarepoint Capital",
     "location": "London, Montreal, Hong Kong, New York, Singapore",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
-    "company": "Stripe",
-    "location": "Toronto",
     "status": "Active",
     "date_added": "2026-07-11"
   },
@@ -1340,6 +1340,14 @@
     "url": "https://careers.roblox.com/jobs/7998438?gh_jid=7998438",
     "company": "Roblox",
     "location": "Remote; San Mateo, CA, United States",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+    "company": "Stripe",
+    "location": "Toronto",
     "status": "Closed",
     "date_added": "2026-07-11"
   },
