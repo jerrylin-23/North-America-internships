@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-139-green?style=flat-square)](#-active-postings-139)
+[![Active Postings](https://img.shields.io/badge/active%20postings-134-green?style=flat-square)](#-active-postings-134)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-11-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (139)
+## 📈 Active Postings (134)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -25,11 +25,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Roblox** | [Summer 2027] Software Engineer Intern | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-06 |
 | **Amazon** | 2027 MBA Leadership Development Program (MLDP) Intern | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | 2026-08-05 |
 | **Intel** | AI Software Engineer Graduate Intern | `Virtual US` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922923) | 2026-08-04 |
-| **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 2026-08-04 |
 | **Microsoft** | Software Engineer - Gears of War - The Coalition: Internship Opportunities | `Canada, British Columbia, Vancouver` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 2026-08-03 |
 | **Microsoft** | Solution Engineer - Oman Nationalization Internship | `Oman, Masqat, Rusayl` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556945086) | 2026-07-31 |
 | **Modal** | ML Research Intern | `New York` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-07-29 |
@@ -70,7 +65,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/24536664159369645/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Monetization Generative AI - LLM (PhD) | `Bellevue, WA; Menlo Park, CA; Seattle, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2916726525182155/) | 2026-07-25 |
 | **Microsoft** | Software Engineering INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556911730) | 2026-07-25 |
-| **Microsoft** | Data Science INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556917520) | 2026-07-25 |
 | **Microsoft** | Research Intern - Self-Improving AI | `United States, Massachusetts, Cambridge; United States, New York, New York` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 2026-07-25 |
 | **Microsoft** | Research Sciences INTERN | `India, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556641091) | 2026-07-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
@@ -109,6 +103,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Amazon** | Software Development Engineer Internship - Fall 2026 (US) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 2026-07-09 |
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2026-07-09 |
 | **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | 2026-07-09 |
+| **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | `Quebec, CAN - Remote` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 2026-07-09 |
 | **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Toronto, Ontario , Canada` | 🟢 Active | [Apply ↗](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | 2026-07-09 |
 | **HPE** | HPE Labs - EMEA Research Lab Ph.D. Intern | `3 Locations` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-07-09 |
@@ -172,10 +167,15 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (126)
+## 🔒 Closed Postings (131)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Microsoft** | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 2026-08-04 |
+| **Microsoft** | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922923) | 2026-08-04 |
+| **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
+| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 2026-08-04 |
+| **Microsoft** | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Intern Opportunities for University Students - CoreAI | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 2026-08-03 |
 | **BMO** | Data and AI Operations Analyst (Cloud), Fall 2026 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | 2026-07-29 |
 | **Intel** | AI Applied intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 2026-07-28 |
@@ -187,6 +187,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Meta** | Research Scientist Intern, Machine Perception for Input and Interaction (PhD) | `Redmond, WA; Seattle, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/779670167783218/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Embedded Contextual AI on Wearables (PhD) | `Sunnyvale, CA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2160167211413098/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Photorealistic Telepresence (PhD) | `Sausalito, CA; Pittsburgh, PA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2022109075207025/) | 2026-07-25 |
+| **Microsoft** | Data Science INTERN | `India, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556917520) | 2026-07-25 |
 | **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
 | **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🔴 Closed | [Link ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
@@ -230,7 +231,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Amazon** | 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | `San Francisco, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | 2026-07-09 |
 | **Amazon** | Loss Prevention Specialist Intern 2026 | `Stockton, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3094856/loss-prevention-specialist-intern-2026) | 2026-07-09 |
 | **Amazon** | Amazon Robotics - 2026 Supply Chain Intern/Co-op, Robotics Supply Chain | `North Reading, Massachusetts, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3088741/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain) | 2026-07-09 |
-| **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | `Quebec, CAN - Remote` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 2026-07-09 |
 | **Autodesk** | Intern, Machine Learning Developer | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 2026-07-09 |
 | **Autodesk** | Intern, AI in Design & Manufacturing | `AMER - Canada - Ontario - Toronto - University Ave` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900) | 2026-07-09 |
 | **Autodesk** | Intern, Content Management | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) | 2026-07-09 |
