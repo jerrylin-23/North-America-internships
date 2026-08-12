@@ -1,5 +1,13 @@
 [
   {
+    "title": "Software Engineering Intern - Future Pathways",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-08-12"
+  },
+  {
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
     "company": "Figma",
@@ -62,14 +70,6 @@
     "location": "Seattle, Washington, USA",
     "status": "Active",
     "date_added": "2026-08-05"
-  },
-  {
-    "title": "AI Software Engineer Graduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
-    "company": "Intel",
-    "location": "Virtual US",
-    "status": "Active",
-    "date_added": "2026-08-04"
   },
   {
     "title": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
@@ -388,14 +388,6 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
     "company": "Microsoft",
     "location": "India, Multiple Locations, Multiple Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Intern - Self-Improving AI",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
-    "company": "Microsoft",
-    "location": "United States, Massachusetts, Cambridge; United States, New York, New York",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -1072,6 +1064,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "AI Software Engineer Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
+    "company": "Intel",
+    "location": "Virtual US",
+    "status": "Closed",
+    "date_added": "2026-08-04"
+  },
+  {
     "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
     "company": "Microsoft",
@@ -1196,6 +1196,14 @@
     "url": "https://www.metacareers.com/jobs/2022109075207025/",
     "company": "Meta",
     "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Intern - Self-Improving AI",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
+    "company": "Microsoft",
+    "location": "United States, Massachusetts, Cambridge; United States, New York, New York",
     "status": "Closed",
     "date_added": "2026-07-25"
   },
