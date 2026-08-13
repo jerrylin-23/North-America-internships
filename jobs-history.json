@@ -1,13 +1,5 @@
 [
   {
-    "title": "Software Engineering Intern - Future Pathways",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
-    "company": "Salesforce",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-08-12"
-  },
-  {
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
     "company": "Figma",
@@ -40,14 +32,6 @@
     "date_added": "2026-08-07"
   },
   {
-    "title": "Research Intern - Firmware Security",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-08-06"
-  },
-  {
     "title": "Software Engineering Intern, Dynamo - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
     "company": "NVIDIA",
@@ -70,14 +54,6 @@
     "location": "Seattle, Washington, USA",
     "status": "Active",
     "date_added": "2026-08-05"
-  },
-  {
-    "title": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
-    "company": "Microsoft",
-    "location": "Canada, British Columbia, Vancouver",
-    "status": "Active",
-    "date_added": "2026-08-03"
   },
   {
     "title": "Solution Engineer - Oman Nationalization Internship",
@@ -1072,6 +1048,22 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Software Engineering Intern - Future Pathways",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-08-12"
+  },
+  {
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-08-06"
+  },
+  {
     "title": "AI Software Engineer Graduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "company": "Intel",
@@ -1118,6 +1110,14 @@
     "location": "United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
+    "company": "Microsoft",
+    "location": "Canada, British Columbia, Vancouver",
+    "status": "Closed",
+    "date_added": "2026-08-03"
   },
   {
     "title": "Software Engineer: Intern Opportunities for University Students - CoreAI",
