@@ -2,7 +2,7 @@
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
 [![Active Postings](https://img.shields.io/badge/active%20postings-131-green?style=flat-square)](#-active-postings-131)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-13-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-14-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -16,6 +16,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Amazon** | Automation Engineer Intern, (Nationwide) - Summer 2027 | `Mt Juliet, Tennessee, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027) | 2026-08-14 |
 | **Figma** | Software Engineer Intern (Winter 2027) | `San Francisco, CA • New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | 2026-08-11 |
 | **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP | `Montreal, QC, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) | 2026-08-08 |
 | **Google** | Software Engineer, Early Career, Campus | `Mountain View, CA, USA; Cambridge, MA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus) | 2026-08-07 |
@@ -125,7 +126,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Software Engineer, Internship - Defense Tech | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) | 2026-07-09 |
 | **Palantir** | Software Engineer, Internship - Infrastructure | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | 2026-07-09 |
 | **Palantir** | Software Engineer, Internship - Production Infrastructure | `Seattle, WA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | 2026-07-09 |
-| **StackAdapt** | Software Engineer Intern - Fall 2026 | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009) | 2026-07-09 |
 | **Tower Research Capital** | Quantitative Developer Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 2026-07-09 |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | `New York` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 2026-07-09 |
 | **Tower Research Capital** | Quantitative Trader Intern - Summer 2027 | `New York, Chicago` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 2026-07-09 |
@@ -164,7 +164,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (135)
+## 🔒 Closed Postings (136)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -264,6 +264,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **RBC** | Wealth Management Intern | `Boulder, Colorado, United States of America` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boulder-Colorado-United-States-of-America/Wealth-Management-Intern_R-0000175466-1) | 2026-07-09 |
 | **RBC** | Intern | `Rochester, New York, United States of America` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Rochester-New-York-United-States-of-America/Intern_R-0000178588-1) | 2026-07-09 |
 | **Squarepoint Capital** | Operations Intern (Fall) | `Montreal` | 🔴 Closed | [Link ↗](https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436) | 2026-07-09 |
+| **StackAdapt** | Software Engineer Intern - Fall 2026 | `Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009) | 2026-07-09 |
 | **TD Bank** | Finance ESG Reporting Co-op/Intern Fall 2026 | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Finance-ESG-Reporting-Co-op-Intern-Fall-2026_R_1497995-1) | 2026-07-09 |
 | **Toast** | MBA Intern - AI Ops Transformation | `Boston, MA` | 🔴 Closed | [Link ↗](https://careers.toasttab.com/jobs?gh_jid=7909139) | 2026-07-09 |
 | **Verkada** | Global Sourcing Specialist (Co-op) | `San Mateo, CA United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/verkada/jobs/5175755007) | 2026-07-09 |
