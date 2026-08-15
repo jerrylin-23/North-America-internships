@@ -40,6 +40,30 @@
     "date_added": "2026-08-15"
   },
   {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-08-15"
+  },
+  {
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-08-15"
+  },
+  {
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-08-15"
+  },
+  {
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
     "company": "Figma",
@@ -604,14 +628,6 @@
     "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
     "company": "Palantir",
     "location": "Seattle, WA",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "New Graduate Engineer, Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
-    "company": "SpaceX",
-    "location": "Sunnyvale, CA",
     "status": "Active",
     "date_added": "2026-07-11"
   },
@@ -1396,6 +1412,14 @@
     "url": "https://careers.roblox.com/jobs/7998438?gh_jid=7998438",
     "company": "Roblox",
     "location": "Remote; San Mateo, CA, United States",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "New Graduate Engineer, Software (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
+    "company": "SpaceX",
+    "location": "Sunnyvale, CA",
     "status": "Closed",
     "date_added": "2026-07-11"
   },
