@@ -1,5 +1,37 @@
 [
   {
+    "title": "2027 Winter - GRM, Data Scientist Intern (8 Months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-08-19"
+  },
+  {
+    "title": "2027 Winter Student Opportunities Technology & Operations - Quality Engineering & Automation, 4-8 Months",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quality-Engineering---Automation--4-8-Months_R-0000184801-1",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-08-19"
+  },
+  {
+    "title": "2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1",
+    "company": "RBC",
+    "location": "3 Locations",
+    "status": "Active",
+    "date_added": "2026-08-19"
+  },
+  {
+    "title": "2027 Winter – GRM, MCCR Policy AI Applications Intern (4 Months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-08-19"
+  },
+  {
     "title": "Software Development Graduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
     "company": "Intel",
@@ -110,14 +142,6 @@
     "location": "TORONTO, Ontario, Canada",
     "status": "Active",
     "date_added": "2026-08-18"
-  },
-  {
-    "title": "Intern, Research Associate (HCI)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Research-Associate--HCI-_26WD100593-1",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-08-15"
   },
   {
     "title": "Physical Design Engineering Graduate Intern",
@@ -1104,14 +1128,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Forward Deployed Software Engineer, Internship - Poland",
-    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
-    "company": "Palantir",
-    "location": "New York, NY",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Forward Deployed Software Engineer, Internship - US Government",
     "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
     "company": "Palantir",
@@ -1184,6 +1200,14 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "Intern Software Developer - Fall 2026",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+    "company": "Squarepoint Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Quantitative Researcher, Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
     "company": "Aquatic Capital Management",
@@ -1198,6 +1222,14 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Intern, Research Associate (HCI)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Research-Associate--HCI-_26WD100593-1",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-08-15"
   },
   {
     "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
@@ -2144,6 +2176,14 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
     "company": "Pinterest",
@@ -2204,14 +2244,6 @@
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
     "company": "Scale AI",
     "location": "San Francisco, CA",
-    "status": "Closed",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Intern Software Developer - Fall 2026",
-    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
-    "company": "Squarepoint Capital",
-    "location": "Montreal",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
