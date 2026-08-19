@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-153-green?style=flat-square)](#-active-postings-153)
+[![Active Postings](https://img.shields.io/badge/active%20postings-173-green?style=flat-square)](#-active-postings-173)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-19-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,32 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (153)
+## 📈 Active Postings (173)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Microsoft** | AI Software Engineering Intern | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556962891) | 2026-08-19 |
+| **Microsoft** | Research Science: Internship opportunities | `Hong Kong, Multiple Locations, Multiple Locations` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556747969) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Generative AI | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Hardware Verification | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Hardware ASIC Design | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Hardware Design for Test (DFT) | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Systems Software Engineering | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Deep Learning Computer Architecture | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Software Engineering | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-19 |
+| **NVIDIA** | NVIDIA Spring 2027 Internships: Developer and Performance Technology | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Deep Learning | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Hardware Engineering | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Robotics | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Large Language Models | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Hardware | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855) | 2026-08-19 |
+| **NVIDIA** | NVIDIA 2027 Summer Internships: Ph.D. Engineering | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | 2026-08-19 |
 | **RBC** | 2027 Winter - GRM, Data Scientist Intern (8 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1) | 2026-08-19 |
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Quality Engineering & Automation, 4-8 Months | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quality-Engineering---Automation--4-8-Months_R-0000184801-1) | 2026-08-19 |
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months | `3 Locations` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1) | 2026-08-19 |
@@ -91,7 +113,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
-| **Roblox** | Global Security Manager, Campus Security | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8075125?gh_jid=8075125) | 2026-07-25 |
 | **Salesforce** | Summer 2027 Intern - Software Engineer | `2 Locations` | 🟢 Active | [Apply ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 2026-07-25 |
 | **Intel** | AI Software Engineering Intern | `2 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 2026-07-18 |
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
@@ -114,7 +135,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Squarepoint Capital** | Trading Infrastructure Specialist – Graduate Programme | `London, Montreal, Hong Kong, New York, Singapore` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 2026-07-11 |
 | **Verkada** | Technical Support Engineer - University Graduate 2026 | `New York City, NY United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5172974007) | 2026-07-11 |
 | **Amazon** | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 2026-07-09 |
-| **Amazon** | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | `Pasadena, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing) | 2026-07-09 |
 | **Amazon** | Software Development Engineer Fall Intern - Military Veteran | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | 2026-07-09 |
 | **Amazon** | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | `Westboro, Wisconsin, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | 2026-07-09 |
 | **Amazon** | Robotics - Software Development Engineer Intern - 2026 - Toronto | `Toronto, Ontario, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | 2026-07-09 |
@@ -186,7 +206,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (140)
+## 🔒 Closed Postings (142)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -215,6 +235,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Meta** | Research Scientist Intern, Photorealistic Telepresence (PhD) | `Sausalito, CA; Pittsburgh, PA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2022109075207025/) | 2026-07-25 |
 | **Microsoft** | Data Science INTERN | `India, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556917520) | 2026-07-25 |
 | **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
+| **Roblox** | Global Security Manager, Campus Security | `San Mateo, CA, United States` | 🔴 Closed | [Link ↗](https://careers.roblox.com/jobs/8075125?gh_jid=8075125) | 2026-07-25 |
 | **Sun Life Financial** | Network Operations Analyst (Entry level) | `4 Locations` | 🔴 Closed | [Link ↗](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325) | 2026-07-25 |
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
@@ -236,6 +257,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Stripe** | Software Engineer, New Grad, Developer & End User Experience Platform | `Toronto` | 🔴 Closed | [Link ↗](https://stripe.com/jobs/search?gh_jid=7991718) | 2026-07-11 |
 | **Adobe** | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern | `3 Locations` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 2026-07-09 |
 | **Adobe** | 2026 Intern - Research Scientist/Engineer | `7 Locations` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 2026-07-09 |
+| **Amazon** | Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing | `Pasadena, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing) | 2026-07-09 |
 | **Amazon** | Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning | `Jeffersonville, Ohio, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning) | 2026-07-09 |
 | **Amazon** | Network Development Engineer Intern - Fall 2026 | `Cupertino, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026) | 2026-07-09 |
 | **Amazon** | Hardware Development Engineer Co-op (FALL) | `Sunnyvale, California, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10421947/hardware-development-engineer-co-op-fall) | 2026-07-09 |
