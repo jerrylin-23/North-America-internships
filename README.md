@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-187-green?style=flat-square)](#-active-postings-187)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-193-green?style=flat-square)](#-active-postings-193)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-26-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,18 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (187)
+## 📈 Active Postings (193)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Autodesk** | PhD Intern - AI Researcher for CAD (B-Rep) Generation | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254-1) | 2026-08-26 |
+| **BMO** | BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship) | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951-1) | 2026-08-26 |
+| **RBC** | 2027 Winter – GRM, Commercial Portfolio Risk & Credit Analytics Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201-1) | 2026-08-26 |
+| **Verkada** | Backend Software Engineering Intern 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5210813007) | 2026-08-26 |
+| **Verkada** | Embedded Software Engineering Intern 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | 2026-08-26 |
+| **Verkada** | Frontend Software Engineering Intern 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | 2026-08-26 |
+| **Verkada** | Mobile Software Engineering Intern 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 2026-08-26 |
+| **Verkada** | Security Software Engineering Intern 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | 2026-08-26 |
 | **Google** | Software Engineering Intern, PhD, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027) | 2026-08-25 |
 | **Jump Trading** | Campus Quantitative Researcher, PhD (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8125888) | 2026-08-25 |
 | **NVIDIA** | AI Research Intern, TAO Multi-Modal Model Development - 2026 | `2 Locations` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301) | 2026-08-25 |
@@ -55,7 +63,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Quality Engineering & Automation, 4-8 Months | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quality-Engineering---Automation--4-8-Months_R-0000184801-1) | 2026-08-19 |
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months | `3 Locations` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1) | 2026-08-19 |
 | **RBC** | 2027 Winter – GRM, MCCR Policy AI Applications Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1) | 2026-08-19 |
-| **Intel** | Software Development Graduate Intern | `US, California, Folsom` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) | 2026-08-18 |
 | **NVIDIA** | Software Engineering Intern, NCCL - 2026 | `2 Locations` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2026-08-18 |
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Software Developer, 8 Months | `5 Locations` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-2) | 2026-08-18 |
 | **RBC** | 2027 Winter Student Opportunities Technology & Operations - Software Developer, 4 Months | `2 Locations` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-1) | 2026-08-18 |
@@ -132,7 +139,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052313) | 2026-07-11 |
-| **Jump Trading** | Campus AI Research Engineer – Research Automation (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052356) | 2026-07-11 |
 | **Jump Trading** | Campus Quantitative Researcher, UG/MS (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7728630) | 2026-07-11 |
 | **Jump Trading** | Campus Quantitative Trader (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7982619) | 2026-07-11 |
 | **Jump Trading** | Campus Software Engineer (Full-Time) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8000835) | 2026-07-11 |
@@ -220,13 +226,14 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (144)
+## 🔒 Closed Postings (146)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Google** | Software Engineering Intern, PhD, Summer 2026 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026) | 2026-08-24 |
 | **BMO** | Personal & Business Banking Development Program (New Graduate) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260023536) | 2026-08-20 |
 | **Microsoft** | Research Science: Internship opportunities | `Hong Kong, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556747969) | 2026-08-19 |
+| **Intel** | Software Development Graduate Intern | `US, California, Folsom` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) | 2026-08-18 |
 | **Autodesk** | Intern, Research Associate (HCI) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Research-Associate--HCI-_26WD100593-1) | 2026-08-15 |
 | **Salesforce** | Software Engineering Intern - Future Pathways | `2 Locations` | 🔴 Closed | [Link ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842) | 2026-08-12 |
 | **Microsoft** | Research Intern - Firmware Security | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556955518) | 2026-08-06 |
@@ -258,6 +265,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
 | **HPE** | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
+| **Jump Trading** | Campus AI Research Engineer – Research Automation (Full-Time) | `Chicago; New York` | 🔴 Closed | [Link ↗](https://www.jumptrading.com/hr/job?gh_jid=8052356) | 2026-07-11 |
 | **Notion** | Software Engineer, New Grad | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | 2026-07-11 |
 | **Notion** | Software Engineer, New Grad (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | 2026-07-11 |
 | **Notion** | Software Engineer, Early Career (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 2026-07-11 |
