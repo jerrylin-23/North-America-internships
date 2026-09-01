@@ -1,5 +1,37 @@
 [
   {
+    "title": "2027 Intern - Machine Learning Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+    "company": "Adobe",
+    "location": "6 Locations",
+    "status": "Active",
+    "date_added": "2026-09-01"
+  },
+  {
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "company": "Stripe",
+    "location": "San Francisco, Seattle, New York City",
+    "status": "Active",
+    "date_added": "2026-09-01"
+  },
+  {
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "company": "Stripe",
+    "location": "San Francisco, Seattle, New York",
+    "status": "Active",
+    "date_added": "2026-09-01"
+  },
+  {
+    "title": "2027 Summer Graduate Leadership Internship Program - Retail Banking Strategy & AI",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1",
+    "company": "TD Bank",
+    "location": "4 Locations",
+    "status": "Active",
+    "date_added": "2026-09-01"
+  },
+  {
     "title": "Data Science Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632",
     "company": "HPE",
@@ -1168,22 +1200,6 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "Campus Quantitative Researcher, UG/MS (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus Quantitative Trader (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
     "title": "Campus Software Engineer (Full-Time)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8000835",
     "company": "Jump Trading",
@@ -1972,6 +1988,22 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Quantitative Researcher, UG/MS (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Quantitative Trader (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
     "status": "Closed",
     "date_added": "2026-07-11"
   },

@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-210-green?style=flat-square)](#-active-postings-210)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-08-31-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-212-green?style=flat-square)](#-active-postings-212)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-01-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,14 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (210)
+## 📈 Active Postings (212)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Adobe** | 2027 Intern - Machine Learning Engineer | `6 Locations` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | 2026-09-01 |
+| **Stripe** | Software Engineer, Intern (Summer or Winter) | `San Francisco, Seattle, New York City` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8128745) | 2026-09-01 |
+| **Stripe** | Software Engineer, New Grad | `San Francisco, Seattle, New York` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8128744) | 2026-09-01 |
+| **TD Bank** | 2027 Summer Graduate Leadership Internship Program - Retail Banking Strategy & AI | `4 Locations` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1) | 2026-09-01 |
 | **HPE** | Data Science Intern | `10 Locations` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632) | 2026-08-31 |
 | **Intel** | AI Solutions Engineering Graduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Graduate-Intern_JR0286546) | 2026-08-31 |
 | **RBC** | 2027 Winter - GRM, Data Analyst Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1) | 2026-08-31 |
@@ -162,8 +166,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052313) | 2026-07-11 |
-| **Jump Trading** | Campus Quantitative Researcher, UG/MS (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7728630) | 2026-07-11 |
-| **Jump Trading** | Campus Quantitative Trader (Full-Time) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7982619) | 2026-07-11 |
 | **Jump Trading** | Campus Software Engineer (Full-Time) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8000835) | 2026-07-11 |
 | **Jump Trading** | Campus Systems Engineer (Full-Time) | `Chicago` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8008112) | 2026-07-11 |
 | **Konrad Group** | Mobile Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-07-11 |
@@ -243,7 +245,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (154)
+## 🔒 Closed Postings (156)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -284,6 +286,8 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
 | **HPE** | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
+| **Jump Trading** | Campus Quantitative Researcher, UG/MS (Full-Time) | `Chicago; New York` | 🔴 Closed | [Link ↗](https://www.jumptrading.com/hr/job?gh_jid=7728630) | 2026-07-11 |
+| **Jump Trading** | Campus Quantitative Trader (Full-Time) | `Chicago; New York` | 🔴 Closed | [Link ↗](https://www.jumptrading.com/hr/job?gh_jid=7982619) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Research Automation (Full-Time) | `Chicago; New York` | 🔴 Closed | [Link ↗](https://www.jumptrading.com/hr/job?gh_jid=8052356) | 2026-07-11 |
 | **Notion** | Software Engineer, New Grad | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | 2026-07-11 |
 | **Notion** | Software Engineer, New Grad (AI) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | 2026-07-11 |
