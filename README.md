@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-233-green?style=flat-square)](#-active-postings-233)
+[![Active Postings](https://img.shields.io/badge/active%20postings-240-green?style=flat-square)](#-active-postings-240)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-02-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (233)
+## 📈 Active Postings (240)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -26,6 +26,13 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **BMO** | Commercial Analyst Development Program - Atlanta, GA (New Grad 2027) | `Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Atlanta-GA-USA/Commercial-Analyst-Development-Program---Atlanta--GA--New-Grad-2027-_R260025591) | 2026-09-02 |
 | **Google** | Data Analytics Apprenticeship, February 2027 Start | `New York, NY, USA; Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start) | 2026-09-02 |
 | **HPE** | Electrical Engineering Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | 2026-09-02 |
+| **Intel** | Software Engineering - Intern, Graduate | `5 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 2026-09-02 |
+| **Intel** | Software Engineering - Intern, Bachelor’s | `5 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | 2026-09-02 |
+| **Intel** | Silicon Hardware Engineering - Intern, Bachelor’s | `5 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | 2026-09-02 |
+| **Intel** | Silicon Hardware Engineering - Intern, Graduate | `5 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) | 2026-09-02 |
+| **Intel** | Manufacturing and Process Development - Intern, Graduate | `3 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833) | 2026-09-02 |
+| **Intel** | Manufacturing and Process Development - Intern, Bachelor’s | `3 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825) | 2026-09-02 |
+| **Intel** | Platform Hardware and Systems Engineering - Intern, Graduate | `5 Locations` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) | 2026-09-02 |
 | **Microsoft** | Data Science: Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556982897) | 2026-09-02 |
 | **Microsoft** | Data Science: PhD Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556982928) | 2026-09-02 |
 | **RBC** | 2027 Winter - GRM, FC Insights and Analytics Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--FC-Insights-and-Analytics-Intern--4-Months-_R-0000185601-2) | 2026-09-02 |
