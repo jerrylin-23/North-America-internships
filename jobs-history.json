@@ -1,5 +1,53 @@
 [
   {
+    "title": "2027 Intern - Software Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+    "company": "Adobe",
+    "location": "7 Locations",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "Pre-Silicon Diagnostics Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394",
+    "company": "HPE",
+    "location": "Ft. Collins, Colorado, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "ASIC Firmware and Diagnostic Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415",
+    "company": "HPE",
+    "location": "2 Locations",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "Credit & Fraud Analytics Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
+    "company": "Wealthsimple (Ashby)",
+    "location": "Toronto, Ontario",
+    "status": "Active",
+    "date_added": "2026-09-04"
+  },
+  {
     "title": "Commercial Analyst Development Program - Los Angeles/Newport Beach, CA (New Grad 2027)",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801",
     "company": "BMO",
@@ -20,14 +68,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
     "company": "Intel",
     "location": "5 Locations",
-    "status": "Active",
-    "date_added": "2026-09-03"
-  },
-  {
-    "title": "System Technology - Research Engineer (PhD Intern)",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791",
-    "company": "Intel",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-09-03"
   },
@@ -1400,14 +1440,6 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Research Sciences INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
-    "company": "Microsoft",
-    "location": "India, Multiple Locations, Multiple Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
     "company": "Microsoft",
@@ -1976,6 +2008,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "System Technology - Research Engineer (PhD Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791",
+    "company": "Intel",
+    "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-03"
+  },
+  {
     "title": "Module Engineering - (PhD Intern)",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering----PhD-Intern-_JR0286628",
     "company": "Intel",
@@ -2172,6 +2212,14 @@
     "url": "https://www.metacareers.com/jobs/2022109075207025/",
     "company": "Meta",
     "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
     "status": "Closed",
     "date_added": "2026-07-25"
   },
