@@ -88,6 +88,22 @@
     "date_added": "2026-09-12"
   },
   {
+    "title": "Software Engineering Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-12"
+  },
+  {
+    "title": "Security Assurance Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556988203",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-12"
+  },
+  {
     "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
     "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
     "company": "Amazon",
@@ -108,22 +124,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
     "company": "Intel",
     "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-09-11"
-  },
-  {
-    "title": "Research Scientist Intern, Optical System Design (PhD)",
-    "url": "https://www.metacareers.com/jobs/1796691991338568/",
-    "company": "Meta",
-    "location": "Canada",
-    "status": "Active",
-    "date_added": "2026-09-11"
-  },
-  {
-    "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
-    "url": "https://www.metacareers.com/jobs/1422892385992613/",
-    "company": "Meta",
-    "location": "Canada",
     "status": "Active",
     "date_added": "2026-09-11"
   },
@@ -768,14 +768,6 @@
     "date_added": "2026-09-03"
   },
   {
-    "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond; United States, California, Mountain View",
-    "status": "Active",
-    "date_added": "2026-09-03"
-  },
-  {
     "title": "Commercial Analyst Development Program - Seattle, WA (New Grad 2027)",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748",
     "company": "BMO",
@@ -908,14 +900,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
     "company": "Intel",
     "location": "5 Locations",
-    "status": "Active",
-    "date_added": "2026-09-02"
-  },
-  {
-    "title": "Data Science: PhD Internship Opportunities - Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-02"
   },
@@ -1920,22 +1904,6 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
-    "url": "https://www.metacareers.com/jobs/2916726525182155/",
-    "company": "Meta",
-    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
-    "url": "https://www.metacareers.com/jobs/2022109075207025/",
-    "company": "Meta",
-    "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Software Engineering INTERN",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
     "company": "Microsoft",
@@ -2480,10 +2448,34 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Research Scientist Intern, Optical System Design (PhD)",
+    "url": "https://www.metacareers.com/jobs/1796691991338568/",
+    "company": "Meta",
+    "location": "Canada",
+    "status": "Closed",
+    "date_added": "2026-09-11"
+  },
+  {
+    "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
+    "url": "https://www.metacareers.com/jobs/1422892385992613/",
+    "company": "Meta",
+    "location": "Canada",
+    "status": "Closed",
+    "date_added": "2026-09-11"
+  },
+  {
     "title": "System Technology - Research Engineer (PhD Intern)",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791",
     "company": "Intel",
     "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-03"
+  },
+  {
+    "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond; United States, California, Mountain View",
     "status": "Closed",
     "date_added": "2026-09-03"
   },
@@ -2494,6 +2486,14 @@
     "location": "United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-09-03"
+  },
+  {
+    "title": "Data Science: PhD Internship Opportunities - Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-02"
   },
   {
     "title": "Data Science: Internship Opportunities - Redmond",
@@ -2844,6 +2844,22 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
     "company": "Intel",
     "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
+    "url": "https://www.metacareers.com/jobs/2916726525182155/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+    "url": "https://www.metacareers.com/jobs/2022109075207025/",
+    "company": "Meta",
+    "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
     "status": "Closed",
     "date_added": "2026-07-25"
   },
