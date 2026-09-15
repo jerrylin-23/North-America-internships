@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-337-green?style=flat-square)](#-active-postings-337)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-14-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-345-green?style=flat-square)](#-active-postings-345)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-15-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,18 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (337)
+## 📈 Active Postings (345)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Amazon** | Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX) | `Cleburne, Texas, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) | 2026-09-15 |
+| **BMO** | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3) | 2026-09-15 |
+| **DoorDash** | Software Engineer, Intern (Summer 2027) - TOR | `Toronto, ON` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | 2026-09-15 |
+| **Intel** | AI Solutions Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) | 2026-09-15 |
+| **Microsoft** | Materials Science Engineering INTERN | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556995577) | 2026-09-15 |
+| **RBC** | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) | 2026-09-15 |
+| **RBC** | 2027 Capital Markets, Global Equities, Algorithmic Trading Developer (16 Months, Co-op) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792) | 2026-09-15 |
+| **RBC** | 2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742) | 2026-09-15 |
 | **Figma** | Data Science Intern (2027) | `San Francisco, CA • New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | 2026-09-14 |
 | **Figma** | Software Engineer Intern (Summer 2027) | `San Francisco, CA • New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | 2026-09-14 |
 | **Google** | User Experience Engineer Intern, BS/MS, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027) | 2026-09-14 |
@@ -78,7 +86,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intel** | Compiler Engineering Undergraduate Intern - SYCL Runtime | `Canada, Toronto` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) | 2026-09-10 |
 | **Intel** | Module Engineering PhD Intern - Wet Etch | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) | 2026-09-10 |
 | **Amazon** | Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) | `Bellevue, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) | 2026-09-09 |
-| **Amazon** | Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX) | `Cleburne, Texas, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-spring-and-summer-2027-ca-ct-ga-tx) | 2026-09-09 |
 | **Amazon** | System Dev Engineer I Co-op (Robotics), Autonomous AI Security | `Austin, Texas, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) | 2026-09-09 |
 | **BMO** | Hardware Asset Management Analyst, Winter 2027 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2) | 2026-09-09 |
 | **Coinbase** | Analytics Engineer Intern | `Hybrid - San Francisco, CA` | 🟢 Active | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | 2026-09-09 |
@@ -208,6 +215,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **RBC** | 2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116) | 2026-08-21 |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en développement IA | `Montreal, QC, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) | 2026-08-20 |
 | **Notion** | Data Science Intern (Winter 2027) | `San Francisco, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | 2026-08-20 |
+| **Microsoft** | AI Software Engineering Intern | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556962891) | 2026-08-19 |
 | **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Generative AI | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | 2026-08-19 |
 | **NVIDIA** | NVIDIA 2027 Internships: Hardware Verification | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) | 2026-08-19 |
 | **NVIDIA** | NVIDIA 2027 Internships: Hardware ASIC Design | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | 2026-08-19 |
@@ -377,6 +385,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Intel** | AI Software Engineering PhD Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) | 2026-09-11 |
 | **Meta** | Research Scientist Intern, Optical System Design (PhD) | `Canada` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1796691991338568/) | 2026-09-11 |
 | **Meta** | Research Scientist Intern, Applied Vision and Image Quality (PhD) | `Canada` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1422892385992613/) | 2026-09-11 |
+| **Amazon** | Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX) | `Cleburne, Texas, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-spring-and-summer-2027-ca-ct-ga-tx) | 2026-09-09 |
 | **Intel** | System Technology - Research Engineer (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | 2026-09-03 |
 | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | `United States, Washington, Redmond; United States, California, Mountain View` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556986140) | 2026-09-03 |
 | **Microsoft** | Applied Science: Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556986141) | 2026-09-03 |
@@ -396,7 +405,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Microsoft** | Software Engineering Intern - Azure Core | `Australia, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556971803) | 2026-08-24 |
 | **Microsoft** | AI Software Engineering Intern - Edge | `United States, Washington, Redmond; United States, California, Mountain View` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556979054) | 2026-08-22 |
 | **BMO** | Personal & Business Banking Development Program (New Graduate) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260023536) | 2026-08-20 |
-| **Microsoft** | AI Software Engineering Intern | `United States, Washington, Redmond; United States, California, Mountain View` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556962891) | 2026-08-19 |
 | **Microsoft** | Research Science: Internship opportunities | `Hong Kong, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556747969) | 2026-08-19 |
 | **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation | `US, CA, Santa Clara` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | 2026-08-19 |
 | **NVIDIA** | NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning | `US, CA, Santa Clara` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | 2026-08-19 |
