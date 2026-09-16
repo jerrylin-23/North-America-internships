@@ -1,5 +1,53 @@
 [
   {
+    "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+    "company": "DoorDash",
+    "location": "Toronto, ON",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
+    "title": "Module Engineering PhD Intern Summer 2027",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
+    "title": "Software Engineer Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
+    "company": "Microsoft",
+    "location": "Canada, British Columbia, Vancouver",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
+    "title": "Physical Design and Timing Engineer Intern - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
+    "title": "PhD Research Intern, Generative AI for Physical AI - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
+    "title": "Research Intern, Fundamental Generative AI - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-16"
+  },
+  {
     "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
     "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
     "company": "Amazon",
@@ -36,14 +84,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
-    "status": "Active",
-    "date_added": "2026-09-15"
-  },
-  {
-    "title": "Materials Science Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-15"
   },
@@ -1600,22 +1640,6 @@
     "date_added": "2026-08-20"
   },
   {
-    "title": "AI Software Engineering Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond; United States, California, Mountain View",
-    "status": "Active",
-    "date_added": "2026-08-19"
-  },
-  {
-    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-08-19"
-  },
-  {
     "title": "NVIDIA 2027 Internships: Hardware Verification",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
     "company": "NVIDIA",
@@ -1698,6 +1722,14 @@
   {
     "title": "NVIDIA 2027 Internships: Hardware Engineering",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-08-19"
+  },
+  {
+    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
     "status": "Active",
@@ -2776,6 +2808,14 @@
     "date_added": "2026-09-15"
   },
   {
+    "title": "Materials Science Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-15"
+  },
+  {
     "title": "AI Software Engineering PhD Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
     "company": "Intel",
@@ -2968,10 +3008,26 @@
     "date_added": "2026-08-20"
   },
   {
+    "title": "AI Software Engineering Intern",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond; United States, California, Mountain View",
+    "status": "Closed",
+    "date_added": "2026-08-19"
+  },
+  {
     "title": "Research Science: Internship opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556747969",
     "company": "Microsoft",
     "location": "Hong Kong, Multiple Locations, Multiple Locations",
+    "status": "Closed",
+    "date_added": "2026-08-19"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
     "status": "Closed",
     "date_added": "2026-08-19"
   },
@@ -3026,14 +3082,6 @@
   {
     "title": "NVIDIA 2027 Internships: Ph.D. Research Hardware",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Closed",
-    "date_added": "2026-08-19"
-  },
-  {
-    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
     "status": "Closed",
