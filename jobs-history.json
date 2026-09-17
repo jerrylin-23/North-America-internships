@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-17"
+  },
+  {
     "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
     "company": "NVIDIA",
@@ -116,6 +124,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-15"
+  },
+  {
+    "title": "Materials Science Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-15"
   },
@@ -720,14 +736,6 @@
     "date_added": "2026-09-09"
   },
   {
-    "title": "User Experience Researcher - Winter 2027 Co-op",
-    "url": "https://www.d2l.com/careers/jobs/?job_id=8180678&gh_jid=8180678",
-    "company": "D2L",
-    "location": "Kitchener, ON or Winnipeg, MB",
-    "status": "Active",
-    "date_added": "2026-09-09"
-  },
-  {
     "title": "Mechanical Engineer – PhD/MS New Graduate",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Mechanical-Engineer---PhD-MS-New-Graduate_1208347-2",
     "company": "HPE",
@@ -876,22 +884,6 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-09-08"
-  },
-  {
-    "title": "Liquidity Measurement - Analytics & Reporting Intern/Co-op Winter 2027",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Liquidity-Measurement---Analytics---Reporting-Intern-Co-op-Winter-2027_R_1504121",
-    "company": "TD Bank",
-    "location": "Toronto, Ontario",
-    "status": "Active",
-    "date_added": "2026-09-08"
-  },
-  {
-    "title": "AI2 Data Science Co-op (WINTER 2027)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702",
-    "company": "TD Bank",
-    "location": "Toronto, Ontario",
     "status": "Active",
     "date_added": "2026-09-08"
   },
@@ -1120,6 +1112,14 @@
     "date_added": "2026-09-03"
   },
   {
+    "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond; United States, California, Mountain View",
+    "status": "Active",
+    "date_added": "2026-09-03"
+  },
+  {
     "title": "Commercial Analyst Development Program - Seattle, WA (New Grad 2027)",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748",
     "company": "BMO",
@@ -1252,6 +1252,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
     "company": "Intel",
     "location": "5 Locations",
+    "status": "Active",
+    "date_added": "2026-09-02"
+  },
+  {
+    "title": "Data Science: PhD Internship Opportunities - Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-02"
   },
@@ -2784,14 +2792,6 @@
     "date_added": "2026-09-15"
   },
   {
-    "title": "Materials Science Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Closed",
-    "date_added": "2026-09-15"
-  },
-  {
     "title": "AI Software Engineering PhD Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730",
     "company": "Intel",
@@ -2832,12 +2832,36 @@
     "date_added": "2026-09-09"
   },
   {
+    "title": "User Experience Researcher - Winter 2027 Co-op",
+    "url": "https://www.d2l.com/careers/jobs/?job_id=8180678&gh_jid=8180678",
+    "company": "D2L",
+    "location": "Kitchener, ON or Winnipeg, MB",
+    "status": "Closed",
+    "date_added": "2026-09-09"
+  },
+  {
     "title": "Product Engineer Intern",
     "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
     "company": "Hex",
     "location": "San Francisco",
     "status": "Closed",
     "date_added": "2026-09-09"
+  },
+  {
+    "title": "Liquidity Measurement - Analytics & Reporting Intern/Co-op Winter 2027",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Liquidity-Measurement---Analytics---Reporting-Intern-Co-op-Winter-2027_R_1504121",
+    "company": "TD Bank",
+    "location": "Toronto, Ontario",
+    "status": "Closed",
+    "date_added": "2026-09-08"
+  },
+  {
+    "title": "AI2 Data Science Co-op (WINTER 2027)",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702",
+    "company": "TD Bank",
+    "location": "Toronto, Ontario",
+    "status": "Closed",
+    "date_added": "2026-09-08"
   },
   {
     "title": "AI2 Applied Machine Learning Scientist Co-op (WINTER 2027)",
@@ -2888,28 +2912,12 @@
     "date_added": "2026-09-03"
   },
   {
-    "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond; United States, California, Mountain View",
-    "status": "Closed",
-    "date_added": "2026-09-03"
-  },
-  {
     "title": "Applied Science: Internship Opportunities - Redmond",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-09-03"
-  },
-  {
-    "title": "Data Science: PhD Internship Opportunities - Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Closed",
-    "date_added": "2026-09-02"
   },
   {
     "title": "Data Science: Internship Opportunities - Redmond",
