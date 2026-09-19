@@ -1128,26 +1128,10 @@
     "date_added": "2026-09-05"
   },
   {
-    "title": "Firmware Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond; United States, California, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-09-05"
-  },
-  {
     "title": "Mechanical Engineering INTERN",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556981984",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-05"
-  },
-  {
-    "title": "Hardware Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986143",
-    "company": "Microsoft",
-    "location": "United States, Oregon, Hillsboro",
     "status": "Active",
     "date_added": "2026-09-05"
   },
@@ -1212,14 +1196,6 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415",
     "company": "HPE",
     "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-09-04"
-  },
-  {
-    "title": "Credit & Fraud Analytics Intern (Winter 2027)",
-    "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
-    "company": "Wealthsimple (Ashby)",
-    "location": "Toronto, Ontario",
     "status": "Active",
     "date_added": "2026-09-04"
   },
@@ -1460,14 +1436,6 @@
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1",
     "company": "RBC",
     "location": "TORONTO, Ontario, Canada",
-    "status": "Active",
-    "date_added": "2026-08-31"
-  },
-  {
-    "title": "Software Development and Data Science Internships (Winter 2027)",
-    "url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26",
-    "company": "Wealthsimple (Ashby)",
-    "location": "Toronto, Ontario",
     "status": "Active",
     "date_added": "2026-08-31"
   },
@@ -3064,10 +3032,34 @@
     "date_added": "2026-09-08"
   },
   {
+    "title": "Firmware Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond; United States, California, Santa Clara",
+    "status": "Closed",
+    "date_added": "2026-09-05"
+  },
+  {
+    "title": "Hardware Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986143",
+    "company": "Microsoft",
+    "location": "United States, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-09-05"
+  },
+  {
     "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-04"
+  },
+  {
+    "title": "Credit & Fraud Analytics Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
+    "company": "Wealthsimple (Ashby)",
+    "location": "Toronto, Ontario",
     "status": "Closed",
     "date_added": "2026-09-04"
   },
@@ -3140,6 +3132,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Graduate-Intern_JR0286546",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-08-31"
+  },
+  {
+    "title": "Software Development and Data Science Internships (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26",
+    "company": "Wealthsimple (Ashby)",
+    "location": "Toronto, Ontario",
     "status": "Closed",
     "date_added": "2026-08-31"
   },
