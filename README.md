@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-362-green?style=flat-square)](#-active-postings-362)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-18-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-364-green?style=flat-square)](#-active-postings-364)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-19-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,11 +12,14 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (362)
+## 📈 Active Postings (364)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
-| **Amazon** | Software Development Engineer Internship - Summer -2027 (USA) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | 2026-09-18 |
+| **Amazon** | Software Development Engineer Intern - Summer 2027 (CAN) | `Vancouver, British Columbia, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | 2026-09-19 |
+| **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) | 2026-09-19 |
+| **BMO** | Software Developer, Winter 2027 (Internship) - 4 months | `San Ramon, CA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2) | 2026-09-19 |
+| **Microsoft** | Hardware Engineering Internship (6-Month Program) | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557002608) | 2026-09-19 |
 | **HPE** | PhD Research Intern | `Milpitas, California, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426) | 2026-09-18 |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | 2026-09-18 |
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - SF) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | 2026-09-18 |
@@ -143,7 +146,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5233011007) | 2026-09-09 |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/5121488007) | 2026-09-09 |
 | **BMO** | AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2) | 2026-09-08 |
-| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | `161 Bay Street Corporate, Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) | 2026-09-08 |
 | **Vercel** | Software Engineering Intern - Summer '27 | `Hybrid - San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | 2026-09-08 |
 | **Vercel** | Software Engineering Intern - Winter '27 | `Hybrid - San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | 2026-09-08 |
 | **BMO** | Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672-1) | 2026-09-07 |
@@ -395,10 +397,11 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (207)
+## 🔒 Closed Postings (209)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Amazon** | Software Development Engineer Internship - Summer -2027 (USA) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | 2026-09-18 |
 | **Adobe** | 2027 University Graduate - People Data Scientist | `2 Locations` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---People-Data-Scientist_R171843) | 2026-09-16 |
 | **Intel** | AI Solutions Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) | 2026-09-15 |
 | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027) | `New York, NY` | 🔴 Closed | [Link ↗](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) | 2026-09-12 |
@@ -409,6 +412,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Amazon** | Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX) | `Cleburne, Texas, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-spring-and-summer-2027-ca-ct-ga-tx) | 2026-09-09 |
 | **D2L** | User Experience Researcher - Winter 2027 Co-op | `Kitchener, ON or Winnipeg, MB` | 🔴 Closed | [Link ↗](https://www.d2l.com/careers/jobs/?job_id=8180678&gh_jid=8180678) | 2026-09-09 |
 | **Hex** | Product Engineer Intern | `San Francisco` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30) | 2026-09-09 |
+| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | `161 Bay Street Corporate, Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) | 2026-09-08 |
 | **TD Bank** | Liquidity Measurement - Analytics & Reporting Intern/Co-op Winter 2027 | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Liquidity-Measurement---Analytics---Reporting-Intern-Co-op-Winter-2027_R_1504121) | 2026-09-08 |
 | **TD Bank** | AI2 Data Science Co-op (WINTER 2027) | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702) | 2026-09-08 |
 | **TD Bank** | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1) | 2026-09-08 |

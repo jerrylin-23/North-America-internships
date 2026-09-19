@@ -1,11 +1,35 @@
 [
   {
-    "title": "Software Development Engineer Internship - Summer -2027 (USA)",
-    "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+    "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
+    "company": "Amazon",
+    "location": "Vancouver, British Columbia, CAN",
+    "status": "Active",
+    "date_added": "2026-09-19"
+  },
+  {
+    "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
     "status": "Active",
-    "date_added": "2026-09-18"
+    "date_added": "2026-09-19"
+  },
+  {
+    "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+    "company": "BMO",
+    "location": "San Ramon, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-19"
+  },
+  {
+    "title": "Hardware Engineering Internship (6-Month Program)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-19"
   },
   {
     "title": "PhD Research Intern",
@@ -1012,14 +1036,6 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-09-08"
-  },
-  {
-    "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027)",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
-    "company": "TD Bank",
-    "location": "161 Bay Street Corporate, Toronto, Ontario",
     "status": "Active",
     "date_added": "2026-09-08"
   },
@@ -2896,6 +2912,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Software Development Engineer Internship - Summer -2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
     "title": "2027 University Graduate - People Data Scientist",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---People-Data-Scientist_R171843",
     "company": "Adobe",
@@ -2974,6 +2998,14 @@
     "location": "San Francisco",
     "status": "Closed",
     "date_added": "2026-09-09"
+  },
+  {
+    "title": "TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027)",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
+    "company": "TD Bank",
+    "location": "161 Bay Street Corporate, Toronto, Ontario",
+    "status": "Closed",
+    "date_added": "2026-09-08"
   },
   {
     "title": "Liquidity Measurement - Analytics & Reporting Intern/Co-op Winter 2027",
