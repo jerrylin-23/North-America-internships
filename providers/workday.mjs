@@ -56,6 +56,7 @@ export default {
     const searchText = entry.query || '';
 
     const jobs = [];
+    let total;
     for (let page = 0; page < MAX_PAGES; page++) {
       const body = JSON.stringify({
         limit: PAGE_SIZE,
@@ -68,7 +69,9 @@ export default {
         body,
         headers: { 'content-type': 'application/json', accept: 'application/json' },
       });
-      const postings = Array.isArray(json?.jobPostings) ? json.jobPostings : [];
+      if (!Array.isArray(json?.jobPostings)) throw new Error('workday: invalid response');
+      const postings = json.jobPostings;
+      if (page === 0 && Number.isFinite(json.total)) total = json.total;
       for (const j of postings) {
         if (!j.externalPath) continue;
         jobs.push({
@@ -79,7 +82,8 @@ export default {
           postedAt: parsePostedOn(j.postedOn),
         });
       }
-      if (postings.length < PAGE_SIZE) break;
+      if (postings.length < PAGE_SIZE || (page + 1) * PAGE_SIZE >= total) break;
+      if (page === MAX_PAGES - 1) throw new Error('workday: incomplete scan, page limit reached');
     }
     return jobs;
   },

@@ -24,7 +24,7 @@ export default {
     const apiUrl = resolveApiUrl(entry);
     if (!apiUrl) throw new Error(`lever: cannot derive API URL for ${entry.name}`);
     const json = await ctx.fetchJson(apiUrl);
-    if (!Array.isArray(json)) return [];
+    if (!Array.isArray(json)) throw new Error('lever: invalid response');
     return json.map(j => ({
       title: j.text || '',
       url: j.hostedUrl || '',

@@ -2,8 +2,12 @@ name: Auto-Crawl 2027 Internships
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
+    - cron: '17 */4 * * *' # Runs every 4 hours
   workflow_dispatch: # Allows manual trigger
+
+concurrency:
+  group: internship-crawl
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,6 +15,7 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
@@ -23,27 +28,24 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci || npm install
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
 
       # Meta fingerprints plain HTTP clients, so its provider drives Chromium.
       - name: Install Playwright browser
         run: npx playwright install --with-deps chromium
 
-      # Tesla's edge rejects any client whose TLS fingerprint isn't a real
-      # browser; providers/tesla_jobs.py uses curl_cffi to match Chrome's.
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      # Matches the interpreter path companies.json invokes for Tesla.
-      - name: Install Python dependencies
-        run: |
-          python -m venv .venv
-          .venv/bin/pip install -r requirements.txt
-
       - name: Run crawler
         run: node crawl.js
+
+      - name: Save scan report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-report
+          path: scan-report.json
 
       - name: Commit and push changes
         run: |
@@ -51,8 +53,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Check if there are changes in README.md or jobs-history.json
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md jobs-history.json
+          git add README.md jobs-history.json
+          if ! git diff --cached --quiet; then
             git commit -m "Auto-update internships [skip ci]"
             git push
           else

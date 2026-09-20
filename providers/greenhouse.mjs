@@ -64,7 +64,8 @@ export default {
     // redirect:'error' prevents SSRF via server-side redirects; combined with
     // assertGreenhouseUrl above it guarantees the final hostname stays in the allowlist.
     const json = /** @type {any} */ (await ctx.fetchJson(apiUrl, { redirect: 'error' }));
-    const jobs = Array.isArray(json?.jobs) ? json.jobs : [];
+    if (!Array.isArray(json?.jobs)) throw new Error('greenhouse: invalid response');
+    const jobs = json.jobs;
     return jobs.filter(/** @param {any} j */ j => j.absolute_url).map(/** @param {any} j */ j => ({
       title: j.title || '',
       url: j.absolute_url,

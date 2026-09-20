@@ -119,7 +119,8 @@ export default {
       }
       try {
         const json = /** @type {any} */ (await ctx.fetchJson(apiUrl, { timeoutMs: ASHBY_TIMEOUT_MS }));
-        const jobs = Array.isArray(json?.jobs) ? json.jobs : [];
+        if (!Array.isArray(json?.jobs)) throw new Error('ashby: invalid response');
+        const jobs = json.jobs;
         return jobs.map(/** @param {any} j */ (j) => ({
           title: j.title || '',
           url: j.jobUrl || '',

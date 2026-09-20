@@ -4,7 +4,7 @@
 const DEFAULT_TIMEOUT_MS = 10_000;
 const DEFAULT_USER_AGENT = 'Mozilla/5.0 (compatible; career-ops/1.3)';
 
-async function fetchWithTimeout(url, { timeoutMs = DEFAULT_TIMEOUT_MS, headers = {}, method = 'GET', body = null, redirect = 'follow' } = {}) {
+async function fetchWithTimeout(url, { timeoutMs = DEFAULT_TIMEOUT_MS, headers = {}, method = 'GET', body = null, redirect = 'follow' } = {}, responseType = 'json') {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -23,20 +23,18 @@ async function fetchWithTimeout(url, { timeoutMs = DEFAULT_TIMEOUT_MS, headers =
       err.body = responseText;
       throw err;
     }
-    return res;
+    return await res[responseType]();
   } finally {
     clearTimeout(timer);
   }
 }
 
 export async function fetchJson(url, opts = {}) {
-  const res = await fetchWithTimeout(url, opts);
-  return await res.json();
+  return fetchWithTimeout(url, opts, 'json');
 }
 
 export async function fetchText(url, opts = {}) {
-  const res = await fetchWithTimeout(url, opts);
-  return await res.text();
+  return fetchWithTimeout(url, opts, 'text');
 }
 
 export function makeHttpCtx() {

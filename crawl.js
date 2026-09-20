@@ -1,5 +1,5 @@
 import fs from 'fs';
-import path from 'path';
+import { pathToFileURL } from 'node:url';
 import { makeHttpCtx } from './providers/_http.mjs';
 
 // Import providers
@@ -45,7 +45,7 @@ const providers = {
 };
 
 // API / Provider Detection Logic
-function detectProvider(company) {
+export function detectProvider(company) {
   // 1. Explicit boards-api Greenhouse link in "api" field takes precedence
   if (company.api && (company.api.includes('greenhouse') || company.api.includes('boards-api'))) {
     return providers.greenhouse;
@@ -64,18 +64,18 @@ function detectProvider(company) {
 }
 
 // Early-career qualifier: internships, co-ops, plus new-grad / entry-level roles.
-const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfellow(ship)?\b|\bnew[-\s]?grad(uate)?\b|\buniversity (graduate|grad|hire)\b|\bcampus\b|\bapprentice(ship)?\b|\bworking student\b|\bgraduate (program(me)?|scheme|engineer|developer|analyst)\b|\bentry[-\s]?level\b/i;
+const EARLY_CAREER = /\bintern(ship)?s?\b|\bco-?ops?\b|\bcoop\b|\bstudent\b|\bfellow(ship)?\b|\bnew[-\s]?grad(uate)?\b|\buniversity (graduate|grad|hire)\b|\bapprentice(ship)?\b|\bworking student\b|\bgraduate (program(me)?|scheme|engineer|developer|analyst)\b|\bentry[-\s]?level\b/i;
 
-// Technical role signal — SWE, ML/AI, data, research, systems, security, hardware, quant.
+// Technical role signal; SWE, ML/AI, data, research, systems, security, hardware, quant.
 // Restricts the tracker to engineering/science roles so business internships drop off.
-const TECH_ROLE = /\b(software|swe|sde|develop(er|ment)|programmer|full[-\s]?stack|back[-\s]?end|front[-\s]?end|mobile|ios|android|web dev|devops|sre|site reliability|infrastructure|platform|cloud|distributed|embedded|firmware|hardware|silicon|asic|fpga|vlsi|systems?|robotics|autonom(y|ous)|perception|computer vision|nlp|natural language|machine learning|deep learning|ml|ai|artificial intelligence|data scien(ce|tist)|data engineer|data analy(st|tics)|analytics|research(er|ers)?|applied scien(ce|tist)|quant(itative)?|security|cyber|cryptograph|blockchain|graphics|compiler|network|engineer(ing)?|comput(er|ing) scien|cs)\b/i;
+const TECH_ROLE = /\b(software|swe|sde|develop(er|ment)|programmer|full[-\s]?stack|back[-\s]?end|front[-\s]?end|mobile|ios|android|web dev|devops|sre|site reliability|infrastructure|platform|cloud|distributed|embedded|firmware|hardware|silicon|asic|fpga|vlsi|systems?|robotics|autonom(y|ous)|perception|computer vision|nlp|natural language|machine learning|deep learning|ml|ai|artificial intelligence|data scien(ce|tist)|data engineer|data analy(st|tics)|analytics|research(er|ers)?|applied scien(ce|tist)|quant(itative)?|security|cyber|cryptograph|blockchain|graphics|compiler|network|engineer(ing)?|product manage(r|ment)|comput(er|ing) scien|cs)\b/i;
 
 // Non-technical / business roles to drop even when they trip a tech keyword
 // (e.g. "Business Development", "Sales Engineer", "Financial Data Analyst").
 const BUSINESS_EXCLUDE = /\b(tax|audit|accounting|actuar\w*|wealth|sales|marketing|recruit\w*|human resources|hr|legal|counsel|paralegal|financ\w*|procurement|underwriting|real estate|communications|public relations|administrative|receptionist|talent acquisition|business develop\w*|corporate develop\w*|supply chain|supply planning)\b/i;
 
 // North America tech early-career filter (accepts any open season/year).
-function isTechEarlyCareerNA(job) {
+export function isTechEarlyCareerNA(job) {
   const title = job.title || '';
   const location = (job.location || '').toLowerCase();
 
@@ -85,19 +85,47 @@ function isTechEarlyCareerNA(job) {
   if (!TECH_ROLE.test(title)) return false;
   if (BUSINESS_EXCLUDE.test(title)) return false;
 
-  // 2. Location Check (North America or Remote).
-  // Keep postings with no usable city — Workday collapses multi-city roles into
-  // "Multiple Locations" or "N Locations", which routinely include NA offices.
-  const isUnknownLocation = !location.trim() || /multiple locations|\d+\s+locations?/i.test(location);
-  const isNorthAmerica = /united states|usa|\bus\b|canada|remote/i.test(location) ||
-                         /toronto|waterloo|vancouver|montreal|ottawa|calgary|edmonton|winnipeg|san francisco|new york|seattle|boston|chicago|austin|palo alto|mountain view|sunnyvale|los angeles|denver|atlanta|dallas|houston/i.test(location);
-  if (!isNorthAmerica && !isUnknownLocation) return false;
+  // Require a named Canada/US location. Remote alone does not establish eligibility.
+  const isNorthAmerica = /(?:\b(united states|usa|us|canada)\b|\bu\.s\.(?:a\.?)?(?=\W|$))/i.test(location) ||
+    /\b(toronto|waterloo|kitchener|vancouver|montr[eé]al|ottawa|calgary|edmonton|winnipeg|qu[eé]bec|san francisco|new york|seattle|boston|chicago|austin|palo alto|mountain view|sunnyvale|los angeles|denver|atlanta|dallas|houston|pittsburgh|san jose|san diego|san mateo|redmond)\b/i.test(location) ||
+    /,\s*(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC|ON|BC|QC|AB|MB|SK|NS|NB|NL|PE|YT|NT|NU)(?=\s|[,;/)]|$)/.test(job.location || '') ||
+    /\b(california|massachusetts|washington|ontario|british columbia|alberta|nova scotia|new brunswick|saskatchewan)\b/i.test(location);
+  if (!isNorthAmerica) return false;
 
   return true;
 }
 
+// Use the provider endpoint so aliases cannot trigger duplicate board requests.
+export function uniqueBoards(companies) {
+  const seen = new Set();
+  return companies.filter(company => {
+    const provider = detectProvider(company);
+    const endpoint = provider?.detect(company)?.url || company.careers_url;
+    const key = `${provider?.id}:${endpoint}:${company.query || ''}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+export function mergeHistory(history, activeJobs, scannedCompanies, today) {
+  const key = job => `${job.company}\n${job.url}`;
+  const active = new Map(activeJobs.filter(job => job.url).map(job => [key(job), job]));
+  const merged = new Map();
+  for (const job of history) {
+    const current = active.get(key(job));
+    merged.set(key(job), current
+      ? { ...job, ...current, status: 'Active' }
+      : { ...job, status: scannedCompanies.has(job.company) ? 'Closed' : job.status });
+  }
+  for (const [id, job] of active) {
+    if (!merged.has(id)) merged.set(id, { ...job, status: 'Active', date_added: today });
+  }
+  return [...merged.values()];
+}
+
 // Concurrency queue
-async function runConcurrent(tasks, limit) {
+export async function runConcurrent(tasks, limit) {
   const results = [];
   const executing = new Set();
   
@@ -122,7 +150,7 @@ async function main() {
     if (!fs.existsSync(COMPANIES_PATH)) {
       throw new Error(`Companies list not found at ${COMPANIES_PATH}`);
     }
-    const companies = JSON.parse(fs.readFileSync(COMPANIES_PATH, 'utf8')).filter(c => c.enabled);
+    const companies = uniqueBoards(JSON.parse(fs.readFileSync(COMPANIES_PATH, 'utf8')).filter(c => c.enabled));
     console.log(`Loaded ${companies.length} active companies.`);
 
     // Load history
@@ -135,12 +163,14 @@ async function main() {
     const activeJobs = [];
     const scannedCompanies = new Set();
     const ctx = makeHttpCtx();
+    const scanResults = [];
 
     // Build scraping tasks
     const tasks = companies.map(company => async () => {
       const provider = detectProvider(company);
       if (!provider) {
         console.warn(`[WARN] Skipping ${company.name}: no provider matched careers_url or api.`);
+        scanResults.push({ company: company.name, status: 'unsupported' });
         return;
       }
 
@@ -150,61 +180,33 @@ async function main() {
           title: j.title || '',
           url: j.url || '',
           company: company.name,
-          location: j.location || 'Canada',
-        })).filter(isTechEarlyCareerNA);
+          location: j.location || '',
+        })).filter(j => /^https?:\/\//.test(j.url) && isTechEarlyCareerNA(j));
 
+        scanResults.push({ company: company.name, provider: provider.id, status: 'success', total: parsed.length, matched: filtered.length });
         activeJobs.push(...filtered);
         scannedCompanies.add(company.name);
-        console.log(`[SUCCESS] Scanned ${company.name} via ${provider.id} — found ${filtered.length} matching roles.`);
+        console.log(`[SUCCESS] Scanned ${company.name} via ${provider.id}; found ${filtered.length} matching roles.`);
       } catch (err) {
+        scanResults.push({ company: company.name, provider: provider.id, status: 'error', error: err.message });
         console.warn(`[ERROR] Scanning ${company.name} failed: ${err.message}`);
       }
     });
 
     // Run crawler
-    await runConcurrent(tasks, CONCURRENCY_LIMIT);
-    // Browser-backed providers keep Chromium alive; without this the process
-    // never exits.
-    await closeBrowser();
+    try {
+      await runConcurrent(tasks, CONCURRENCY_LIMIT);
+    } finally {
+      await closeBrowser();
+    }
     console.log(`Finished scanning. Found ${activeJobs.length} active matching jobs.`);
 
     // Merge with history
     const today = new Date().toISOString().split('T')[0];
     
-    // Mark all previously active jobs from scanned companies as Closed if they are not in activeJobs
-    history = history.map(job => {
-      if (job.status === 'Active' && scannedCompanies.has(job.company)) {
-        const isStillActive = activeJobs.some(active => 
-          active.url === job.url || (active.company === job.company && active.title === job.title)
-        );
-        if (!isStillActive) {
-          return { ...job, status: 'Closed' };
-        }
-      }
-      return job;
-    });
-
-    // Add new active jobs to history
-    activeJobs.forEach(active => {
-      const exists = history.some(h => 
-        h.url === active.url || (h.company === active.company && h.title === active.title)
-      );
-      if (!exists) {
-        history.push({
-          ...active,
-          status: 'Active',
-          date_added: today,
-        });
-      } else {
-        // If it exists, make sure it's marked as Active
-        history = history.map(h => {
-          if (h.url === active.url || (h.company === active.company && h.title === active.title)) {
-            return { ...h, status: 'Active' };
-          }
-          return h;
-        });
-      }
-    });
+    fs.writeFileSync('./scan-report.json', JSON.stringify({ date: today, companies: scanResults }, null, 2));
+    if (!scannedCompanies.size) throw new Error('No boards scanned successfully; history is unchanged.');
+    history = mergeHistory(history, activeJobs, scannedCompanies, today);
 
     // Sort history (Active first, then by date added descending, then by company name)
     history.sort((a, b) => {
@@ -217,27 +219,32 @@ async function main() {
       return a.company.localeCompare(b.company);
     });
 
+    if (process.argv.includes('--dry-run')) {
+      console.log('Dry run complete. History and README are unchanged. See scan-report.json.');
+      return;
+    }
+
     // Save history
     fs.writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2));
     console.log(`Updated history file. Total records: ${history.length}`);
 
     // Generate README.md
-    generateREADME(history, today);
+    generateREADME(history, today, companies.length);
     console.log("README.md generated successfully!");
 
   } catch (error) {
     console.error("Crawler failed:", error);
-    process.exit(1);
+    process.exitCode = 1;
   }
 }
 
-function generateREADME(jobs, dateStr) {
+export function generateREADME(jobs, dateStr, companyCount) {
   const activeJobs = jobs.filter(j => j.status === 'Active');
   const closedJobs = jobs.filter(j => j.status === 'Closed');
 
   const activeTable = activeJobs.length > 0
     ? activeJobs.map(j => `| **${j.company}** | ${j.title} | \`${j.location}\` | 🟢 Active | [Apply ↗](${j.url}) | ${j.date_added} |`).join('\n')
-    : '| - | *No active postings found yet. Scraper runs every 12 hours!* | - | - | - | - |';
+    : '| - | *No active postings found yet. Scraper runs every 4 hours!* | - | - | - | - |';
 
   const closedTable = closedJobs.length > 0
     ? closedJobs.map(j => `| **${j.company}** | ${j.title} | \`${j.location}\` | 🔴 Closed | [Link ↗](${j.url}) | ${j.date_added} |`).join('\n')
@@ -252,7 +259,7 @@ function generateREADME(jobs, dateStr) {
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
 
-> 🤖 **Automated Scraper:** This tracker scans Greenhouse, Lever, Ashby, SmartRecruiters, and Workday job boards — plus direct Big Tech portals (Google, Microsoft, Apple, Amazon, Meta, NVIDIA, Netflix, Salesforce, Adobe) — for **200+ top tech companies** and updates automatically every 12 hours using GitHub Actions.
+> 🤖 **Automated Scraper:** This tracker checks **${companyCount} enabled job boards**, including direct Big Tech portals. GitHub Actions runs the scan every 4 hours.
 > 💡 **Search Tip:** Press \`⌘+F\` or \`Ctrl+F\` to filter by location (e.g., "Toronto", "Vancouver", "Montreal", "San Francisco") or term.
 
 ---
@@ -267,7 +274,7 @@ ${activeTable}
 
 ## 🔄 Year-Round & Student Pipelines
 
-Portals that are **not** scraped above — apply directly. (Google, Microsoft, Apple,
+Portals that are **not** scraped above; apply directly. (Google, Microsoft, Apple,
 Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table above.)
 
 | Company | Portal Link | Description |
@@ -288,16 +295,29 @@ ${closedTable}
 ---
 
 ## 🛠️ How it Works
-This repository uses the same robust, zero-token scraper engine as [career-ops](https://github.com/santifer/career-ops) to query Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Workable, and Workday APIs directly for **200+ North American employers**.
+This repository uses providers adapted from [career-ops](https://github.com/santifer/career-ops). It queries public job APIs and selected company portals. See [companies.json](./companies.json) for the full list of **${companyCount} enabled job boards**.
+
+Funding sources for the private-company additions are in [private-company-sources.md](./docs/private-company-sources.md).
 
 ### Run locally
 \`\`\`bash
 npm install
 npx playwright install chromium              # Meta renders behind a browser
-python3 -m venv .venv                        # Tesla needs curl_cffi
-.venv/bin/pip install -r requirements.txt
-node crawl.js
+npm test
+npm run crawl
 \`\`\`
+
+Use \`npm run crawl:check\` to scan without changing the job history or README.
+Each scan writes \`scan-report.json\` with results and errors for each board.
+GitHub Actions saves this report as a build artifact.
+
+Jobs must have an internship, co-op, student, or other early-career title and a technical or product role.
+A named Canada or US location is required. Unknown locations and remote jobs without a region are excluded.
+This can exclude valid jobs when the source does not supply enough location data.
+Failed boards retain their previous job status. An Active label from a failed board can be out of date.
+Some configured boards need a supported provider or an updated URL. Check the scan report for coverage.
+
+Tesla is disabled. If you enable its local parser, install Python and the packages in \`requirements.txt\` into \`.venv\` first.
 
 ---
 
@@ -305,7 +325,7 @@ node crawl.js
 Want to add a company or a missing job board? 
 1. Fork this repository.
 2. Add the company metadata to [companies.json](./companies.json).
-3. Open a Pull Request. The GitHub Action will automatically scan the new company within 12 hours.
+3. Open a Pull Request. The GitHub Action will automatically scan the new company within 4 hours.
 
 *Star the repository to stay updated! ⭐*
 `;
@@ -313,4 +333,4 @@ Want to add a company or a missing job board?
   fs.writeFileSync(README_PATH, content);
 }
 
-main();
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) main();

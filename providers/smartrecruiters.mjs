@@ -86,7 +86,7 @@ export default {
  * - location: prefer `fullLocation`; else assemble from city/region/country
  *   parts (skipping empties); append "Remote" when `location.remote` is true.
  * - url: `j.ref` is an `api.smartrecruiters.com/v1/companies/<slug>/postings/<id>`
- *   URL — rewrite to the public `jobs.smartrecruiters.com/<slug>/postings/<id>`.
+ *   URL; rewrite to the public `jobs.smartrecruiters.com/<slug>/<id>`.
  *   If `ref` is missing, synthesise a URL from the company slug + posting id.
  *
  * @param {any} json
@@ -110,7 +110,7 @@ export function parseSmartRecruitersResponse(json, companyName) {
           && parsedRef.protocol === 'https:'
           && parsedRef.hostname === 'api.smartrecruiters.com'
           && parsedRef.pathname.startsWith('/v1/companies/')) {
-        const restOfPath = parsedRef.pathname.slice('/v1/companies/'.length);
+        const restOfPath = parsedRef.pathname.slice('/v1/companies/'.length).replace('/postings/', '/');
         url = `https://jobs.smartrecruiters.com/${restOfPath}`;
       }
     }

@@ -1,11 +1,4019 @@
 [
   {
-    "title": "Hardware Engineer Intern, Summer 2027",
-    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-    "company": "Akuna Capital",
-    "location": "Chicago, IL ",
+    "title": "Software Engineering Co-op - Winter 2027",
+    "url": "https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181",
+    "company": "Achievers",
+    "location": "Toronto",
     "status": "Active",
-    "date_added": "2026-07-25"
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+    "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
+    "company": "Amazon",
+    "location": "Vancouver, British Columbia, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+    "company": "Amazon",
+    "location": "Toronto, Ontario, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
+    "company": "Amazon",
+    "location": "Toronto, Ontario, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
+    "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
+    "url": "https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa",
+    "company": "Amazon",
+    "location": "Bellevue, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
+    "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
+    "company": "Amazon",
+    "location": "Cleburne, Texas, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Center Engineering Operations Technician Internship",
+    "url": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
+    "company": "Amazon",
+    "location": "Sterling, Virginia, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+    "company": "Amazon",
+    "location": "Austin, Texas, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+    "company": "Amazon",
+    "location": "Cupertino, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+    "company": "Amazon",
+    "location": "Cupertino, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
+    "company": "Amazon",
+    "location": "Westboro, Wisconsin, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
+    "company": "Amazon",
+    "location": "Mt Juliet, Tennessee, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 MBA Leadership Development Program (MLDP) Intern",
+    "url": "https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+    "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+    "company": "Amazon",
+    "location": "Austin, Texas, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Biomedical Engineering Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577",
+    "company": "Analog Devices",
+    "location": "US, MA, Wilmington",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Electrical Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
+    "company": "Anduril",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Flight Software Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Manufacturing Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
+    "company": "Anduril",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Manufacturing Optimization Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007",
+    "company": "Anduril",
+    "location": "Ashville, Ohio, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Mechanical Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+    "company": "Anduril",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Software Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "company": "Anduril",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Electrical Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 EWIS Harness Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Manufacturing Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
+    "company": "Anduril",
+    "location": "Lexington, Massachusetts, United States; Quincy, Massachusetts, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Mechanical Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
+    "company": "Anduril",
+    "location": "Quincy, Massachusetts, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Propulsion Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Software Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+    "company": "Anduril",
+    "location": "Quincy, Massachusetts, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Systems Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+    "company": "Anduril",
+    "location": "Quincy, Massachusetts, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Test & Evaluation Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Winter 2027 Warhead Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "System Test Engineer  Intern",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585",
+    "company": "Arista Networks",
+    "location": "Santa Clara, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "CAD Engineer Intern (Spring 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "CAD Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704742006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "CAD Engineer Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704748006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Environmental Test Engineer Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Spring 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704602006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704600006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Radiation Effects Engineer Intern (Fall 2026)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern, AI Developer/ Stagiaire en développement IA",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Intern, Stagiaire Gestion de Produit",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2",
+    "company": "Autodesk",
+    "location": "Montreal, QC, CAN",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Trader - Entry Level 2027",
+    "url": "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee",
+    "company": "Belvedere Trading",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Trading Intern - Summer 2027",
+    "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+    "company": "Belvedere Trading",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Trading Intern - Winter Quarter 2027",
+    "url": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
+    "company": "Belvedere Trading",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer - Entry Level 2027",
+    "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+    "company": "Belvedere Trading",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+    "company": "Belvedere Trading",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer, Winter 2027 (Internship) - 4 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+    "company": "BMO",
+    "location": "San Ramon, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Robot Learning Engineering Intern ",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259",
+    "company": "Bosch",
+    "location": "Pittsburgh, PA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "AI Engineering Intern (October 2026 - August 2027)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
+    "company": "Bosch",
+    "location": "Plymouth, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "DATA ANALYST INTERN",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150216697",
+    "company": "Bosch",
+    "location": "San Francisco, Heredia, Costa Rica",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "WEB DEVELOPER INTERN (PYTHON & AUTOMATION)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149963299",
+    "company": "Bosch",
+    "location": "San Francisco, Heredia, Costa Rica",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern- Quality Systems Management",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148848849",
+    "company": "Bosch",
+    "location": "Albion, IN, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analytics Intern - Engineering & SAP Operations",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148595878",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148591127",
+    "company": "Bosch",
+    "location": "Plymouth, Michigan, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management AI-Tool Intern (8 months/40hrs per week)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing Engineer Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148542054",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing Engineer Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148518808",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Design Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148252267",
+    "company": "Bosch",
+    "location": "Vernon Hills, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148250353",
+    "company": "Bosch",
+    "location": "Vernon Hills, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Test Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129",
+    "company": "Bosch",
+    "location": "Vernon Hills, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Design Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148250710",
+    "company": "Bosch",
+    "location": "Vernon Hills, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Service Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148243450",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Service Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148246120",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern- Plastics Process Engineer",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147075639",
+    "company": "Bosch",
+    "location": "Albion, IN, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "AI Application Intern (8 months/40 hours per week) ",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146547599",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern (8 months/40hrs per week)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Calibration Process Data Science Intern (8 months/40 hours per week) ",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546699",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Design Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146471610",
+    "company": "Bosch",
+    "location": "Fort Lauderdale, FL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Phone as a Key Software Engineering - Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
+    "company": "Bosch",
+    "location": "Plymouth, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing Engineering/Operations Co-op - Fall 2026",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143527019",
+    "company": "Bosch",
+    "location": "Pineville, NC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technical Engineering Function (TEF) Winter Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143360199",
+    "company": "Bosch",
+    "location": "Pineville, NC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Internship Vehicle Thermal Systems Engineering",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142173185",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Spring Industrial Engineer co-op",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141338859",
+    "company": "Bosch",
+    "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Spring Logistics / Packaging Engineering Co-op / LOM",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141337803",
+    "company": "Bosch",
+    "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Spring Mechanical/Electrical Engineering Co-Op",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141338219",
+    "company": "Bosch",
+    "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Spring Manufacturing Engineering Co-Op",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141337134",
+    "company": "Bosch",
+    "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Internship (6-month)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140457960",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Industrial Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558149",
+    "company": "Bosch",
+    "location": "Fort Lauderdale, FL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Factory Automation Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126541495",
+    "company": "Bosch",
+    "location": "Burlington, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electronics Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126066306",
+    "company": "Bosch",
+    "location": "Fort Lauderdale, FL, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Engineering, Intern",
+    "url": "https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a",
+    "company": "Bree",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Backend (Co-op)",
+    "url": "https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b",
+    "company": "Bree",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Product (Co-op)",
+    "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
+    "company": "Bree",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003",
+    "company": "Celonis",
+    "location": "New York, US, New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+    "company": "Cisco",
+    "location": "RTP, North Carolina, US",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
+    "company": "Cisco",
+    "location": "RTP, North Carolina, US",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Consulting Engineer I (Intern) United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+    "company": "Cisco",
+    "location": "USA-RESEARCH TRIANGLE PARK",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Consulting Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817",
+    "company": "Cisco",
+    "location": "RTP, North Carolina, US",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Analytics Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Product Manager Intern",
+    "url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Learning & Development Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514",
+    "company": "Coinbase",
+    "location": "Hybrid - New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "People Analytics Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
+    "company": "Coinbase",
+    "location": "Hybrid - New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Research Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad 2027",
+    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "company": "Cursor",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Test Developer - New Graduate",
+    "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
+    "company": "D2L",
+    "location": "Kitchener, Remote Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Product Manager, New Grad (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+    "company": "Databricks",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Intern (Summer 2027)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "company": "Databricks",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern (2027 Start) - Winter",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+    "company": "Databricks",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Intern",
+    "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "company": "Datadog",
+    "location": "New York, New York, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Science Intern (PhD)",
+    "url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+    "company": "Datadog",
+    "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern (Summer)",
+    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "company": "Datadog",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b",
+    "company": "Decagon",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+    "company": "DoorDash",
+    "location": "Toronto, ON",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Intern (Summer 2027) - TOR",
+    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
+    "company": "DoorDash",
+    "location": "Toronto, ON",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+    "company": "Dropbox",
+    "location": "Remote - US: All locations",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "AI/ML Research Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
+    "company": "DRW",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "FPGA Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+    "company": "DRW",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Leadership Rotation Network Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+    "company": "DRW",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Platform Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
+    "company": "DRW",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Research Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+    "company": "DRW",
+    "location": "Chicago, New York City",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Trading Analyst Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+    "company": "DRW",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+    "company": "DRW",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "company": "DRW",
+    "location": "Chicago",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Product Manager, Intern",
+    "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+    "company": "Duolingo",
+    "location": "Pittsburgh, PA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Intern",
+    "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+    "company": "Duolingo",
+    "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Thrive Intern",
+    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+    "company": "Duolingo",
+    "location": "Pittsburgh, PA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Stagiaire en développement logiciel / Software Developer Intern",
+    "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
+    "company": "Exegy",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern (2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineering Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Firmware Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Test Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Power Systems Integration Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 - Trading Operations Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+    "company": "Five Rings",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer Intern 2027 - Quantitative Researcher (PhD)",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+    "company": "Five Rings",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer Intern 2027 - Quantitative Trader",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+    "company": "Five Rings",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer Intern 2027 - Software Developer",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "company": "Five Rings",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Experience Engineer Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Scientist, Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Experience Research Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineering Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, PhD, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534-student-researcher-phd-wintersummer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, PhD, Fall 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/128430823337534150-student-researcher-phd-fall-2026",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Silicon Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA; Madison, WI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Austin, TX, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bsms-wintersummer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Design Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Consultant Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Experience Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/137409539979780806-user-experience-research-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Silicon Engineering Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA; Austin, TX, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Experience Engineer Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, PhD, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-wintersummer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Business Data Scientist Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Austin, TX, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Montreal, QC, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bsms-wintersummer-2027",
+    "company": "Google",
+    "location": "Montreal, QC, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Consultant Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Palo Alto, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bsms-wintersummer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analytics Apprenticeship, February 2027 Start",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start",
+    "company": "Google",
+    "location": "New York, NY, USA; Atlanta, GA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104496653687235270-research-intern-phd-summer-2027",
+    "company": "Google",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, PhD, Winter-Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/141525012002546374-student-researcher-phd-wintersummer-2027",
+    "company": "Google",
+    "location": "Montreal, QC, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Student Researcher, BS/MS, Fall 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132362676918461126-student-researcher-bsms-fall-2026",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Scientist, Product Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Product Manager, University Graduate, 2027 Start",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214-associate-product-manager-university-graduate-2027-start",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; New York, NY, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Business Intelligence and Infrastructure Analysts  Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+    "company": "HP",
+    "location": "Vancouver, Washington, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Product Security Engineer Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+    "company": "HP",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Personal Systems Product Management Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
+    "company": "HP",
+    "location": "Austin, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Product Security Engineer Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
+    "company": "HP",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software and Engineering Intern Roles - Imaging and Print",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
+    "company": "HP",
+    "location": "Corvallis, Oregon, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Enterprise Operations Software Internship",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
+    "company": "HP",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technology & Innovation Organization Electrical Engineering Internship",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1",
+    "company": "HP",
+    "location": "Corvallis, Oregon, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Enterprise Operations Engineering Internship",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Engineering-Internship_3166958-1",
+    "company": "HP",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423",
+    "company": "HPE",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
+    "company": "HPE",
+    "location": "Spring, Texas, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "PhD Research Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426",
+    "company": "HPE",
+    "location": "Milpitas, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Pre-Silicon Diagnostics Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394",
+    "company": "HPE",
+    "location": "Ft. Collins, Colorado, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "HPC AI Systems Administrator Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+    "company": "HPE",
+    "location": "Bloomington, Minnesota, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+    "company": "Hudson River Trading",
+    "location": "London, United Kingdom; New York, NY, United States; Singapore",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+    "company": "Hudson River Trading",
+    "location": "London, United Kingdom; New York, NY, United States; Singapore",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineer Internship - Summer 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+    "company": "Hudson River Trading",
+    "location": "New York, NY, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Internship (C++ or Python) – Summer 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
+    "company": "Hudson River Trading",
+    "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineer Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Research Intern (PhD) - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Trader Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quant Performance Engineer Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern 2027",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Research Engineering - (PhD Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Packaging Technology Development Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "AI and Compiler Engineering Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+    "company": "Intel",
+    "location": "Virtual Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern - Wet Etch",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Module Engineering PhD Intern New 2027",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000147091674",
+    "company": "Intuitive",
+    "location": "Sunnyvale, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing/Equipment/Supplier Engineering Intern (Mechanical or Biomedical Engineering Majors)",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000147092239",
+    "company": "Intuitive",
+    "location": "Sunnyvale, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mobile Developer (Entry Level)",
+    "url": "https://www.konrad.com/careers/job/7976082003?gh_jid=7976082003",
+    "company": "Konrad Group",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analyst Intern (Summer 2027)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
+    "company": "Lyft",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Engineer Intern (Summer 2027)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+    "company": "Lyft",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+    "company": "Lyft",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+    "company": "Lyft",
+    "location": "Montreal, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+    "company": "Lyft",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+    "company": "Lyft",
+    "location": "Montreal, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "UX Research Intern (Summer 2027)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "SRAM Software Engineer Intern, BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+    "company": "Marvell",
+    "location": "Burlington, VT",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Process Engineer Intern, MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Firmware Engineer Intern, MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Silicon Photonics Intern - PhD (Fall 2026 Start Date)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
+    "company": "Marvell",
+    "location": "Ottawa, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Analog Engineer Intern - PhD",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
+    "company": "Marvell",
+    "location": "Vancouver, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Analog Engineer Intern - PhD",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1",
+    "company": "Marvell",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Analog Engineer Intern - PhD",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1",
+    "company": "Marvell",
+    "location": "Ottawa, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applied Machine Learning Scientist Intern - PhD",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Scientist Intern, Optical System Design (PhD)",
+    "url": "https://www.metacareers.com/jobs/1796691991338568/",
+    "company": "Meta",
+    "location": "Redmond, WA; Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "ML Research Intern",
+    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "company": "Modal",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+    "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+    "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Digital IC Design Engineer Intern",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineer Intern, Implant Embedded Systems",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineer Intern, Robotics and Surgery Engineering",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Firmware Engineer Intern, Robotics and Surgery Engineering",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "IT Systems Administrator Intern",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing Intern, Surgery & Robot Hardware",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineering Intern, Brain Interfaces",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineering Intern, Robotics and Surgery Engineering",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, BCI Applications",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Implant",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Infrastructure",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003",
+    "company": "Neuralink",
+    "location": "South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Internal Apps",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Robotics",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
+    "company": "Neuralink",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad (Dec 2026)",
+    "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Science Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, AI Platform - Intern",
+    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, AI Platform - New Grad",
+    "url": "https://nuro.ai/careersitem?gh_jid=7351066",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, Dynamo - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Hardware Verification",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Hardware ASIC Design",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Deep Learning",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Internships: Hardware Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Developer Support Associate (New Grad)",
+    "url": "https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506",
+    "company": "Okta",
+    "location": "Chicago, Illinois",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
+    "company": "Palantir",
+    "location": "Honolulu, HI",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "company": "Palantir",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+    "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Intel",
+    "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "company": "Palantir",
+    "location": "Honolulu, HI",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "company": "Palantir",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
+    "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, New Grad - US Government",
+    "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Information Security Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship - Defense Tech",
+    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship - Defense Tech",
+    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship - Infrastructure",
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad",
+    "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29",
+    "company": "Palantir",
+    "location": "Denver, CO",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad - Defense",
+    "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad - Defense",
+    "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "company": "Palantir",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Perplexity Research Fellowship",
+    "url": "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8",
+    "company": "Perplexity",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Internships",
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Fundamental Research Fellow, Canvas ",
+    "url": "https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002",
+    "company": "Point72",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Researcher - Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+    "company": "Point72",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Researcher Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
+    "company": "Point72",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Research Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
+    "company": "Point72",
+    "location": "New York, Seattle",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Research Intern (NLP)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
+    "company": "Point72",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Quantitative Software Developer Intern",
+    "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+    "company": "Point72",
+    "location": "New York, London, or Paris",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 Quantitative Research Internship",
+    "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+    "company": "Point72",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern, Optical Packaging and Characterization Engineer",
+    "url": "https://www.psiquantum.com/apply?gh_jid=7761881003",
+    "company": "PsiQuantum",
+    "location": "Milpitas, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern, System Architecture",
+    "url": "https://www.psiquantum.com/apply?gh_jid=7695577003",
+    "company": "PsiQuantum",
+    "location": "Daresbury, England, United Kingdom; Palo Alto, California, United States; Remote",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Capital Markets, Global Equities, Algorithmic Trading Developer (16 Months, Co-op)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer--16-Months--Co-op-_R-0000187792",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Winter - CLAO, Data Analyst Intern (4 months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Data-Analyst-Intern--4-months-_R-0000186987-1",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer - New Grad (2027)",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "company": "Replit",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Connected Systems (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Irvine, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Irvine, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Vancouver, British Columbia",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Irvine, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electromechanical Design Engineering Intern (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Irvine, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Engineering Intern - AI & Analytics (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Palo Alto, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Vancouver, British Columbia",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Product Manager (New Grad)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Offensive Security Intern (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
+    "company": "Robinhood",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Risk Management Intern (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, Backend (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, iOS (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, Web (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+    "company": "Robinhood",
+    "location": "Toronto, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, Android (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, Backend (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+    "company": "Robinhood",
+    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, iOS (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, Web (Summer 2027)",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "[Summer 2027] Product Management Intern",
+    "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "[Summer 2027] Software Engineer Intern",
+    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Winter Internship",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+    "company": "Rubrik",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Account Development Representative Intern - Atlanta",
+    "url": "https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119",
+    "company": "Samsara",
+    "location": "Atlanta, Georgia, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Account Development Representative Intern - Phoenix",
+    "url": "https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799",
+    "company": "Samsara",
+    "location": "Phoenix, Arizona, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineering Co-Op",
+    "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
+    "company": "Samsara",
+    "location": "San Francisco - SF9",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "(New Grad) Account Development Representative II - Atlanta",
+    "url": "https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373",
+    "company": "Samsara",
+    "location": "Atlanta, Georgia, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "(New Grad) Account Development Representative II - Phoenix",
+    "url": "https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371",
+    "company": "Samsara",
+    "location": "Phoenix, Arizona, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Internship - San Francisco ",
+    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+    "company": "Samsara",
+    "location": "San Francisco - SF9",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 New Grad: Samsung Emerging Engineer Development Program",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1",
+    "company": "Samsung",
+    "location": "1530 FM 973 Taylor, TX, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
+    "company": "Saronic",
+    "location": "Austin, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
+    "company": "Saronic",
+    "location": "Austin, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Forward Deployed Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+    "company": "Saronic",
+    "location": "Austin, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+    "company": "Saronic",
+    "location": "Austin, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Manufacturing Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
+    "company": "Saronic",
+    "location": "Franklin, LA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer - New Grad",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
+    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 - Advanced Manufacturing Engineering Intern",
+    "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
+    "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 - Electrical Engineering Intern",
+    "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 - Software Engineer Intern",
+    "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+    "company": "Shield AI",
+    "location": "San Diego, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Agent (New Grad 2027)",
+    "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "company": "Sierra",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "company": "Sierra",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
+    "company": "Sony",
+    "location": "San Diego",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Account Management & Business Analytics Intern",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543",
+    "company": "Sony",
+    "location": "San Diego",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Civil/Structural (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Electrical (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8483305002?gh_jid=8483305002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Electrical (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Launch & Test (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Manufacturing (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Manufacturing (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8497524002?gh_jid=8497524002",
+    "company": "SpaceX",
+    "location": "McGregor, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical (Cape Canaveral)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002",
+    "company": "SpaceX",
+    "location": "Cape Canaveral, FL",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical Design (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Power Generation (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Propulsion (Raptor)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Propulsion (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Security Software (Starshield) ",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Security Software (Starshield) ",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+    "company": "SpaceX",
+    "location": "Washington, DC",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+    "company": "SpaceX",
+    "location": "Irvine, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software (Application Software)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
+    "company": "SpaceX",
+    "location": "Starbase, TX",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Software (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Starship Components",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Intern Quant Researcher",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+    "company": "Squarepoint Capital",
+    "location": "London, Paris, New York, Singapore, Hong Kong",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Engineer Intern - Winter 2027",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Backend Intern - Winter 2027",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern - Winter 2027",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Manager: New Grad Accelerator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "company": "Stripe",
+    "location": "San Francisco, Seattle, New York City",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "company": "Stripe",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "company": "Stripe",
+    "location": "San Francisco, Seattle, New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+    "company": "Stripe",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "User Experience Research Intern",
+    "url": "https://jobs.ashbyhq.com/super.com/55781d35-563b-43e9-a779-b4f1467a833a",
+    "company": "Super.com",
+    "location": "Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667",
+    "company": "Tower Research Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
+    "company": "Tower Research Capital",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179",
+    "company": "Tower Research Capital",
+    "location": "Montreal",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Summer '27",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+    "company": "Vercel",
+    "location": "Hybrid - San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Winter '27",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+    "company": "Vercel",
+    "location": "Hybrid - San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Backend Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Embedded Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Frontend Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineer (Winter Co-op)",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mobile Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Design Mechanical Engineer (Winter Co-op)",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4288829007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Software Engineering Intern 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technical Support Engineering Intern - Spring 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5056164007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technical Support Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5233011007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technical Support Engineer - University Graduate 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Technical Support Engineer - University Graduate 2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5121488007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Co-op (January to August 2027)",
+    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006",
+    "company": "Visier",
+    "location": "Vancouver, BC, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Test Developer Co-op (January to August 2027)",
+    "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006",
+    "company": "Visier",
+    "location": "Vancouver, BC, Canada",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2026 Intern, PhD Research Scientist",
+    "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e",
+    "company": "Waabi",
+    "location": "Toronto, ON",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Research Internship/Co-op",
+    "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb",
+    "company": "Waabi",
+    "location": "Toronto, ON",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8177651",
+    "company": "Waymo",
+    "location": "San Francisco, California, USA ",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Software Engineer",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+    "company": "Waymo",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+    "company": "Waymo",
+    "location": "Mountain View, California, United States; San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+    "company": "Waymo",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+    "company": "Waymo",
+    "location": "Mountain View, California, USA ",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
+    "company": "Waymo",
+    "location": "San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": " 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+    "company": "Waymo",
+    "location": "Mountain View, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364",
+    "company": "Waymo",
+    "location": "San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+    "company": "Waymo",
+    "location": "Mountain View, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+    "company": "Waymo",
+    "location": "San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+    "company": "Waymo",
+    "location": "Mountain View, California",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
+    "company": "Waymo",
+    "location": "Mountain View, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Product Data Science",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+    "company": "Waymo",
+    "location": "San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+    "company": "Waymo",
+    "location": "Mountain View, California, United States | San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+    "company": "Waymo",
+    "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Spring 2027 Co-Op - AI Systems Strategy",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234",
+    "company": "Western Digital",
+    "location": "Rochester, MN, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 Intern - Software Engineering",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
+    "company": "Western Digital",
+    "location": "San Jose, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Summer 2027 Intern - Hardware Engineering",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
+    "company": "Western Digital",
+    "location": "San Jose, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Fall 2026 PhD Intern - Hardware Development Engineering",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379",
+    "company": "Western Digital",
+    "location": "Fremont, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Fall 2026 Intern - IT Wafer Systems Automation",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135313334",
+    "company": "Western Digital",
+    "location": "San Jose, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
+    "company": "Zip",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+    "company": "Zip",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad (2027 Start)",
+    "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+    "company": "Zip",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer, New Grad (2027 Start)",
+    "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+    "company": "Zip",
+    "location": "Toronto",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Aircraft Software Integration Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Aircraft Software Integration Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applications Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7908677003?gh_jid=7908677003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applications Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7909946003?gh_jid=7909946003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Civil and Structural Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7904457003?gh_jid=7904457003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Civil and Structural Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7920472003?gh_jid=7920472003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Controls Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Controls Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7903889003?gh_jid=7903889003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analytics Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analytics Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Project Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7980874003?gh_jid=7980874003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Project Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Embedded Engineering Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Embedded Software Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Test Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7894349003?gh_jid=7894349003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Test Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7903483003?gh_jid=7903483003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Long Range Platform Hardware Engineering Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7891460003?gh_jid=7891460003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Maintenance Tool Engineering Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7909945003?gh_jid=7909945003",
+    "company": "Zipline",
+    "location": "Esparto, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Maintenance Tool Engineering Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7918888003?gh_jid=7918888003",
+    "company": "Zipline",
+    "location": "Esparto, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Materials Engineer Intern (Spring & Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7905428003?gh_jid=7905428003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7865253003?gh_jid=7865253003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7866071003?gh_jid=7866071003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Perception Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7909570003?gh_jid=7909570003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Systems Validation Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Systems Validation Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Supplier Industrialization Engineering Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7891019003?gh_jid=7891019003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Supplier Industrialization Engineering Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7891110003?gh_jid=7891110003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "System Test Automation Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7893946003?gh_jid=7893946003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "System Test Automation Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7886320003?gh_jid=7886320003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract  Student Worker - Data Analyst (Part-time)",
+    "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker  – Firmware Engineer (FW Thermal/Body)",
+    "url": "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Autonomy Safety Data Engineer",
+    "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Data Analyst (20 hrs/wk)",
+    "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e",
+    "company": "Zoox",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Data Scientist",
+    "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Digital Engineer",
+    "url": "https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Forward Deployed Automation Engineer (40 hrs/wk)",
+    "url": "https://jobs.lever.co/zoox/5fad000d-791f-4a0a-96da-65ca594160a9",
+    "company": "Zoox",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time)",
+    "url": "https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker – Hardware Software Integration Engineer (Full-Time 40 hrs/wk)",
+    "url": "https://jobs.lever.co/zoox/76845566-1870-4836-91ee-ff8e27462f8d",
+    "company": "Zoox",
+    "location": "Hayward, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker Automation & Behavioral Science Engineer",
+    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker Software Engineer (6-month Contract) (20/hrs week)",
+    "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
   },
   {
     "title": "Platform Engineer Intern, Summer 2027",
@@ -216,54 +4224,6 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Developer Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Software Developer Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/118981017938600646-network-operations-residency-program-university-graduate-august-2026-start",
-    "company": "Google",
-    "location": "Atlanta, GA, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Network Operations Engineer, University Graduate",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/124862995078488774-network-operations-engineer-university-graduate",
-    "company": "Google",
-    "location": "Austin, TX, USA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Student Researcher, PhD, Fall 2026",
     "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026",
     "company": "Google",
@@ -276,70 +4236,6 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bsms-fall-2026",
     "company": "Google",
     "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "MBA Internship – Ecosystem Development Specialist",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
-    "company": "Intel",
-    "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Data Science Student for AI Solutions Group",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
-    "company": "Intel",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, AI Alignment",
-    "url": "https://www.metacareers.com/jobs/1782902493113620/",
-    "company": "Meta",
-    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)",
-    "url": "https://www.metacareers.com/jobs/24536664159369645/",
-    "company": "Meta",
-    "location": "Menlo Park, CA; New York, NY",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
-    "url": "https://www.metacareers.com/jobs/2022109075207025/",
-    "company": "Meta",
-    "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
-    "url": "https://www.metacareers.com/jobs/2160167211413098/",
-    "company": "Meta",
-    "location": "Sunnyvale, CA; Redmond, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
-    "url": "https://www.metacareers.com/jobs/2916726525182155/",
-    "company": "Meta",
-    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
-    "url": "https://www.metacareers.com/jobs/779670167783218/",
-    "company": "Meta",
-    "location": "Redmond, WA; Seattle, WA",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -408,98 +4304,10 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Global Security Manager, Campus Security",
-    "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Summer 2027 Intern - Software Engineer",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
-    "company": "Salesforce",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Network Operations Analyst (Entry level)",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325",
-    "company": "Sun Life Financial",
-    "location": "4 Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
     "title": "Software Developer - New Graduate",
     "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
     "company": "D2L",
     "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus AI Research Engineer – Deep Learning(Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052343",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus AI Research Engineer (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052313",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus AI Research Engineer – Research Automation (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052356",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus Quantitative Researcher, UG/MS (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus Quantitative Trader (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619",
-    "company": "Jump Trading",
-    "location": "Chicago; New York",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus Software Engineer (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8000835",
-    "company": "Jump Trading",
-    "location": "Chicago",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Campus Systems Engineer (Full-Time)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112",
-    "company": "Jump Trading",
-    "location": "Chicago",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Mobile Developer (Entry Level)",
-    "url": "https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003",
-    "company": "Konrad Group",
-    "location": "Toronto",
     "status": "Active",
     "date_added": "2026-07-11"
   },
@@ -568,14 +4376,6 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "New Graduate Engineer, Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
-    "company": "SpaceX",
-    "location": "Sunnyvale, CA",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
     "title": "Trading Infrastructure Specialist – Graduate Programme",
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
     "company": "Squarepoint Capital",
@@ -584,56 +4384,8 @@
     "date_added": "2026-07-11"
   },
   {
-    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
-    "company": "Stripe",
-    "location": "Toronto",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Technical Support Engineer - University Graduate 2026",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5172974007",
-    "company": "Verkada",
-    "location": "New York City, NY United States",
-    "status": "Active",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-    "company": "Adobe",
-    "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "2026 Intern - Research Scientist/Engineer",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
-    "company": "Adobe",
-    "location": "7 Locations",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-    "company": "Amazon",
-    "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing",
-    "url": "https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing",
-    "company": "Amazon",
-    "location": "Pasadena, California, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Software Development Engineer Fall Intern - Military Veteran",
-    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
     "status": "Active",
@@ -656,38 +4408,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
-    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
-    "company": "Amazon",
-    "location": "Westboro, Wisconsin, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Network Development Engineer Intern - Fall 2026",
-    "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
-    "company": "Amazon",
-    "location": "Cupertino, California, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
-    "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
-    "company": "Amazon",
-    "location": "North Reading, Massachusetts, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Software Development Engineer Internship - Fall 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
-    "company": "Amazon",
-    "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
     "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
     "company": "Amazon",
@@ -696,50 +4416,10 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
-    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
-    "company": "Amazon",
-    "location": "Jeffersonville, Ohio, USA",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
-    "company": "Autodesk",
-    "location": "Quebec, CAN - Remote",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
-    "company": "Autodesk",
-    "location": "Quebec, CAN - Remote",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
     "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
     "company": "Block",
     "location": "Toronto, Ontario , Canada",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "HPE Labs - EMEA Research Lab Ph.D. Intern",
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380",
-    "company": "HPE",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -770,14 +4450,6 @@
   {
     "title": "Campus Data Engineer (Intern)",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-    "company": "Jump Trading",
-    "location": "Chicago",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Campus FPGA Engineer (Intern)",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
     "company": "Jump Trading",
     "location": "Chicago",
     "status": "Active",
@@ -832,30 +4504,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
-    "url": "https://explore.jobs.netflix.net/careers/job/790316547536",
-    "company": "Netflix",
-    "location": "Los Gatos, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
-    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-    "company": "Netflix",
-    "location": "Los Gatos, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-    "company": "NVIDIA",
-    "location": "US, MO, St. Louis",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Applied Research Intern, NLP - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
     "company": "NVIDIA",
@@ -866,14 +4514,6 @@
   {
     "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
     "status": "Active",
@@ -892,22 +4532,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
-    "company": "NVIDIA",
-    "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
-    "company": "NVIDIA",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-07-09"
   },
@@ -960,14 +4584,6 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Software Engineer Intern - Fall 2026",
-    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009",
-    "company": "StackAdapt",
-    "location": "Canada",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
     "title": "Quantitative Developer Intern - Summer 2027",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
     "company": "Tower Research Capital",
@@ -976,15 +4592,7 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Quantitative Trader Intern, PhD",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
-    "company": "Tower Research Capital",
-    "location": "New York",
-    "status": "Active",
-    "date_added": "2026-07-09"
-  },
-  {
-    "title": "Quantitative Trader Intern - Summer 2027",
+    "title": "Quantitative Trader/Researcher Intern - Summer 2027",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
     "company": "Tower Research Capital",
     "location": "New York, Chicago",
@@ -992,26 +4600,26 @@
     "date_added": "2026-07-09"
   },
   {
-    "title": "Software Engineer Intern (Fall / Winter 2026)",
+    "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
     "company": "Cohere",
-    "location": "Canada, United States",
+    "location": "Canada",
     "status": "Active",
     "date_added": "2026-06-17"
   },
   {
-    "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
+    "title": "Machine Learning Intern/Co-op  (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
     "company": "Cohere",
-    "location": "Canada, United States, Europe, United Kingdom",
+    "location": "Canada",
     "status": "Active",
     "date_added": "2026-06-17"
   },
   {
-    "title": "Research Internship (Fall, 2026)",
+    "title": "Research Internship (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
     "company": "Cohere",
-    "location": "Canada, Europe, United States, Toronto, San Francisco, London, United Kingdom, Montreal",
+    "location": "Canada",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -1024,32 +4632,8 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Data Science Intern",
-    "url": "https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002",
-    "company": "Faire",
-    "location": "San Francisco, CA",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Software Engineer Intern (Fall 2026)",
-    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Forward Deployed Software Engineer, Internship - France",
     "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "company": "Palantir",
-    "location": "New York, NY",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Forward Deployed Software Engineer, Internship - Poland",
-    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
     "company": "Palantir",
     "location": "New York, NY",
     "status": "Active",
@@ -1088,14 +4672,6 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "AI Builder Intern",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
-    "company": "Scale AI",
-    "location": "San Francisco, CA; New York, NY",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
     "title": "Machine Learning Fellow - Human Frontier Collective (Canada)",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4661650005",
     "company": "Scale AI",
@@ -1128,10 +4704,10 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Hardware Engineer (Fall Co-op)",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
-    "company": "Verkada",
-    "location": "San Mateo, CA United States",
+    "title": "Intern Software Developer - Montreal - 2027",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+    "company": "Squarepoint Capital",
+    "location": "Montreal",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -1150,6 +4726,150 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Hardware Engineer Intern, Summer 2027",
+    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL ",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Developer Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/118981017938600646-network-operations-residency-program-university-graduate-august-2026-start",
+    "company": "Google",
+    "location": "Atlanta, GA, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Engineer, University Graduate",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/124862995078488774-network-operations-engineer-university-graduate",
+    "company": "Google",
+    "location": "Austin, TX, USA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "MBA Internship – Ecosystem Development Specialist",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
+    "company": "Intel",
+    "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Data Science Student for AI Solutions Group",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0284916",
+    "company": "Intel",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, AI Alignment",
+    "url": "https://www.metacareers.com/jobs/1782902493113620/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)",
+    "url": "https://www.metacareers.com/jobs/24536664159369645/",
+    "company": "Meta",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+    "url": "https://www.metacareers.com/jobs/2022109075207025/",
+    "company": "Meta",
+    "location": "Sausalito, CA; Pittsburgh, PA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
+    "url": "https://www.metacareers.com/jobs/2160167211413098/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
+    "url": "https://www.metacareers.com/jobs/2916726525182155/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
+    "url": "https://www.metacareers.com/jobs/779670167783218/",
+    "company": "Meta",
+    "location": "Redmond, WA; Seattle, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Global Security Manager, Campus Security",
+    "url": "https://careers.roblox.com/jobs/8075125?gh_jid=8075125",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+    "company": "Salesforce",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Network Operations Analyst (Entry level)",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Network-Operations-Analyst--Entry-level-_JR00126325",
+    "company": "Sun Life Financial",
+    "location": "4 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
   },
   {
     "title": "AI Software Engineering Intern",
@@ -1196,6 +4916,70 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus AI Research Engineer – Deep Learning(Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052343",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus AI Research Engineer (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052313",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus AI Research Engineer – Research Automation (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052356",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Quantitative Researcher, UG/MS (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7728630",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Quantitative Trader (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619",
+    "company": "Jump Trading",
+    "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Software Engineer (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8000835",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Campus Systems Engineer (Full-Time)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Mobile Developer (Entry Level)",
+    "url": "https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003",
+    "company": "Konrad Group",
+    "location": "Toronto",
     "status": "Closed",
     "date_added": "2026-07-11"
   },
@@ -1286,6 +5070,102 @@
     "location": "Remote; San Mateo, CA, United States",
     "status": "Closed",
     "date_added": "2026-07-11"
+  },
+  {
+    "title": "New Graduate Engineer, Software (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
+    "company": "SpaceX",
+    "location": "Sunnyvale, CA",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+    "company": "Stripe",
+    "location": "Toronto",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "Technical Support Engineer - University Graduate 2026",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5172974007",
+    "company": "Verkada",
+    "location": "New York City, NY United States",
+    "status": "Closed",
+    "date_added": "2026-07-11"
+  },
+  {
+    "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "2026 Intern - Research Scientist/Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
+    "company": "Adobe",
+    "location": "7 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantum Signal Train Engineer Internship, Amazon Center for Quantum Computing",
+    "url": "https://www.amazon.jobs/en/jobs/10387501/quantum-signal-train-engineer-internship-amazon-center-for-quantum-computing",
+    "company": "Amazon",
+    "location": "Pasadena, California, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Fall Intern - Military Veteran",
+    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+    "company": "Amazon",
+    "location": "Westboro, Wisconsin, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Network Development Engineer Intern - Fall 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
+    "company": "Amazon",
+    "location": "Cupertino, California, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
+    "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
+    "company": "Amazon",
+    "location": "North Reading, Massachusetts, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Development Engineer Internship - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning",
+    "url": "https://www.amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning",
+    "company": "Amazon",
+    "location": "Jeffersonville, Ohio, USA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
   },
   {
     "title": "Hardware Development Engineer Co-op (FALL)",
@@ -1448,6 +5328,22 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
+    "company": "Autodesk",
+    "location": "Quebec, CAN - Remote",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+    "company": "Autodesk",
+    "location": "Quebec, CAN - Remote",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Intern, Machine Learning Developer",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
     "company": "Autodesk",
@@ -1480,6 +5376,14 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151",
     "company": "BMO",
@@ -1500,6 +5404,14 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Belleville-ON-CAN/Private-Wealth-Administrative-Assistant---Belleville---Peterborough--Fall-2026--Co-op-Internship----4-months_R260018806",
     "company": "BMO",
     "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "HPE Labs - EMEA Research Lab Ph.D. Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Grenoble-Isere-France/HPE-Labs---EMEA-Research-Lab-PhD-Intern_1192380",
+    "company": "HPE",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1576,10 +5488,66 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Campus FPGA Engineer (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "company": "Jump Trading",
+    "location": "Chicago",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
+    "url": "https://explore.jobs.netflix.net/careers/job/790316547536",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
+    "company": "Netflix",
+    "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
     "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
     "company": "Netflix",
     "location": "Los Gatos, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+    "company": "NVIDIA",
+    "location": "US, MO, St. Louis",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1656,6 +5624,14 @@
     "date_added": "2026-07-09"
   },
   {
+    "title": "Software Engineer Intern - Fall 2026",
+    "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4231397009",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
     "title": "Finance ESG Reporting Co-op/Intern Fall 2026",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Finance-ESG-Reporting-Co-op-Intern-Fall-2026_R_1497995-1",
     "company": "TD Bank",
@@ -1668,6 +5644,14 @@
     "url": "https://careers.toasttab.com/jobs?gh_jid=7909139",
     "company": "Toast",
     "location": "Boston, MA",
+    "status": "Closed",
+    "date_added": "2026-07-09"
+  },
+  {
+    "title": "Quantitative Trader Intern, PhD",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+    "company": "Tower Research Capital",
+    "location": "New York",
     "status": "Closed",
     "date_added": "2026-07-09"
   },
@@ -1776,6 +5760,14 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "Data Science Intern",
+    "url": "https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002",
+    "company": "Faire",
+    "location": "San Francisco, CA",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Product Management Intern, Admin Console (Summer 2026)",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4699772005",
     "company": "Glean",
@@ -1788,6 +5780,22 @@
     "url": "https://careers.hootsuite.com/job/?gh_jid=7942387",
     "company": "Hootsuite",
     "location": "Toronto, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Software Engineer Intern (Fall 2026)",
+    "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "company": "Palantir",
+    "location": "New York, NY",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
@@ -1812,6 +5820,14 @@
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117",
     "company": "RBC",
     "location": "TORONTO, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "AI Builder Intern",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+    "company": "Scale AI",
+    "location": "San Francisco, CA; New York, NY",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
@@ -1852,14 +5868,6 @@
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
     "company": "Scale AI",
     "location": "San Francisco, CA",
-    "status": "Closed",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "Intern Software Developer - Fall 2026",
-    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
-    "company": "Squarepoint Capital",
-    "location": "Montreal",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
@@ -1908,6 +5916,14 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
     "company": "Tower Research Capital",
     "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "Hardware Engineer (Fall Co-op)",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
+    "company": "Verkada",
+    "location": "San Mateo, CA United States",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
