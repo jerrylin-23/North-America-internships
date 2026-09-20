@@ -1248,6 +1248,38 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Electrical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995569",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+    "company": "Microsoft",
+    "location": "United States, Virginia, Reston",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Product Management Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
     "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
     "company": "Neuralink",
@@ -3952,22 +3984,6 @@
     "date_added": "2026-09-05"
   },
   {
-    "title": "Mechanical Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981984",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-05"
-  },
-  {
-    "title": "Electrical Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986145",
-    "company": "Microsoft",
-    "location": "United States, California, Mountain View",
-    "status": "Active",
-    "date_added": "2026-09-05"
-  },
-  {
     "title": "AI Developer Technology Engineering Intern - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
     "company": "NVIDIA",
@@ -4928,26 +4944,10 @@
     "date_added": "2026-07-25"
   },
   {
-    "title": "Software Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-    "company": "Microsoft",
-    "location": "India, Multiple Locations, Multiple Locations",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond",
+    "title": "Applied Science: PhD Microsoft AI Internship Opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
     "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Research Sciences INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
-    "company": "Microsoft",
-    "location": "India, Multiple Locations, Multiple Locations",
+    "location": "United States, Washington, Redmond; United States, California, Mountain View",
     "status": "Active",
     "date_added": "2026-07-25"
   },
@@ -5582,6 +5582,22 @@
     "location": "Toronto, ON, CAN",
     "status": "Closed",
     "date_added": "2026-09-07"
+  },
+  {
+    "title": "Mechanical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981984",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-05"
+  },
+  {
+    "title": "Electrical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986145",
+    "company": "Microsoft",
+    "location": "United States, California, Mountain View",
+    "status": "Closed",
+    "date_added": "2026-09-05"
   },
   {
     "title": "Firmware Engineering INTERN",
@@ -6300,6 +6316,22 @@
     "url": "https://www.metacareers.com/jobs/2160167211413098/",
     "company": "Meta",
     "location": "Sunnyvale, CA; Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Software Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
+    "status": "Closed",
+    "date_added": "2026-07-25"
+  },
+  {
+    "title": "Research Sciences INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
+    "company": "Microsoft",
+    "location": "India, Multiple Locations, Multiple Locations",
     "status": "Closed",
     "date_added": "2026-07-25"
   },
