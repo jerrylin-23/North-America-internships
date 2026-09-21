@@ -1,9 +1,65 @@
 [
   {
+    "title": "Entry Level Systems Engineer, C2 Integration ",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "Entry Level Systems Engineer, C2 Networking",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "New Grad Systems Engineer, C2 Integration ",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "PhD Intern, Data Science (2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
     "title": "Process Integration and Yield Engineering PhD Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "Sony Research - Internship on Audio Processing and Machine Learning",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
+    "company": "Sony",
+    "location": "New York",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "Flight Test Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-21"
+  },
+  {
+    "title": "Flight Test Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
     "status": "Active",
     "date_added": "2026-09-21"
   },
@@ -300,14 +356,6 @@
     "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
     "company": "Block",
     "location": "Bay Area, CA, United States of America",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "AI Engineering Intern (October 2026 - August 2027)",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
-    "company": "Bosch",
-    "location": "Plymouth, MI, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -3640,14 +3688,6 @@
     "date_added": "2026-09-10"
   },
   {
-    "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
-    "company": "Intel",
-    "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-09-10"
-  },
-  {
     "title": "Module Engineering PhD Intern - Wet Etch",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
     "company": "Intel",
@@ -5176,6 +5216,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "AI Engineering Intern (October 2026 - August 2027)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
+    "company": "Bosch",
+    "location": "Plymouth, MI, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Robot Learning Engineering Intern ",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259",
     "company": "Bosch",
@@ -5270,6 +5318,14 @@
     "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-09-11"
+  },
+  {
+    "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-09-10"
   },
   {
     "title": "Operations Research Engineer Intern",
