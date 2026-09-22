@@ -1,9 +1,57 @@
 [
   {
+    "title": "Flight Software Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "Flight Software Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "Hardware Test Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "Software Engineer Backend Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+    "company": "Astranis",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+    "company": "Astranis",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
     "title": "Associate Product Manager Intern, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027",
     "company": "Google",
     "location": "Mountain View, CA, USA; New York, NY, USA",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "Data Scientist Intern - 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+    "company": "Hudson River Trading",
+    "location": "New York, NY, United States",
     "status": "Active",
     "date_added": "2026-09-22"
   },
@@ -48,6 +96,22 @@
     "date_added": "2026-09-22"
   },
   {
+    "title": "PhD Research Intern, Networking - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
+    "company": "NVIDIA",
+    "location": "US, CA, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
     "title": "Summer 2027 - Mechanical Engineering Intern",
     "url": "https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc",
     "company": "Shield AI",
@@ -76,6 +140,22 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
     "company": "Waymo",
     "location": "Mountain View, California, USA",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+    "company": "Waymo",
+    "location": "San Francisco, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-22"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Data Science",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
     "status": "Active",
     "date_added": "2026-09-22"
   },
@@ -928,30 +1008,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Firmware Intern [Fall 2026]",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
-    "company": "Figure AI",
-    "location": "San Jose, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Hardware Test Intern [Fall 2026]",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-    "company": "Figure AI",
-    "location": "San Jose, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Power Systems Integration Intern [Fall 2026]",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
-    "company": "Figure AI",
-    "location": "San Jose, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Summer 2027 - Trading Operations Engineer Intern",
     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
     "company": "Five Rings",
@@ -1360,22 +1416,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Electrical Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Mechanical Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995569",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Software Engineering Intern - CTJ - TS",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
     "company": "Microsoft",
@@ -1532,14 +1572,6 @@
     "url": "https://nuro.ai/careersitem?gh_jid=7351066",
     "company": "Nuro",
     "location": "Mountain View, California (HQ)",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Engineering Intern, DLFW Comms - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
-    "company": "NVIDIA",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -3096,30 +3128,6 @@
     "date_added": "2026-09-18"
   },
   {
-    "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
-    "title": "PhD Research Intern, Architecture – 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
-    "company": "NVIDIA",
-    "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
-    "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
-    "company": "NVIDIA",
-    "location": "3 Locations",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
     "title": "Perplexity Research Fellowship",
     "url": "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8",
     "company": "Perplexity",
@@ -3208,18 +3216,10 @@
     "date_added": "2026-09-16"
   },
   {
-    "title": "Research Intern, Fundamental Generative AI - 2027",
+    "title": "PhD Research Intern, Fundamental Generative AI - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
     "company": "NVIDIA",
     "location": "US, CA, Santa Clara",
-    "status": "Active",
-    "date_added": "2026-09-16"
-  },
-  {
-    "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
-    "company": "NVIDIA",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-09-16"
   },
@@ -3252,14 +3252,6 @@
     "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
     "company": "DoorDash",
     "location": "Toronto, ON",
-    "status": "Active",
-    "date_added": "2026-09-15"
-  },
-  {
-    "title": "Materials Science Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-15"
   },
@@ -3542,14 +3534,6 @@
     "location": "Menlo Park, CA; New York, NY",
     "status": "Active",
     "date_added": "2026-09-14"
-  },
-  {
-    "title": "PhD Research Intern, Circuits - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-09-13"
   },
   {
     "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
@@ -3840,14 +3824,6 @@
     "date_added": "2026-09-09"
   },
   {
-    "title": "Physical Design Intern, VLSI - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-09-09"
-  },
-  {
     "title": "Machine Learning Engineer Intern - Winter 2027",
     "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
     "company": "StackAdapt",
@@ -3996,14 +3972,6 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
     "company": "HPE",
     "location": "Spring, Texas, United States of America",
-    "status": "Active",
-    "date_added": "2026-09-05"
-  },
-  {
-    "title": "AI Developer Technology Engineering Intern - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-    "company": "NVIDIA",
-    "location": "3 Locations",
     "status": "Active",
     "date_added": "2026-09-05"
   },
@@ -4200,14 +4168,6 @@
     "date_added": "2026-08-27"
   },
   {
-    "title": "Developer Technology Engineering Intern - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-08-27"
-  },
-  {
     "title": "Information Security Engineer, Internship",
     "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
     "company": "Palantir",
@@ -4220,22 +4180,6 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
     "company": "Microsoft",
     "location": "United States, California, Santa Clara; United States, California, Mountain View; United States, North Carolina, Raleigh",
-    "status": "Active",
-    "date_added": "2026-08-26"
-  },
-  {
-    "title": "AI Developer Technology Intern, Robotics - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-08-26"
-  },
-  {
-    "title": "Developer Technology Engineering Intern, AI - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
-    "company": "NVIDIA",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-08-26"
   },
@@ -4288,14 +4232,6 @@
     "date_added": "2026-08-25"
   },
   {
-    "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-08-25"
-  },
-  {
     "title": "Research Intern, PhD, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027",
     "company": "Google",
@@ -4308,14 +4244,6 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027",
     "company": "Google",
     "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-    "status": "Active",
-    "date_added": "2026-08-24"
-  },
-  {
-    "title": "AI Developer Technology Engineer Intern, AI - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-    "company": "NVIDIA",
-    "location": "2 Locations",
     "status": "Active",
     "date_added": "2026-08-24"
   },
@@ -4438,14 +4366,6 @@
     "location": "US, CA, Santa Clara",
     "status": "Active",
     "date_added": "2026-08-19"
-  },
-  {
-    "title": "Software Engineering Intern, NCCL - 2026",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
-    "company": "NVIDIA",
-    "location": "2 Locations",
-    "status": "Active",
-    "date_added": "2026-08-18"
   },
   {
     "title": "Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 months)",
@@ -5280,10 +5200,58 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Firmware Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Test Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Power Systems Integration Intern [Fall 2026]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Applied Machine Learning Scientist Intern - PhD",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
     "company": "Marvell",
     "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Electrical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Mechanical Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995569",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, DLFW Comms - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -5300,6 +5268,30 @@
     "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "PhD Research Intern, Architecture – 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
+    "company": "NVIDIA",
+    "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-09-18"
   },
@@ -5328,6 +5320,14 @@
     "date_added": "2026-09-16"
   },
   {
+    "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-16"
+  },
+  {
     "title": "Process Integration and Yield Engineering PhD Intern Repeat",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
     "company": "Intel",
@@ -5340,6 +5340,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-09-15"
+  },
+  {
+    "title": "Materials Science Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-09-15"
   },
@@ -5358,6 +5366,14 @@
     "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-09-14"
+  },
+  {
+    "title": "PhD Research Intern, Circuits - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-13"
   },
   {
     "title": "Software Engineer Intern, Fullstack (Summer 2027)",
@@ -5436,6 +5452,14 @@
     "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
     "company": "Hex",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-09"
+  },
+  {
+    "title": "Physical Design Intern, VLSI - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
+    "company": "NVIDIA",
+    "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-09-09"
   },
@@ -5596,6 +5620,14 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556986143",
     "company": "Microsoft",
     "location": "United States, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-09-05"
+  },
+  {
+    "title": "AI Developer Technology Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+    "company": "NVIDIA",
+    "location": "3 Locations",
     "status": "Closed",
     "date_added": "2026-09-05"
   },
@@ -5872,6 +5904,14 @@
     "date_added": "2026-08-27"
   },
   {
+    "title": "Developer Technology Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-08-27"
+  },
+  {
     "title": "2027 Winter – GRM, Portfolio Risk & Credit Analytics Intern (4 Months)",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185978-1",
     "company": "RBC",
@@ -5936,6 +5976,22 @@
     "date_added": "2026-08-26"
   },
   {
+    "title": "AI Developer Technology Intern, Robotics - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-08-26"
+  },
+  {
+    "title": "Developer Technology Engineering Intern, AI - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
+    "company": "NVIDIA",
+    "location": "2 Locations",
+    "status": "Closed",
+    "date_added": "2026-08-26"
+  },
+  {
     "title": "2027 Winter – GRM, Commercial Portfolio Risk & Credit Analytics Intern (4 Months)",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201-1",
     "company": "RBC",
@@ -5948,6 +6004,14 @@
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8125888",
     "company": "Jump Trading",
     "location": "Chicago; New York",
+    "status": "Closed",
+    "date_added": "2026-08-25"
+  },
+  {
+    "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
+    "company": "NVIDIA",
+    "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-08-25"
   },
@@ -5980,6 +6044,14 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556971803",
     "company": "Microsoft",
     "location": "Australia, Multiple Locations, Multiple Locations",
+    "status": "Closed",
+    "date_added": "2026-08-24"
+  },
+  {
+    "title": "AI Developer Technology Engineer Intern, AI - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+    "company": "NVIDIA",
+    "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-08-24"
   },
@@ -6124,6 +6196,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
     "company": "Intel",
     "location": "US, California, Folsom",
+    "status": "Closed",
+    "date_added": "2026-08-18"
+  },
+  {
+    "title": "Software Engineering Intern, NCCL - 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
+    "company": "NVIDIA",
+    "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-08-18"
   },
