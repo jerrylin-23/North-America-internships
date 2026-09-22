@@ -80,7 +80,7 @@
     "date_added": "2026-09-22"
   },
   {
-    "title": "Entry Level Systems Engineer, C2 Integration ",
+    "title": "Entry Level Systems Engineer, C2 Integration, Clearance Eligible",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007",
     "company": "Anduril",
     "location": "Costa Mesa, California, United States",
@@ -88,7 +88,7 @@
     "date_added": "2026-09-21"
   },
   {
-    "title": "Entry Level Systems Engineer, C2 Networking",
+    "title": "Entry Level Systems Engineer, C2 Networking, Clearance Eligible",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007",
     "company": "Anduril",
     "location": "Costa Mesa, California, United States",
@@ -96,7 +96,7 @@
     "date_added": "2026-09-21"
   },
   {
-    "title": "New Grad Systems Engineer, C2 Integration ",
+    "title": "New Grad Systems Engineer, C2 Integration, Clearance Eligible",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007",
     "company": "Anduril",
     "location": "Costa Mesa, California, United States",
@@ -1360,14 +1360,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Applied Machine Learning Scientist Intern - PhD",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
-    "company": "Marvell",
-    "location": "Santa Clara, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Electrical Engineering INTERN",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
     "company": "Microsoft",
@@ -2108,14 +2100,6 @@
     "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
     "company": "Sierra",
     "location": "San Francisco, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Engineer Intern",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
-    "company": "Sony",
-    "location": "San Diego",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -3268,14 +3252,6 @@
     "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
     "company": "DoorDash",
     "location": "Toronto, ON",
-    "status": "Active",
-    "date_added": "2026-09-15"
-  },
-  {
-    "title": "Process Integration and Yield Engineering PhD Intern Repeat",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
-    "company": "Intel",
-    "location": "US, Oregon, Hillsboro",
     "status": "Active",
     "date_added": "2026-09-15"
   },
@@ -5304,6 +5280,22 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Applied Machine Learning Scientist Intern - PhD",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
+    "company": "Sony",
+    "location": "San Diego",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Software Development Engineer Internship - Summer -2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
     "company": "Amazon",
@@ -5334,6 +5326,14 @@
     "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-09-16"
+  },
+  {
+    "title": "Process Integration and Yield Engineering PhD Intern Repeat",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-09-15"
   },
   {
     "title": "AI Solutions Engineering Undergraduate Intern",
