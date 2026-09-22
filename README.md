@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-658-green?style=flat-square)](#-active-postings-658)
+[![Active Postings](https://img.shields.io/badge/active%20postings-660-green?style=flat-square)](#-active-postings-660)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-22-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,12 +12,15 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (658)
+## 📈 Active Postings (660)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Google** | Associate Product Manager Intern, Summer 2027 | `Mountain View, CA, USA; New York, NY, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027) | 2026-09-22 |
 | **Marvell** | Test Equipment Engineer Intern | `Santa Clara, CA` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826-1) | 2026-09-22 |
 | **Marvell** | Board Product Engineer Intern, BS - Summer 2027 | `Santa Clara, CA` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1) | 2026-09-22 |
+| **Marvell** | Firmware Engineer Intern | `CA-ON - Toronto - TOR` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751) | 2026-09-22 |
+| **Marvell** | Software/Firmware Engineer Intern | `CA-ON - Toronto - TOR` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053) | 2026-09-22 |
 | **Microsoft** | Security Research INTERN | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556962157) | 2026-09-22 |
 | **Shield AI** | Summer 2027 - Mechanical Engineering Intern | `Seattle, Washington` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) | 2026-09-22 |
 | **Waymo** | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8221198) | 2026-09-22 |
@@ -529,7 +532,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **BMO** | Commercial Analyst Development Program - Grand Rapids, MI (New Grad 2027) | `Grand Rapids, MI, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Grand-Rapids-MI-USA/Commercial-Analyst-Development-Program---Grand-Rapids--MI--New-Grad-2027-_R260025632) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Chicago, IL (New Grad 2027) | `Chicago, IL, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Commercial-Analyst-Development-Program---Chicago--IL--New-Grad-2027-_R260025628-2) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Atlanta, GA (New Grad 2027) | `Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Atlanta-GA-USA/Commercial-Analyst-Development-Program---Atlanta--GA--New-Grad-2027-_R260025591) | 2026-09-02 |
-| **Google** | Data Analytics Apprenticeship, February 2027 Start | `New York, NY, USA; Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start) | 2026-09-02 |
 | **HPE** | Electrical Engineering Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | 2026-09-02 |
 | **Microsoft** | Data Science: PhD Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556982928) | 2026-09-02 |
 | **Verkada** | Hardware Engineer (Winter Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4321158007) | 2026-09-02 |
@@ -691,7 +693,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (291)
+## 🔒 Closed Postings (292)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -745,6 +747,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Intel** | Platform Hardware and Systems Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | 2026-09-03 |
 | **Intel** | System Technology - Research Engineer (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | 2026-09-03 |
 | **Microsoft** | Applied Science: Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556986141) | 2026-09-03 |
+| **Google** | Data Analytics Apprenticeship, February 2027 Start | `New York, NY, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start) | 2026-09-02 |
 | **Intel** | Software Engineering - Intern, Graduate | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 2026-09-02 |
 | **Intel** | Software Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | 2026-09-02 |
 | **Intel** | Silicon Hardware Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | 2026-09-02 |
