@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-651-green?style=flat-square)](#-active-postings-651)
+[![Active Postings](https://img.shields.io/badge/active%20postings-650-green?style=flat-square)](#-active-postings-650)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-23-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (651)
+## 📈 Active Postings (650)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -107,7 +107,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Bosch** | Manufacturing Engineering/Operations Co-op - Fall 2026 | `Pineville, NC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000143527019) | 2026-09-20 |
 | **Bosch** | Technical Engineering Function (TEF) Winter Intern | `Pineville, NC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000143360199) | 2026-09-20 |
 | **Bosch** | Powertrain Controls Software Engineering Intern (6-Months, Full-Time) | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000142898574) | 2026-09-20 |
-| **Bosch** | Internship Vehicle Thermal Systems Engineering | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | 2026-09-20 |
 | **Bosch** | 2027 Spring Industrial Engineer co-op | `Charleston, SC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000141338859) | 2026-09-20 |
 | **Bosch** | 2027 Spring Logistics / Packaging Engineering Co-op / LOM | `Charleston, SC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000141337803) | 2026-09-20 |
 | **Bosch** | 2027 Spring Mechanical/Electrical Engineering Co-Op | `Charleston, SC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000141338219) | 2026-09-20 |
@@ -684,11 +683,12 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (315)
+## 🔒 Closed Postings (316)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Sony** | Sony Research - Internship on Audio Processing and Machine Learning | `New York` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643) | 2026-09-21 |
+| **Bosch** | Internship Vehicle Thermal Systems Engineering | `Farmington Hills, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000142173185) | 2026-09-20 |
 | **Bosch** | AI Engineering Intern (October 2026 - August 2027) | `Plymouth, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150217869) | 2026-09-20 |
 | **Bosch** | Robot Learning Engineering Intern  | `Pittsburgh, PA, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150446259) | 2026-09-20 |
 | **Figure AI** | Firmware Intern [Fall 2026] | `San Jose, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 2026-09-20 |
