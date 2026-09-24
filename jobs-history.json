@@ -1,5 +1,21 @@
 [
   {
+    "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
+    "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
+    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "company": "Amazon",
+    "location": "Redmond, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
     "title": "Hardware Intern ",
     "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000151659973",
     "company": "Arista Networks",
@@ -48,10 +64,42 @@
     "date_added": "2026-09-24"
   },
   {
+    "title": "Harness Design Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704779006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
+    "title": "Harness Design Engineer Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704778006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
     "title": "2027 Spring Logistics / Packaging Engineering Co-op / LOM",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151687099",
     "company": "Bosch",
     "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
+    "title": "AI Research Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+    "company": "Intuitive",
+    "location": "Sunnyvale, CA, United States",
+    "status": "Active",
+    "date_added": "2026-09-24"
+  },
+  {
+    "title": "Content Systems Intern (Summer 2027)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
+    "company": "Lyft",
+    "location": "Toronto, Canada",
     "status": "Active",
     "date_added": "2026-09-24"
   },
@@ -72,7 +120,7 @@
     "date_added": "2026-09-24"
   },
   {
-    "title": "Software Engineer Intern, Mobile (Winter 2026)",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
     "company": "Notion",
     "location": "San Francisco, California",
@@ -134,14 +182,6 @@
     "location": "Mountain View, CA, USA",
     "status": "Active",
     "date_added": "2026-09-24"
-  },
-  {
-    "title": "Security Engineer Internship – 2027 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
-    "company": "Amazon",
-    "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-09-23"
   },
   {
     "title": "Analog Design Engineering Intern",
@@ -292,14 +332,6 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
     "company": "Microsoft",
     "location": "United States, California, Mountain View",
-    "status": "Active",
-    "date_added": "2026-09-23"
-  },
-  {
-    "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
-    "company": "Nuro",
-    "location": "Mountain View, California (HQ)",
     "status": "Active",
     "date_added": "2026-09-23"
   },
@@ -2632,22 +2664,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "New Graduate Engineer, Silicon Engineering",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
-    "company": "SpaceX",
-    "location": "Irvine, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "New Graduate Engineer, Silicon Engineering",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
-    "company": "SpaceX",
-    "location": "Redmond, WA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "New Graduate Engineer, Software",
     "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002",
     "company": "SpaceX",
@@ -4000,14 +4016,6 @@
     "date_added": "2026-09-10"
   },
   {
-    "title": "AI and Compiler Engineering Graduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
-    "company": "Intel",
-    "location": "Virtual Canada",
-    "status": "Active",
-    "date_added": "2026-09-10"
-  },
-  {
     "title": "Module Engineering PhD Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
     "company": "Intel",
@@ -4692,14 +4700,6 @@
     "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
     "company": "Notion",
     "location": "San Francisco, California",
-    "status": "Active",
-    "date_added": "2026-08-15"
-  },
-  {
-    "title": "New Graduate Engineer, Silicon Engineering",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
-    "company": "SpaceX",
-    "location": "Palo Alto, CA",
     "status": "Active",
     "date_added": "2026-08-15"
   },
@@ -5472,6 +5472,22 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Security Engineer Internship – 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
+    "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
     "title": "Sony Research - Internship on Audio Processing and Machine Learning",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
     "company": "Sony",
@@ -5604,6 +5620,22 @@
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
     "company": "Sony",
     "location": "San Diego",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+    "company": "SpaceX",
+    "location": "Irvine, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+    "company": "SpaceX",
+    "location": "Redmond, WA",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -5774,6 +5806,14 @@
     "location": "2 Locations",
     "status": "Closed",
     "date_added": "2026-09-11"
+  },
+  {
+    "title": "AI and Compiler Engineering Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+    "company": "Intel",
+    "location": "Virtual Canada",
+    "status": "Closed",
+    "date_added": "2026-09-10"
   },
   {
     "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
@@ -6676,6 +6716,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509",
     "company": "Intel",
     "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-08-15"
+  },
+  {
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+    "company": "SpaceX",
+    "location": "Palo Alto, CA",
     "status": "Closed",
     "date_added": "2026-08-15"
   },
