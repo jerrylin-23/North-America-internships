@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-684-green?style=flat-square)](#-active-postings-684)
+[![Active Postings](https://img.shields.io/badge/active%20postings-686-green?style=flat-square)](#-active-postings-686)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,12 +12,14 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (684)
+## 📈 Active Postings (686)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **KLA** | Applications Engineering  Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1) | 2026-09-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 2026-09-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 2026-09-25 |
+| **Zipline** | Field Systems Engineer Intern (Spring 2027) | `South San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003) | 2026-09-25 |
 | **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | 2026-09-24 |
 | **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | `Redmond, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | 2026-09-24 |
 | **Arista Networks** | Hardware Intern  | `Nashua, NH, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) | 2026-09-24 |
