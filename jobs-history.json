@@ -1,5 +1,21 @@
 [
   {
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
     "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
     "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
     "company": "Amazon",
@@ -112,7 +128,7 @@
     "date_added": "2026-09-24"
   },
   {
-    "title": "Production Engineering Intern",
+    "title": "Production Engineer Intern",
     "url": "https://www.metacareers.com/jobs/1609178343953401/",
     "company": "Meta",
     "location": "Bellevue, WA; Menlo Park, CA",
@@ -1164,14 +1180,6 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
     "company": "Cisco",
     "location": "RTP, North Carolina, US",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Consulting Engineer I (Intern) United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
-    "company": "Cisco",
-    "location": "USA-RESEARCH TRIANGLE PARK",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -2896,7 +2904,7 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "2027 Summer Intern, PhD, Product Data Science",
+    "title": "2027 Summer Intern, MS/PhD, Product Data Science",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
     "company": "Waymo",
     "location": "San Francisco, California, United States",
@@ -4664,22 +4672,6 @@
     "date_added": "2026-08-19"
   },
   {
-    "title": "Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 months)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514",
-    "company": "RBC",
-    "location": "TORONTO, Ontario, Canada",
-    "status": "Active",
-    "date_added": "2026-08-18"
-  },
-  {
-    "title": "Winter 2027 Student - Data Analyst, Commercial Banking (4 months)",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Student---Data-Analyst--Commercial-Banking--4-months-_R-0000183473",
-    "company": "RBC",
-    "location": "TORONTO, Ontario, Canada",
-    "status": "Active",
-    "date_added": "2026-08-18"
-  },
-  {
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
     "company": "Notion",
@@ -5120,6 +5112,14 @@
     "date_added": "2026-07-11"
   },
   {
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "company": "Palantir",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "date_added": "2026-07-11"
+  },
+  {
     "title": "Trading Infrastructure Specialist – Graduate Programme",
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
     "company": "Squarepoint Capital",
@@ -5556,6 +5556,14 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259",
     "company": "Bosch",
     "location": "Pittsburgh, PA, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Consulting Engineer I (Intern) United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+    "company": "Cisco",
+    "location": "USA-RESEARCH TRIANGLE PARK",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -6624,6 +6632,22 @@
     "date_added": "2026-08-18"
   },
   {
+    "title": "Winter 2027 Co-op Student – Data Analyst, Personal Banking (4, 8, 12 months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-08-18"
+  },
+  {
+    "title": "Winter 2027 Student - Data Analyst, Commercial Banking (4 months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Student---Data-Analyst--Commercial-Banking--4-months-_R-0000183473",
+    "company": "RBC",
+    "location": "TORONTO, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-08-18"
+  },
+  {
     "title": "2027 Winter Student Opportunities Technology & Operations - Technical Systems Analyst, 4-12 Months",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552-1",
     "company": "RBC",
@@ -7156,14 +7180,6 @@
     "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
     "company": "Notion",
     "location": "San Francisco, California",
-    "status": "Closed",
-    "date_added": "2026-07-11"
-  },
-  {
-    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-    "company": "Palantir",
-    "location": "Palo Alto, CA",
     "status": "Closed",
     "date_added": "2026-07-11"
   },
