@@ -24,8 +24,24 @@
     "date_added": "2026-09-25"
   },
   {
+    "title": "Electrical Engineering Summer Intern",
+    "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
+    "company": "Helion",
+    "location": "Everett, WA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
     "title": "System Software Engineering - PhD Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "Software Solutions PhD Intern New 2027",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
     "status": "Active",
@@ -36,6 +52,14 @@
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1",
     "company": "KLA",
     "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+    "company": "Microsoft",
+    "location": "United States, Georgia, Atlanta",
     "status": "Active",
     "date_added": "2026-09-25"
   },
@@ -60,6 +84,46 @@
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937",
     "company": "RBC",
     "location": "TORONTO, Ontario, Canada",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA ",
     "status": "Active",
     "date_added": "2026-09-25"
   },
@@ -388,14 +452,6 @@
     "url": "https://www.metacareers.com/jobs/1412139847020398/",
     "company": "Meta",
     "location": "Menlo Park, CA",
-    "status": "Active",
-    "date_added": "2026-09-23"
-  },
-  {
-    "title": "Software Engineer: Intern Opportunity for University Students",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
-    "company": "Microsoft",
-    "location": "United States, California, Mountain View",
     "status": "Active",
     "date_added": "2026-09-23"
   },
@@ -795,7 +851,7 @@
     "title": "Winter 2027 Mechanical Engineer Co-op",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
     "company": "Anduril",
-    "location": "Quincy, Massachusetts, United States",
+    "location": "Ashville, Ohio, United States; Quincy, Massachusetts, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -898,14 +954,6 @@
   {
     "title": "Mechanical Engineer Intern (Winter 2027)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704600006",
-    "company": "Astranis",
-    "location": "San Francisco",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Radiation Effects Engineer Intern (Fall 2026)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
     "company": "Astranis",
     "location": "San Francisco",
     "status": "Active",
@@ -5520,6 +5568,14 @@
     "date_added": "2026-09-23"
   },
   {
+    "title": "Software Engineer: Intern Opportunity for University Students",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+    "company": "Microsoft",
+    "location": "United States, California, Mountain View",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
     "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
     "url": "https://nuro.ai/careersitem?gh_jid=8227399",
     "company": "Nuro",
@@ -5534,6 +5590,14 @@
     "location": "New York",
     "status": "Closed",
     "date_added": "2026-09-21"
+  },
+  {
+    "title": "Radiation Effects Engineer Intern (Fall 2026)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
   },
   {
     "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
