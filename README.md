@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-686-green?style=flat-square)](#-active-postings-686)
+[![Active Postings](https://img.shields.io/badge/active%20postings-689-green?style=flat-square)](#-active-postings-689)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,13 +12,18 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (686)
+## 📈 Active Postings (689)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Analog Devices** | Healthcare Mechanical Engineering Co-op (Spring) | `US, MA, Wilmington` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) | 2026-09-25 |
+| **Bosch** | Engineering Intern - Airbag ECU | `Plymouth, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000151900549) | 2026-09-25 |
+| **Bosch** | Multi-modal Sensing AI Research Intern | `Pittsburgh, PA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) | 2026-09-25 |
+| **Intel** | System Software Engineering - PhD Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) | 2026-09-25 |
 | **KLA** | Applications Engineering  Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1) | 2026-09-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 2026-09-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 2026-09-25 |
+| **RBC** | 2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months) | `TORONTO, Ontario, Canada` | 🟢 Active | [Apply ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937) | 2026-09-25 |
 | **Zipline** | Field Systems Engineer Intern (Spring 2027) | `South San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003) | 2026-09-25 |
 | **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | 2026-09-24 |
 | **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | `Redmond, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | 2026-09-24 |
@@ -133,7 +138,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) | 2026-09-20 |
 | **Belvedere Trading** | Software Engineer - Entry Level 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) | 2026-09-20 |
 | **Belvedere Trading** | Software Engineer Intern - Summer 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | 2026-09-20 |
-| **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Bay Area, CA, United States of America` | 🟢 Active | [Apply ↗](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | 2026-09-20 |
 | **Bosch** | Intern- Quality Systems Management | `Albion, IN, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148848849) | 2026-09-20 |
 | **Bosch** | Data Analytics Intern - Engineering & SAP Operations | `Lincolnshire, IL, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148595878) | 2026-09-20 |
 | **Bosch** | Engineering Intern | `Plymouth, Michigan, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148591127) | 2026-09-20 |
@@ -663,7 +667,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Amazon** | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | `Westboro, Wisconsin, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | 2026-07-09 |
 | **Amazon** | Robotics - Software Development Engineer Intern - 2026 - Toronto | `Toronto, Ontario, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | 2026-07-09 |
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2026-07-09 |
-| **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Toronto, Ontario , Canada` | 🟢 Active | [Apply ↗](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 2026-07-09 |
 | **Jump Trading** | Campus AI Research Engineer – Research Automation (Intern) | `Chicago; New York` | 🟢 Active | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 2026-07-09 |
@@ -719,13 +722,14 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (332)
+## 🔒 Closed Postings (334)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Amazon** | Security Engineer Internship – 2027 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) | 2026-09-23 |
 | **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | `Mountain View, California (HQ)` | 🔴 Closed | [Link ↗](https://nuro.ai/careersitem?gh_jid=8227399) | 2026-09-23 |
 | **Sony** | Sony Research - Internship on Audio Processing and Machine Learning | `New York` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643) | 2026-09-21 |
+| **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Bay Area, CA, United States of America` | 🔴 Closed | [Link ↗](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | 2026-09-20 |
 | **Bosch** | 2027 Spring Logistics / Packaging Engineering Co-op / LOM | `Charleston, SC, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000141337803) | 2026-09-20 |
 | **Bosch** | Product Management Internship (6-month) | `Farmington Hills, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | 2026-09-20 |
 | **Bosch** | Electronics Engineering Intern | `Fort Lauderdale, FL, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) | 2026-09-20 |
@@ -981,6 +985,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Autodesk** | Intern, AI in Design & Manufacturing | `AMER - Canada - Ontario - Toronto - University Ave` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900) | 2026-07-09 |
 | **Autodesk** | Intern, Content Management | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) | 2026-07-09 |
 | **Autodesk** | PhD Intern, HCI & Visualization Research | `2 Locations` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | 2026-07-09 |
+| **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Toronto, Ontario , Canada` | 🔴 Closed | [Link ↗](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | 2026-07-09 |
 | **BMO** | Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 2026-07-09 |
 | **BMO** | Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Student-Experience-Specialist--Fall-2026--Co-op-Internship----4-Months_R260020151) | 2026-07-09 |
 | **BMO** | Administrative Assistant Intern (Co-op/Internship), Fall 2026, Montreal - 4 months | `MONTREAL, QC, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Administrative-Assistant-Intern--Co-op-Internship---Fall-2026--Montreal---4-months_R260018871) | 2026-07-09 |
