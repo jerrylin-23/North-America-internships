@@ -1,5 +1,13 @@
 [
   {
+    "title": "Research Intern - Data Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-26"
+  },
+  {
     "title": "Healthcare Mechanical Engineering Co-op (Spring)",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
     "company": "Analog Devices",
@@ -52,14 +60,6 @@
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1",
     "company": "KLA",
     "location": "Milpitas, CA",
-    "status": "Active",
-    "date_added": "2026-09-25"
-  },
-  {
-    "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
-    "company": "Microsoft",
-    "location": "United States, Georgia, Atlanta",
     "status": "Active",
     "date_added": "2026-09-25"
   },
@@ -5558,6 +5558,14 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714",
+    "company": "Microsoft",
+    "location": "United States, Georgia, Atlanta",
+    "status": "Closed",
+    "date_added": "2026-09-25"
   },
   {
     "title": "Security Engineer Internship – 2027 (US)",
