@@ -2,7 +2,7 @@
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
 [![Active Postings](https://img.shields.io/badge/active%20postings-696-green?style=flat-square)](#-active-postings-696)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-27-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-09-28-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -16,6 +16,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **BMO** | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) | 2026-09-28 |
 | **Microsoft** | Research Intern - Data Systems | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557008574) | 2026-09-26 |
 | **Analog Devices** | Healthcare Mechanical Engineering Co-op (Spring) | `US, MA, Wilmington` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) | 2026-09-25 |
 | **Bosch** | Engineering Intern - Airbag ECU | `Plymouth, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000151900549) | 2026-09-25 |
@@ -525,7 +526,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Software Engineering Intern - CTJ - TS | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556983221) | 2026-09-12 |
 | **Microsoft** | Security Assurance Intern - CTJ - TS | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556988203) | 2026-09-12 |
 | **Amazon** | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) | 2026-09-11 |
-| **BMO** | AI Intern, Winter 2027 (Internship) - 4 months | `Chicago, IL, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/AI-Intern--Winter-2027--Internship----4-months_R260026562-3) | 2026-09-11 |
 | **Meta** | Research Scientist Intern, Optical System Design (PhD) | `Redmond, WA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1796691991338568/) | 2026-09-11 |
 | **Visier** | Software Developer Co-op (January to August 2027) | `Vancouver, BC, Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) | 2026-09-11 |
 | **Visier** | Test Developer Co-op (January to August 2027) | `Vancouver, BC, Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) | 2026-09-11 |
@@ -729,7 +729,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (336)
+## 🔒 Closed Postings (337)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -775,6 +775,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Intel** | System Technology Research Engineer - (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | 2026-09-14 |
 | **NVIDIA** | PhD Research Intern, Circuits - 2027 | `2 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | 2026-09-13 |
 | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027) | `New York, NY` | 🔴 Closed | [Link ↗](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) | 2026-09-12 |
+| **BMO** | AI Intern, Winter 2027 (Internship) - 4 months | `Chicago, IL, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/AI-Intern--Winter-2027--Internship----4-months_R260026562-3) | 2026-09-11 |
 | **Intel** | AI Software Engineering PhD Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) | 2026-09-11 |
 | **Meta** | Research Scientist Intern, Applied Vision and Image Quality (PhD) | `Canada` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1422892385992613/) | 2026-09-11 |
 | **NVIDIA** | System Software Engineering Intern, GPU - 2027 | `2 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | 2026-09-11 |
