@@ -8,6 +8,14 @@
     "date_added": "2026-09-28"
   },
   {
+    "title": "Radar Sensing AI Research Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152219569",
+    "company": "Bosch",
+    "location": "Pittsburgh, PA, United States",
+    "status": "Active",
+    "date_added": "2026-09-28"
+  },
+  {
     "title": "Research Intern - Data Systems",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
     "company": "Microsoft",
@@ -28,14 +36,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151900549",
     "company": "Bosch",
     "location": "Plymouth, MI, United States",
-    "status": "Active",
-    "date_added": "2026-09-25"
-  },
-  {
-    "title": "Multi-modal Sensing AI Research Intern",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151890105",
-    "company": "Bosch",
-    "location": "Pittsburgh, PA, United States",
     "status": "Active",
     "date_added": "2026-09-25"
   },
@@ -1472,14 +1472,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Stagiaire en développement logiciel / Software Developer Intern",
-    "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
-    "company": "Exegy",
-    "location": "Montreal",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Electrical Engineering Intern [Fall 2026]",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
     "company": "Figure AI",
@@ -1528,34 +1520,10 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Austin, TX, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Developer Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Student Researcher, PhD, Winter-Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-wintersummer-2027",
     "company": "Google",
     "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Mountain View, CA, USA; Austin, TX, USA",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -1604,14 +1572,6 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/141525012002546374-student-researcher-phd-wintersummer-2027",
     "company": "Google",
     "location": "Montreal, QC, Canada",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Developer Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
-    "company": "Google",
-    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -5568,6 +5528,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Multi-modal Sensing AI Research Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151890105",
+    "company": "Bosch",
+    "location": "Pittsburgh, PA, United States",
+    "status": "Closed",
+    "date_added": "2026-09-25"
+  },
+  {
     "title": "Security Engineer Internship – 2027 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
     "company": "Amazon",
@@ -5680,6 +5648,14 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Stagiaire en développement logiciel / Software Developer Intern",
+    "url": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb",
+    "company": "Exegy",
+    "location": "Montreal",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Firmware Intern [Fall 2026]",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
     "company": "Figure AI",
@@ -5700,6 +5676,38 @@
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
     "company": "Figure AI",
     "location": "San Jose, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Austin, TX, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, BS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Mountain View, CA, USA; Austin, TX, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern, MS, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
+    "company": "Google",
+    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
