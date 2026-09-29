@@ -40,6 +40,14 @@
     "date_added": "2026-09-29"
   },
   {
+    "title": "New Graduate Engineer, Software (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-09-29"
+  },
+  {
     "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
     "company": "Waymo",
@@ -584,14 +592,6 @@
     "date_added": "2026-09-23"
   },
   {
-    "title": "Data Analytics Intern (8 months)",
-    "url": "https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986",
-    "company": "Super.com",
-    "location": "Canada",
-    "status": "Active",
-    "date_added": "2026-09-23"
-  },
-  {
     "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
     "company": "Waymo",
@@ -708,14 +708,6 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
     "company": "Marvell",
     "location": "CA-ON - Toronto - TOR",
-    "status": "Active",
-    "date_added": "2026-09-22"
-  },
-  {
-    "title": "Security Research INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962157",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-09-22"
   },
@@ -3536,14 +3528,6 @@
     "date_added": "2026-09-19"
   },
   {
-    "title": "Hardware Engineering Internship (6-Month Program)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-19"
-  },
-  {
     "title": "PhD Research Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426",
     "company": "HPE",
@@ -3580,30 +3564,6 @@
     "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
     "company": "Lyft",
     "location": "Toronto, Canada",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
-    "title": "Software Engineering Internship (6-month Program)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-    "company": "Microsoft",
-    "location": "United States, California, Santa Clara; United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
-    "title": "Silicon Engineering Internship (6-month Program)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
-    "company": "Microsoft",
-    "location": "United States, California, Mountain View; United States, Oregon, Hillsboro",
-    "status": "Active",
-    "date_added": "2026-09-18"
-  },
-  {
-    "title": "Electrical Engineering Internship (6-Month Program)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982262",
-    "company": "Microsoft",
-    "location": "United States, Washington, Seattle; United States, California, San Jose; United States, North Carolina, Raleigh",
     "status": "Active",
     "date_added": "2026-09-18"
   },
@@ -5608,6 +5568,22 @@
     "date_added": "2026-09-23"
   },
   {
+    "title": "Data Analytics Intern (8 months)",
+    "url": "https://jobs.ashbyhq.com/super.com/3ee6ff20-3502-410b-bf24-71db02488986",
+    "company": "Super.com",
+    "location": "Canada",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
+    "title": "Security Research INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962157",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-22"
+  },
+  {
     "title": "Sony Research - Internship on Audio Processing and Machine Learning",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
     "company": "Sony",
@@ -5832,10 +5808,42 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Hardware Engineering Internship (6-Month Program)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-19"
+  },
+  {
     "title": "Software Development Engineer Internship - Summer -2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "Software Engineering Internship (6-month Program)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+    "company": "Microsoft",
+    "location": "United States, California, Santa Clara; United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "Silicon Engineering Internship (6-month Program)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
+    "company": "Microsoft",
+    "location": "United States, California, Mountain View; United States, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-09-18"
+  },
+  {
+    "title": "Electrical Engineering Internship (6-Month Program)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982262",
+    "company": "Microsoft",
+    "location": "United States, Washington, Seattle; United States, California, San Jose; United States, North Carolina, Raleigh",
     "status": "Closed",
     "date_added": "2026-09-18"
   },
