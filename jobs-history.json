@@ -1,5 +1,13 @@
 [
   {
+    "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+    "company": "Amazon",
+    "location": "Seattle, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Commercial Project Management & AI Innovation Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152706359",
     "company": "Bosch",
@@ -8,10 +16,34 @@
     "date_added": "2026-09-30"
   },
   {
+    "title": "Data Analytics Intern - Engineering & SAP Operations",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152737589",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Mechanical Engineering Summer 2027 Intern",
     "url": "https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606",
     "company": "Helion",
     "location": "Everett, WA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Research Scientist Intern - Graphics, ML",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+    "company": "Intel",
+    "location": "Virtual US",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "AI SOC Power Delivery Pathfinding PhD Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
     "status": "Active",
     "date_added": "2026-09-30"
   },
@@ -56,8 +88,48 @@
     "date_added": "2026-09-30"
   },
   {
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Mechatronics Engineering Internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Mechatronics/Systems Engineering Internship",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Test Engineering Intern, MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Product Engineer Intern, BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1",
     "company": "Marvell",
     "location": "Santa Clara, CA",
     "status": "Active",
@@ -73,7 +145,7 @@
   },
   {
     "title": "DFX Engineering Intern",
-    "url": "https://www.metacareers.com/jobs/1683903403071591/",
+    "url": "https://www.metacareers.com/jobs/1095054769939445/",
     "company": "Meta",
     "location": "Sunnyvale, CA; Seattle, WA",
     "status": "Active",
@@ -84,6 +156,46 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Security Operations Engineering INTERN",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557019490",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Applied Scientist Intern",
+    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "High School Internship, Software Engineering (Summer 2027)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+    "company": "Stripe",
+    "location": "Seattle, San Francisco",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
     "status": "Active",
     "date_added": "2026-09-30"
   },
@@ -760,14 +872,6 @@
     "date_added": "2026-09-23"
   },
   {
-    "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
-    "company": "Nuro",
-    "location": "Mountain View, California (HQ)",
-    "status": "Active",
-    "date_added": "2026-09-23"
-  },
-  {
     "title": "Software Engineer, Public Sector - New Grad",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
     "company": "Scale AI",
@@ -1324,14 +1428,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148848849",
     "company": "Bosch",
     "location": "Albion, IN, United States",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Data Analytics Intern - Engineering & SAP Operations",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148595878",
-    "company": "Bosch",
-    "location": "Lincolnshire, IL, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -3268,14 +3364,6 @@
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379",
     "company": "Western Digital",
     "location": "Fremont, CA, United States",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Fall 2026 Intern - IT Wafer Systems Automation",
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135313334",
-    "company": "Western Digital",
-    "location": "San Jose, CA, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -5688,6 +5776,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "DFX Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1683903403071591/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Seattle, WA",
+    "status": "Closed",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Multi-modal Sensing AI Research Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151890105",
     "company": "Bosch",
@@ -5700,6 +5796,14 @@
     "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
+    "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
     "status": "Closed",
     "date_added": "2026-09-23"
   },
@@ -5732,6 +5836,14 @@
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
     "company": "Astranis",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Data Analytics Intern - Engineering & SAP Operations",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148595878",
+    "company": "Bosch",
+    "location": "Lincolnshire, IL, United States",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -5972,6 +6084,14 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
     "company": "Waymo",
     "location": "San Francisco, California, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Fall 2026 Intern - IT Wafer Systems Automation",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135313334",
+    "company": "Western Digital",
+    "location": "San Jose, CA, United States",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
