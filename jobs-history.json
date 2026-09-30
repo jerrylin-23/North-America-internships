@@ -1,5 +1,13 @@
 [
   {
+    "title": "Commercial Project Management & AI Innovation Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152706359",
+    "company": "Bosch",
+    "location": "Plymouth, MI, United States",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Mechanical Engineering Summer 2027 Intern",
     "url": "https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606",
     "company": "Helion",
@@ -16,6 +24,38 @@
     "date_added": "2026-09-30"
   },
   {
+    "title": "Optical Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Product Development Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Product Development Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
     "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860",
     "company": "Marvell",
@@ -28,6 +68,14 @@
     "url": "https://www.metacareers.com/jobs/1613359540444032/",
     "company": "Meta",
     "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "DFX Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1683903403071591/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Seattle, WA",
     "status": "Active",
     "date_added": "2026-09-30"
   },
@@ -752,7 +800,7 @@
     "date_added": "2026-09-23"
   },
   {
-    "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer ",
+    "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer ",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
     "company": "Waymo",
     "location": "Mountain View, California",
@@ -2034,14 +2082,6 @@
   {
     "title": "Process Engineer Intern, MS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1",
-    "company": "Marvell",
-    "location": "Santa Clara, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Firmware Engineer Intern, MS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
     "company": "Marvell",
     "location": "Santa Clara, CA",
     "status": "Active",
@@ -4000,14 +4040,6 @@
     "date_added": "2026-09-14"
   },
   {
-    "title": "Packaging Technology Development Graduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
-    "company": "Intel",
-    "location": "US, Arizona, Phoenix",
-    "status": "Active",
-    "date_added": "2026-09-14"
-  },
-  {
     "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
     "company": "NVIDIA",
@@ -5840,6 +5872,14 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Firmware Engineer Intern, MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Applied Machine Learning Scientist Intern - PhD",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
     "company": "Marvell",
@@ -6084,6 +6124,14 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Texas-United-States-of-America/Sr-Cloud-Account-Manager--Campus-and-Branch_1203240-2",
     "company": "HPE",
     "location": "All, Texas, United States of America",
+    "status": "Closed",
+    "date_added": "2026-09-14"
+  },
+  {
+    "title": "Packaging Technology Development Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
     "status": "Closed",
     "date_added": "2026-09-14"
   },
