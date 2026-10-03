@@ -1,5 +1,53 @@
 [
   {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+    "company": "Affirm",
+    "location": "San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
+    "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "company": "Affirm",
+    "location": "San Francisco, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
+    "title": "AI Applied Engineering Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670",
+    "company": "HP",
+    "location": "Vancouver, Washington, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
+    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
+    "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380",
+    "company": "ServiceNow",
+    "location": "Mountain View, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
+    "title": "2027 Summer Intern, Perception - Evaluation",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-10-03"
+  },
+  {
     "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
     "company": "Amazon",
@@ -432,14 +480,6 @@
     "date_added": "2026-10-01"
   },
   {
-    "title": "PhD University Grad Data Scientist 2027 (USA)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157351",
-    "company": "Pinterest",
-    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
     "title": "PhD University Grad Machine Learning Engineer (USA) ",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
     "company": "Pinterest",
@@ -480,7 +520,7 @@
     "date_added": "2026-10-01"
   },
   {
-    "title": "UX Quantitative Research Intern (USA)  *Remote",
+    "title": "UX Quantitative Research Intern (USA)",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
     "company": "Pinterest",
     "location": "Remote, US",
@@ -691,7 +731,7 @@
     "title": "Product Design Engineering Intern",
     "url": "https://www.metacareers.com/jobs/1613359540444032/",
     "company": "Meta",
-    "location": "Redmond, WA; Seattle, WA",
+    "location": "Sunnyvale, CA; Redmond, WA; Seattle, WA",
     "status": "Active",
     "date_added": "2026-09-30"
   },
@@ -6254,6 +6294,14 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "PhD University Grad Data Scientist 2027 (USA)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157351",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "status": "Closed",
+    "date_added": "2026-10-01"
   },
   {
     "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
