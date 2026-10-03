@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-787-green?style=flat-square)](#-active-postings-787)
+[![Active Postings](https://img.shields.io/badge/active%20postings-786-green?style=flat-square)](#-active-postings-786)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-03-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (787)
+## 📈 Active Postings (786)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -97,7 +97,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Helion** | Mechanical Engineering Summer 2027 Intern | `Everett, WA` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606) | 2026-09-30 |
 | **Intel** | Research Scientist Intern - Graphics, ML | `Virtual US` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | 2026-09-30 |
 | **Intel** | AI SOC Power Delivery Pathfinding PhD Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) | 2026-09-30 |
-| **Intuitive** | Research Analyst Intern | `Sunnyvale, CA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/Intuitive/744000152549710) | 2026-09-30 |
 | **KLA** | Optical Engineer Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1) | 2026-09-30 |
 | **KLA** | Software Engineering Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1) | 2026-09-30 |
 | **KLA** | Product Development Engineer Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2) | 2026-09-30 |
@@ -820,13 +819,14 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (374)
+## 🔒 Closed Postings (375)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Pinterest** | PhD University Grad Data Scientist 2027 (USA) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8157351) | 2026-10-01 |
 | **Pinterest** | University Grad Machine Learning Engineer 2027 (Toronto) | `Toronto, ON, CA` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8138065) | 2026-10-01 |
 | **Pinterest** | University Grad Software Engineer (Toronto) | `Toronto, ON, CA` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8138049) | 2026-10-01 |
+| **Intuitive** | Research Analyst Intern | `Sunnyvale, CA, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/Intuitive/744000152549710) | 2026-09-30 |
 | **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | `Santa Clara, CA` | 🔴 Closed | [Link ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860) | 2026-09-30 |
 | **Meta** | DFX Engineering Intern | `Sunnyvale, CA; Seattle, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1683903403071591/) | 2026-09-30 |
 | **Bosch** | Multi-modal Sensing AI Research Intern | `Pittsburgh, PA, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000151890105) | 2026-09-25 |
