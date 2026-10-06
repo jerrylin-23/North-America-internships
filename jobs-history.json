@@ -1,21 +1,5 @@
 [
   {
-    "title": "Software Engineer I (New Grad 2027) (NYC)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
-    "company": "Affirm",
-    "location": "New York, New York, United States",
-    "status": "Active",
-    "date_added": "2026-10-06"
-  },
-  {
-    "title": "Software Engineer I (New Grad 2027) (SF)",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-    "company": "Affirm",
-    "location": "San Francisco, California, United States",
-    "status": "Active",
-    "date_added": "2026-10-06"
-  },
-  {
     "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
     "company": "Amazon",
@@ -80,6 +64,14 @@
     "date_added": "2026-10-06"
   },
   {
+    "title": "Software Development Engineer Intern (San Jose, CA)",
+    "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
+    "company": "F5",
+    "location": "San Jose",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
     "title": "PhD Intern, AI Applied Scientist (2027)",
     "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
     "company": "Figma",
@@ -106,6 +98,14 @@
   {
     "title": "Validation Engineering Intern [Winter 2027]",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Security Engineer Intern [Winter 2027]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006",
     "company": "Figure AI",
     "location": "San Jose, CA",
     "status": "Active",
@@ -6096,6 +6096,14 @@
     "date_added": "2026-07-25"
   },
   {
+    "title": "Applied Science: PhD Microsoft AI Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond; United States, California, Mountain View",
+    "status": "Active",
+    "date_added": "2026-07-25"
+  },
+  {
     "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
     "company": "Palantir",
@@ -6542,6 +6550,22 @@
     "location": "Chicago",
     "status": "Active",
     "date_added": "2026-06-13"
+  },
+  {
+    "title": "Software Engineer I (New Grad 2027) (NYC)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "company": "Affirm",
+    "location": "New York, New York, United States",
+    "status": "Closed",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Software Engineer I (New Grad 2027) (SF)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "company": "Affirm",
+    "location": "San Francisco, California, United States",
+    "status": "Closed",
+    "date_added": "2026-10-06"
   },
   {
     "title": "Electrical Engineering Intern",
@@ -8532,14 +8556,6 @@
     "url": "https://www.metacareers.com/jobs/2160167211413098/",
     "company": "Meta",
     "location": "Sunnyvale, CA; Redmond, WA",
-    "status": "Closed",
-    "date_added": "2026-07-25"
-  },
-  {
-    "title": "Applied Science: PhD Microsoft AI Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond; United States, California, Mountain View",
     "status": "Closed",
     "date_added": "2026-07-25"
   },
