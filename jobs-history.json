@@ -1,5 +1,133 @@
 [
   {
+    "title": "2027 Quality & Test Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+    "company": "Anduril",
+    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "2027 Reliability Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "2027 Systems Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+    "company": "Anduril",
+    "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Winter 2027 Quality & Test Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
+    "company": "Anduril",
+    "location": "Ashville, Ohio, United States; Santa Ana, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Winter 2027 Reliability Engineer Co-op",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "2027 Spring Quality Engineering Co-op / QMM6 - 1st Shift",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153601138",
+    "company": "Bosch",
+    "location": "Charleston, SC, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "PhD Intern, AI Applied Scientist (2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Data Scientist Intern - 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+    "company": "Hudson River Trading",
+    "location": "London, United Kingdom; New York, NY, United States",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "AI Solution Architect - Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+    "company": "Intel",
+    "location": "US, California, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "AI Solution Architect - Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "AI Solution Architect Graduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+    "company": "Intel",
+    "location": "US, California, Santa Clara",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Electrical Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1105729655266553/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "New Grad Software Engineer, Routing",
+    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+    "company": "Waymo",
+    "location": "Mountain View, CA, USA",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Contract Student Worker - Charging Infrastructure Partnerships",
+    "url": "https://jobs.lever.co/zoox/4645fddd-019c-470c-96c8-552496b30450",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
     "title": "Electric Hardware Engineering Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414",
     "company": "HPE",
@@ -44,14 +172,6 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
     "company": "Marvell",
     "location": "Santa Clara, CA",
-    "status": "Active",
-    "date_added": "2026-10-05"
-  },
-  {
-    "title": "Electrical Engineering Intern",
-    "url": "https://www.metacareers.com/jobs/1610929233853451/",
-    "company": "Meta",
-    "location": "Sunnyvale, CA",
     "status": "Active",
     "date_added": "2026-10-05"
   },
@@ -128,7 +248,7 @@
     "date_added": "2026-10-03"
   },
   {
-    "title": "2027 Summer Intern, Perception - Evaluation",
+    "title": "2027 Summer Intern, MS/PhD, Perception, Evaluation",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
     "company": "Waymo",
     "location": "Mountain View, CA, USA",
@@ -466,14 +586,6 @@
   {
     "title": "GPU Physical Design Engineer Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
-    "company": "Intel",
-    "location": "Costa Rica, San Jose",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
-    "title": "AI Software Engineering Undergraduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583",
     "company": "Intel",
     "location": "Costa Rica, San Jose",
     "status": "Active",
@@ -1592,14 +1704,6 @@
     "date_added": "2026-09-22"
   },
   {
-    "title": "Data Scientist Intern - 2027",
-    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
-    "company": "Hudson River Trading",
-    "location": "New York, NY, United States",
-    "status": "Active",
-    "date_added": "2026-09-22"
-  },
-  {
     "title": "Test Equipment Engineer Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826-1",
     "company": "Marvell",
@@ -1835,7 +1939,7 @@
     "title": "Winter 2027 Manufacturing Engineer Co-op",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
     "company": "Anduril",
-    "location": "Lexington, Massachusetts, United States; Quincy, Massachusetts, United States",
+    "location": "Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -2152,14 +2256,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Phone as a Key Software Engineering - Intern",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
-    "company": "Bosch",
-    "location": "Plymouth, MI, United States",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Manufacturing Engineering/Operations Co-op - Fall 2026",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143527019",
     "company": "Bosch",
@@ -2250,14 +2346,6 @@
   {
     "title": "Security Engineer I (Intern) - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-    "company": "Cisco",
-    "location": "RTP, North Carolina, US",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Engineer I (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
     "company": "Cisco",
     "location": "RTP, North Carolina, US",
     "status": "Active",
@@ -4168,14 +4256,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Software Engineer Intern (Summer 2027)",
-    "url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Software Systems Validation Intern (Spring 2027)",
     "url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
     "company": "Zipline",
@@ -4824,14 +4904,6 @@
     "date_added": "2026-09-10"
   },
   {
-    "title": "Software Test Developer - New Graduate",
-    "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
-    "company": "D2L",
-    "location": "Kitchener, Remote Canada",
-    "status": "Active",
-    "date_added": "2026-09-10"
-  },
-  {
     "title": "Software Research Engineering - (PhD Intern)",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
     "company": "Intel",
@@ -4940,14 +5012,6 @@
     "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
     "company": "Hex",
     "location": "San Francisco",
-    "status": "Active",
-    "date_added": "2026-09-09"
-  },
-  {
-    "title": "Mechanical Engineer – PhD/MS New Graduate",
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Mechanical-Engineer---PhD-MS-New-Graduate_1208347-2",
-    "company": "HPE",
-    "location": "Sunnyvale, California, United States of America",
     "status": "Active",
     "date_added": "2026-09-09"
   },
@@ -6312,6 +6376,22 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Electrical Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1610929233853451/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA",
+    "status": "Closed",
+    "date_added": "2026-10-05"
+  },
+  {
+    "title": "AI Software Engineering Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583",
+    "company": "Intel",
+    "location": "Costa Rica, San Jose",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
     "title": "AI Software Technical Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544",
     "company": "Intel",
@@ -6448,6 +6528,14 @@
     "date_added": "2026-09-23"
   },
   {
+    "title": "Data Scientist Intern - 2027",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+    "company": "Hudson River Trading",
+    "location": "New York, NY, United States",
+    "status": "Closed",
+    "date_added": "2026-09-22"
+  },
+  {
     "title": "Software/Firmware Engineer Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
     "company": "Marvell",
@@ -6484,6 +6572,14 @@
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
     "company": "Astranis",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Phone as a Key Software Engineering - Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
+    "company": "Bosch",
+    "location": "Plymouth, MI, United States",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -6564,6 +6660,14 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259",
     "company": "Bosch",
     "location": "Pittsburgh, PA, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
+    "company": "Cisco",
+    "location": "RTP, North Carolina, US",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -6788,6 +6892,14 @@
     "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
     "company": "Zip",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
@@ -7088,6 +7200,14 @@
     "date_added": "2026-09-11"
   },
   {
+    "title": "Software Test Developer - New Graduate",
+    "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
+    "company": "D2L",
+    "location": "Kitchener, Remote Canada",
+    "status": "Closed",
+    "date_added": "2026-09-10"
+  },
+  {
     "title": "AI and Compiler Engineering Graduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
     "company": "Intel",
@@ -7132,6 +7252,14 @@
     "url": "https://www.d2l.com/careers/jobs/?job_id=8180678&gh_jid=8180678",
     "company": "D2L",
     "location": "Kitchener, ON or Winnipeg, MB",
+    "status": "Closed",
+    "date_added": "2026-09-09"
+  },
+  {
+    "title": "Mechanical Engineer – PhD/MS New Graduate",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Mechanical-Engineer---PhD-MS-New-Graduate_1208347-2",
+    "company": "HPE",
+    "location": "Sunnyvale, California, United States of America",
     "status": "Closed",
     "date_added": "2026-09-09"
   },
