@@ -56,6 +56,30 @@
     "date_added": "2026-10-06"
   },
   {
+    "title": "Cloud Developer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950",
+    "company": "HPE",
+    "location": "San Jose, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Systems Software Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401",
+    "company": "HPE",
+    "location": "Bloomington, Minnesota, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Infrastructure Deployment Automation Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
+    "company": "HPE",
+    "location": "Bloomington, Minnesota, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
     "title": "Data Scientist Intern - 2027",
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
     "company": "Hudson River Trading",
@@ -92,6 +116,14 @@
     "url": "https://www.metacareers.com/jobs/1105729655266553/",
     "company": "Meta",
     "location": "Sunnyvale, CA; New York, NY",
+    "status": "Active",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Software Engineer: Internship Opportunities, Azure Databases",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-10-06"
   },
@@ -388,14 +420,6 @@
     "url": "https://www.metacareers.com/jobs/1940312740718917/",
     "company": "Meta",
     "location": "Menlo Park, CA",
-    "status": "Active",
-    "date_added": "2026-10-02"
-  },
-  {
-    "title": "Research Intern - Security Research Group, Microsoft Research Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-10-02"
   },
@@ -5200,14 +5224,6 @@
     "date_added": "2026-09-04"
   },
   {
-    "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-09-04"
-  },
-  {
     "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140",
     "company": "Microsoft",
@@ -5658,22 +5674,6 @@
   {
     "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-08-04"
-  },
-  {
-    "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-08-04"
-  },
-  {
-    "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
     "status": "Active",
@@ -6382,6 +6382,14 @@
     "location": "Sunnyvale, CA",
     "status": "Closed",
     "date_added": "2026-10-05"
+  },
+  {
+    "title": "Research Intern - Security Research Group, Microsoft Research Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-10-02"
   },
   {
     "title": "AI Software Engineering Undergraduate Intern",
@@ -7464,6 +7472,14 @@
     "date_added": "2026-09-04"
   },
   {
+    "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-09-04"
+  },
+  {
     "title": "Credit & Fraud Analytics Intern (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
     "company": "Wealthsimple (Ashby)",
@@ -8180,6 +8196,22 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "company": "Intel",
     "location": "Virtual US",
+    "status": "Closed",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-08-04"
+  },
+  {
+    "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-08-04"
   },
