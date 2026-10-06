@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-797-green?style=flat-square)](#-active-postings-797)
+[![Active Postings](https://img.shields.io/badge/active%20postings-806-green?style=flat-square)](#-active-postings-806)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-06-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (797)
+## 📈 Active Postings (806)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -30,9 +30,17 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intel** | AI Solution Architect - Graduate Intern | `US, California, Santa Clara` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) | 2026-10-06 |
 | **Intel** | AI Solution Architect - Undergraduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531) | 2026-10-06 |
 | **Intel** | AI Solution Architect Graduate Intern | `US, California, Santa Clara` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) | 2026-10-06 |
+| **Intel** | (Epi) - Module Development Engineer - (PhD Intern) | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) | 2026-10-06 |
+| **KLA** | PLM BI & Analytics Intern | `Ann Arbor, MI` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) | 2026-10-06 |
+| **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | `Santa Clara, CA` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1) | 2026-10-06 |
 | **Meta** | Electrical Engineering Intern | `Sunnyvale, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1105729655266553/) | 2026-10-06 |
+| **Meta** | Software Engineer Intern, Systems and Infrastructure (PhD) | `Sunnyvale, CA; Bellevue, WA; Redmond, WA; Menlo Park, CA; Seattle, WA; Burlingame, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/945520495299801/) | 2026-10-06 |
+| **Meta** | Software Engineer Intern, Machine Learning (PhD) | `Sunnyvale, CA; Bellevue, WA; Redmond, WA; Menlo Park, CA; Seattle, WA; Burlingame, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2180490782513668/) | 2026-10-06 |
+| **Meta** | Data Scientist Intern, Product Analytics (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1633096478817942/) | 2026-10-06 |
+| **Meta** | Software Engineering Intern | `Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1952991802037374/) | 2026-10-06 |
 | **Microsoft** | Software Engineer: Internship Opportunities, Azure Databases | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557002476) | 2026-10-06 |
-| **Nuro** | New Grad Software Engineer, Routing | `Mountain View, California (HQ)` | 🟢 Active | [Apply ↗](https://nuro.ai/careersitem?gh_jid=8248317) | 2026-10-06 |
+| **Nuro** | New Grad Software Engineer, Product Engineering | `Mountain View, California (HQ)` | 🟢 Active | [Apply ↗](https://nuro.ai/careersitem?gh_jid=8248317) | 2026-10-06 |
+| **Pure Storage** | Software Engineer Intern (Summer 2027) | `Santa Clara, California` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/purestorage/jobs/8249749) | 2026-10-06 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8257159) | 2026-10-06 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2026-10-06 |
 | **Zoox** | Contract Student Worker - Charging Infrastructure Partnerships | `Foster City, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/zoox/4645fddd-019c-470c-96c8-552496b30450) | 2026-10-06 |
@@ -70,6 +78,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Mechanical Engineering Intern, Infrastructure | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/921722064324989/) | 2026-10-02 |
 | **Meta** | Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD) | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1940312740718917/) | 2026-10-02 |
 | **Microsoft** | Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556925816) | 2026-10-02 |
+| **Microsoft** | Research Intern - Security Research Group, Microsoft Research Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557022480) | 2026-10-02 |
 | **SeatGeek** | Security Engineer - Internship | `New York, New York` | 🟢 Active | [Apply ↗](https://seatgeek.com/jobs/8248151?gh_jid=8248151) | 2026-10-02 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8248060) | 2026-10-02 |
 | **Waymo** | 2027 Summer Intern, PhD, Research, World Action Model | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8243732) | 2026-10-02 |
@@ -107,7 +116,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Pinterest** | Software Engineering Intern 2027 (Toronto) | `Toronto, ON, CA` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | 2026-10-01 |
 | **Pinterest** | Software Engineer Intern 2027 (USA) | `San Francisco, CA, US; Remote, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) | 2026-10-01 |
 | **Pinterest** | University Grad Software Engineer 2027 (USA) | `San Francisco, CA, US; Remote, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) | 2026-10-01 |
-| **Pinterest** | UX Engineering Intern (San Francisco) | `San Francisco, CA, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) | 2026-10-01 |
 | **Pinterest** | UX Quantitative Research Intern (USA) | `Remote, US` | 🟢 Active | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | 2026-10-01 |
 | **Point72** | Micro-Intern: Research Technology Developer (IAP) | `New York` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) | 2026-10-01 |
 | **Riot Games** | Software Engineering Intern - Summer 2027 (Remote) | `Los Angeles, USA` | 🟢 Active | [Apply ↗](https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014) | 2026-10-01 |
@@ -195,7 +203,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intuitive** | AI Research Intern | `Sunnyvale, CA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/Intuitive/744000151714759) | 2026-09-24 |
 | **Lyft** | Content Systems Intern (Summer 2027) | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) | 2026-09-24 |
 | **Marvell** | AMS Layout Engineer Intern - BS - 2027 Co-Op | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | 2026-09-24 |
-| **Meta** | Production Engineer Intern | `Bellevue, WA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1609178343953401/) | 2026-09-24 |
+| **Meta** | Production Engineer Intern | `Bellevue, WA; Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1609178343953401/) | 2026-09-24 |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) | `San Francisco, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | 2026-09-24 |
 | **Ramp** | Software Engineer Internship, Frontend | `New York, NY (HQ)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | 2026-09-24 |
 | **Ramp** | Software Engineering Intern, Backend | `New York, NY (HQ)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) | 2026-09-24 |
@@ -297,7 +305,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Bosch** | Service Engineer Intern | `Lincolnshire, IL, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148243450) | 2026-09-20 |
 | **Bosch** | Service Engineer Intern | `Lincolnshire, IL, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148246120) | 2026-09-20 |
 | **Bosch** | Intern- Plastics Process Engineer | `Albion, IN, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000147075639) | 2026-09-20 |
-| **Bosch** | AI Application Intern (8 months/40 hours per week)  | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) | 2026-09-20 |
 | **Bosch** | Software Engineering Intern (8 months/40hrs per week) | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000146546849) | 2026-09-20 |
 | **Bosch** | Calibration Process Data Science Intern (8 months/40 hours per week)  | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000146546699) | 2026-09-20 |
 | **Bosch** | Mechanical Design Engineering Intern | `Fort Lauderdale, FL, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000146471610) | 2026-09-20 |
@@ -635,7 +642,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intel** | Software Research Engineering - (PhD Intern) | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | 2026-09-10 |
 | **Intel** | Module Engineering PhD Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) | 2026-09-10 |
 | **Intel** | Module Engineering PhD Intern - Wet Etch | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) | 2026-09-10 |
-| **Intel** | Compiler Engineering Undergraduate Intern - SYCL Runtime | `Canada, Toronto` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) | 2026-09-10 |
 | **Amazon** | Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) | `Bellevue, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) | 2026-09-09 |
 | **Coinbase** | Analytics Engineer Intern | `Hybrid - New York, NY` | 🟢 Active | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | 2026-09-09 |
 | **Coinbase** | Data Engineer Intern | `Hybrid - San Francisco, CA` | 🟢 Active | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | 2026-09-09 |
@@ -669,6 +675,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Scale AI** | Software Engineering Intern (Summer 2027)  | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | 2026-09-05 |
 | **Scale AI** | Software Engineer - New Grad | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 2026-09-05 |
 | **HPE** | Pre-Silicon Diagnostics Intern | `Ft. Collins, Colorado, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) | 2026-09-04 |
+| **Microsoft** | Data Science: AI Experiences PhD Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986137) | 2026-09-04 |
 | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986140) | 2026-09-03 |
 | **BMO** | Commercial Analyst Development Program - Seattle, WA (New Grad 2027) | `Seattle, WA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Phoenix, AZ (New Grad 2027) | `Phoenix, AZ, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Phoenix-AZ-USA/Commercial-Analyst-Development-Program---Phoenix--AZ--New-Grad-2027-_R260025746) | 2026-09-02 |
@@ -727,6 +734,8 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922923) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 2026-08-04 |
+| **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
+| **Microsoft** | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 2026-08-03 |
 | **Modal** | ML Research Intern | `New York` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-07-29 |
 | **Squarepoint Capital** | Intern Quant Researcher | `London, Paris, New York, Singapore, Hong Kong` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 2026-07-27 |
@@ -830,14 +839,14 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (395)
+## 🔒 Closed Postings (394)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Meta** | Electrical Engineering Intern | `Sunnyvale, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1610929233853451/) | 2026-10-05 |
-| **Microsoft** | Research Intern - Security Research Group, Microsoft Research Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393557022480) | 2026-10-02 |
 | **Intel** | AI Software Engineering Undergraduate Intern | `Costa Rica, San Jose` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583) | 2026-10-01 |
 | **Intel** | AI Software Technical Intern | `US, California, Santa Clara` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) | 2026-10-01 |
+| **Pinterest** | UX Engineering Intern (San Francisco) | `San Francisco, CA, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) | 2026-10-01 |
 | **Pinterest** | PhD University Grad Data Scientist 2027 (USA) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8157351) | 2026-10-01 |
 | **Pinterest** | University Grad Machine Learning Engineer 2027 (Toronto) | `Toronto, ON, CA` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8138065) | 2026-10-01 |
 | **Pinterest** | University Grad Software Engineer (Toronto) | `Toronto, ON, CA` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=8138049) | 2026-10-01 |
@@ -860,6 +869,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Sony** | Sony Research - Internship on Audio Processing and Machine Learning | `New York` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643) | 2026-09-21 |
 | **Achievers** | Software Engineering Co-op - Winter 2027 | `Toronto` | 🔴 Closed | [Link ↗](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181) | 2026-09-20 |
 | **Astranis** | Radiation Effects Engineer Intern (Fall 2026) | `San Francisco` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | 2026-09-20 |
+| **Bosch** | AI Application Intern (8 months/40 hours per week)  | `Farmington Hills, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) | 2026-09-20 |
 | **Bosch** | Phone as a Key Software Engineering - Intern | `Plymouth, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000145785190) | 2026-09-20 |
 | **Bosch** | Factory Automation Engineering Intern | `Burlington, ON, Canada` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000126541495) | 2026-09-20 |
 | **Bosch** | Data Analytics Intern - Engineering & SAP Operations | `Lincolnshire, IL, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148595878) | 2026-09-20 |
@@ -939,6 +949,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Visier** | Test Developer Co-op (January to August 2027) | `Vancouver, BC, Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) | 2026-09-11 |
 | **Visier** | Software Developer Co-op (January to August 2027) | `Vancouver, BC, Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) | 2026-09-11 |
 | **D2L** | Software Test Developer - New Graduate | `Kitchener, Remote Canada` | 🔴 Closed | [Link ↗](https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078) | 2026-09-10 |
+| **Intel** | Compiler Engineering Undergraduate Intern - SYCL Runtime | `Canada, Toronto` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) | 2026-09-10 |
 | **Intel** | AI and Compiler Engineering Graduate Intern | `Virtual Canada` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) | 2026-09-10 |
 | **Intel** | Operations Research Engineer Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | 2026-09-10 |
 | **Amazon** | System Dev Engineer I Co-op (Robotics), Autonomous AI Security | `Austin, Texas, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) | 2026-09-09 |
@@ -971,7 +982,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Adobe** | 2027 Intern - Software Engineer | `7 Locations` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | 2026-09-04 |
 | **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 | `North Reading, Massachusetts, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | 2026-09-04 |
 | **HPE** | ASIC Firmware and Diagnostic Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415) | 2026-09-04 |
-| **Microsoft** | Data Science: AI Experiences PhD Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556986137) | 2026-09-04 |
 | **Wealthsimple (Ashby)** | Credit & Fraud Analytics Intern (Winter 2027) | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28) | 2026-09-04 |
 | **BMO** | Commercial Analyst Development Program - Los Angeles/Newport Beach, CA (New Grad 2027) | `2 Locations` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801) | 2026-09-03 |
 | **HPE** | Hardware Engineering Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408) | 2026-09-03 |
@@ -1062,8 +1072,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Google** | Software Developer, Early Career, Campus | `Waterloo, ON, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus) | 2026-08-07 |
 | **Microsoft** | Research Intern - Firmware Security | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556955518) | 2026-08-06 |
 | **Intel** | AI Software Engineer Graduate Intern | `Virtual US` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 2026-08-04 |
-| **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 2026-08-04 |
 | **Microsoft** | Software Engineer - Gears of War - The Coalition: Internship Opportunities | `Canada, British Columbia, Vancouver` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 2026-08-03 |
 | **Microsoft** | Solution Engineer - Oman Nationalization Internship | `Oman, Masqat, Rusayl` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556945086) | 2026-07-31 |
 | **BMO** | Data and AI Operations Analyst (Cloud), Fall 2026 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | 2026-07-29 |
