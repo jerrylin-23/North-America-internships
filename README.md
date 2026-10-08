@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-826-green?style=flat-square)](#-active-postings-826)
+[![Active Postings](https://img.shields.io/badge/active%20postings-824-green?style=flat-square)](#-active-postings-824)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-08-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (826)
+## 📈 Active Postings (824)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -34,7 +34,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intel** | AI Solution Architect - Undergraduate Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931) | 2026-10-07 |
 | **Intel** | Data Science and Analytics - PhD Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | 2026-10-07 |
 | **Meta** | Data Scientist Intern, Product Analytics (PhD) (Summer 2027) | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/929757023499411/) | 2026-10-07 |
-| **PDT Partners** | Summer 2027 Quantitative Research Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | 2026-10-07 |
+| **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | 2026-10-07 |
 | **Waymo** | 2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8257801) | 2026-10-07 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Robotics | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8227633) | 2026-10-07 |
 | **Amazon** | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) | 2026-10-06 |
@@ -378,7 +378,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **HP** | Business Intelligence and Infrastructure Analysts  Intern | `Vancouver, Washington, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1) | 2026-09-20 |
 | **HP** | Software Product Security Engineer Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1) | 2026-09-20 |
 | **HP** | Personal Systems Product Management Intern | `Austin, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1) | 2026-09-20 |
-| **HP** | Software Product Security Engineer Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1) | 2026-09-20 |
 | **HP** | Software and Engineering Intern Roles - Imaging and Print | `Corvallis, Oregon, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) | 2026-09-20 |
 | **HP** | Enterprise Operations Software Internship | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) | 2026-09-20 |
 | **HP** | Technology & Innovation Organization Electrical Engineering Internship | `Corvallis, Oregon, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) | 2026-09-20 |
@@ -540,7 +539,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Waymo** | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion | `San Francisco, California, United States` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8163364) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | `Mountain View, California, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8214519) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test  | `San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8174504) | 2026-09-20 |
-| **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | `Mountain View, California` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8193295) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | `Mountain View, California, United States` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8202025) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Product Data Science | `San Francisco, California, United States` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8199365) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, PhD, Quantitative Software Engineer | `Mountain View, California, United States | San Francisco, California, United States` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8197554) | 2026-09-20 |
@@ -859,7 +857,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (409)
+## 🔒 Closed Postings (411)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -927,6 +925,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Google** | Software Developer Intern, BS, Summer 2027 | `Waterloo, ON, Canada; Toronto, ON, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027) | 2026-09-20 |
 | **Google** | Software Engineering Intern, MS, Summer 2027 | `Mountain View, CA, USA; Austin, TX, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027) | 2026-09-20 |
 | **Google** | Software Developer Intern, MS, Summer 2027 | `Waterloo, ON, Canada; Toronto, ON, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027) | 2026-09-20 |
+| **HP** | Software Product Security Engineer Intern | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1) | 2026-09-20 |
 | **Marvell** | Applied Machine Learning Scientist Intern - PhD | `Santa Clara, CA` | 🔴 Closed | [Link ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) | 2026-09-20 |
 | **Microsoft** | Electrical Engineering INTERN | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556995572) | 2026-09-20 |
 | **Microsoft** | Mechanical Engineering INTERN | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556995569) | 2026-09-20 |
@@ -936,6 +935,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **SpaceX** | New Graduate Engineer, Silicon Engineering | `Irvine, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Silicon Engineering | `Redmond, WA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-09-20 |
 | **Super.com** | User Experience Research Intern | `Canada` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/super.com/55781d35-563b-43e9-a779-b4f1467a833a) | 2026-09-20 |
+| **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | `Mountain View, California` | 🔴 Closed | [Link ↗](https://careers.withwaymo.com/jobs?gh_jid=8193295) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer | `San Francisco, California, USA ` | 🔴 Closed | [Link ↗](https://careers.withwaymo.com/jobs?gh_jid=8177651) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, BS/MS, Software Engineer | `San Francisco, California` | 🔴 Closed | [Link ↗](https://careers.withwaymo.com/jobs?gh_jid=8193731) | 2026-09-20 |
 | **Waymo** | 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech | `San Francisco, California` | 🔴 Closed | [Link ↗](https://careers.withwaymo.com/jobs?gh_jid=8203200) | 2026-09-20 |
