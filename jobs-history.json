@@ -1,5 +1,13 @@
 [
   {
+    "title": "Product Management Co-op- Spring 2027",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
+    "company": "Bosch",
+    "location": "Fountain Inn, SC, United States",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
     "title": "Thermal Engineering Intern",
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190",
     "company": "HPE",
@@ -36,6 +44,38 @@
     "url": "https://www.metacareers.com/jobs/1144327871507763/",
     "company": "Meta",
     "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Structural Design Engineer - FEA (Intern)",
+    "url": "https://www.metacareers.com/jobs/1080292111664557/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Redmond, WA; Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "ASIC Engineer Intern, Architecture",
+    "url": "https://www.metacareers.com/jobs/1096213456288397/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA; Austin, TX",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+    "url": "https://www.metacareers.com/jobs/1674394627579563/",
+    "company": "Meta",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+    "url": "https://www.metacareers.com/jobs/2211974449401350/",
+    "company": "Meta",
+    "location": "Redmond, WA; Burlingame, CA",
     "status": "Active",
     "date_added": "2026-10-09"
   },
@@ -2104,14 +2144,6 @@
     "date_added": "2026-09-22"
   },
   {
-    "title": "Firmware Engineer Intern",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-    "company": "Marvell",
-    "location": "CA-ON - Toronto - TOR",
-    "status": "Active",
-    "date_added": "2026-09-22"
-  },
-  {
     "title": "PhD Research Intern, Networking - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
     "company": "NVIDIA",
@@ -3716,14 +3748,6 @@
     "url": "https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322",
     "company": "Rivian and Volkswagen Group Technologies",
     "location": "Palo Alto, California",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
-    "company": "Rivian and Volkswagen Group Technologies",
-    "location": "Vancouver, British Columbia",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -6904,6 +6928,14 @@
     "date_added": "2026-09-22"
   },
   {
+    "title": "Firmware Engineer Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
+    "company": "Marvell",
+    "location": "CA-ON - Toronto - TOR",
+    "status": "Closed",
+    "date_added": "2026-09-22"
+  },
+  {
     "title": "Software/Firmware Engineer Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Software-Firmware-Engineer-Intern_2604053",
     "company": "Marvell",
@@ -7220,6 +7252,14 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
     "company": "NVIDIA",
     "location": "3 Locations",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "location": "Vancouver, British Columbia",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
