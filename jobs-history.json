@@ -1,5 +1,45 @@
 [
   {
+    "title": "Thermal Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190",
+    "company": "HPE",
+    "location": "Sunnyvale, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "ASIC Verification/Design Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211",
+    "company": "HPE",
+    "location": "Roseville, California, United States of America",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Manufacturing Test Engineering Intern, Field Requirements & Feedback",
+    "url": "https://www.metacareers.com/jobs/940553205402689/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Thermal Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1123905276826454/",
+    "company": "Meta",
+    "location": "Austin, TX",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
+    "title": "Production Systems Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1144327871507763/",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-10-09"
+  },
+  {
     "title": "Data Engineer Internship - 2027 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
     "company": "Amazon",
@@ -88,7 +128,7 @@
     "date_added": "2026-10-08"
   },
   {
-    "title": "Manufacturing Test Engineering Intern",
+    "title": "Manufacturing Test Engineering Intern, AI",
     "url": "https://www.metacareers.com/jobs/1866862250969693/",
     "company": "Meta",
     "location": "Sunnyvale, CA",
@@ -112,7 +152,7 @@
     "date_added": "2026-10-08"
   },
   {
-    "title": "Software Engineering Intern – Winter 2027 (U.S. Based)",
+    "title": "Software Engineering Intern – Winter 2027 ",
     "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
     "company": "Replit",
     "location": "Foster City, CA",
@@ -912,24 +952,8 @@
     "date_added": "2026-10-01"
   },
   {
-    "title": "Intern, Product Management (Winter 2027)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
     "title": "Software Development Internship (Summer 2027)",
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
-    "company": "Autodesk",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
-    "title": "Software Development Internship (Winter 2027)",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
     "company": "Autodesk",
     "location": "Toronto, ON, CAN",
     "status": "Active",
@@ -2668,14 +2692,6 @@
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003",
     "company": "Celonis",
     "location": "New York, US, New York",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Security Engineer I (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-    "company": "Cisco",
-    "location": "RTP, North Carolina, US",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -6656,6 +6672,22 @@
     "date_added": "2026-10-02"
   },
   {
+    "title": "Intern, Product Management (Winter 2027)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management--Winter-2027-_26WD101442-2",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
+    "title": "Software Development Internship (Winter 2027)",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
+    "company": "Autodesk",
+    "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
     "title": "AI Software Engineering Undergraduate Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583",
     "company": "Intel",
@@ -7028,6 +7060,14 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259",
     "company": "Bosch",
     "location": "Pittsburgh, PA, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Security Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+    "company": "Cisco",
+    "location": "RTP, North Carolina, US",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
