@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-841-green?style=flat-square)](#-active-postings-841)
+[![Active Postings](https://img.shields.io/badge/active%20postings-839-green?style=flat-square)](#-active-postings-839)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-10-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (841)
+## 📈 Active Postings (839)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -725,8 +725,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Data Science: AI Experiences PhD Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986137) | 2026-09-04 |
 | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986140) | 2026-09-03 |
 | **Microsoft** | Applied Science: Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986141) | 2026-09-03 |
-| **BMO** | Commercial Analyst Development Program - Seattle, WA (New Grad 2027) | `Seattle, WA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Phoenix, AZ (New Grad 2027) | `Phoenix, AZ, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Phoenix-AZ-USA/Commercial-Analyst-Development-Program---Phoenix--AZ--New-Grad-2027-_R260025746) | 2026-09-02 |
 | **HPE** | Electrical Engineering Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | 2026-09-02 |
 | **Verkada** | Hardware Engineer (Winter Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4321158007) | 2026-09-02 |
 | **Verkada** | Product Design Mechanical Engineer (Winter Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4288829007) | 2026-09-02 |
@@ -874,7 +872,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (434)
+## 🔒 Closed Postings (436)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1050,6 +1048,8 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **HPE** | Hardware Engineering Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408) | 2026-09-03 |
 | **Intel** | Platform Hardware and Systems Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | 2026-09-03 |
 | **Intel** | System Technology - Research Engineer (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | 2026-09-03 |
+| **BMO** | Commercial Analyst Development Program - Seattle, WA (New Grad 2027) | `Seattle, WA, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Phoenix, AZ (New Grad 2027) | `Phoenix, AZ, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Phoenix-AZ-USA/Commercial-Analyst-Development-Program---Phoenix--AZ--New-Grad-2027-_R260025746) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Milwaukee, WI (New Grad 2027) | `Milwaukee, WI, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Milwaukee-WI-USA/Commercial-Analyst-Development-Program---Milwaukee--WI--New-Grad-2027-_R260025744-1) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Indianapolis, IN (New Grad 2027) | `Indianapolis, IN, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Indianapolis-IN-USA/Commercial-Analyst-Development-Program---Indianapolis--IN--New-Grad-2027-_R260025736) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Green Bay, WI (New Grad 2027) | `Green Bay, WI, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Green-Bay-WI-USA/Commercial-Analyst-Development-Program---Green-Bay--WI--New-Grad-2027-_R260025644-1) | 2026-09-02 |
