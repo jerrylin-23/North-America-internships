@@ -1,8 +1,8 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-843-green?style=flat-square)](#-active-postings-843)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-09-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Active Postings](https://img.shields.io/badge/active%20postings-841-green?style=flat-square)](#-active-postings-841)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-10-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -12,10 +12,16 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (843)
+## 📈 Active Postings (841)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Affirm** | IT Engineer Intern (Early Careers Summer 2027) | `San Francisco, California, United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | 2026-10-10 |
+| **Meta** | Mechanical Engineering Intern | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1530919698792460/) | 2026-10-10 |
+| **Waymo** | 2027 Summer Intern, PhD, Research, AV Planning | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8258070) | 2026-10-10 |
+| **Waymo** | 2027 Summer Intern, PhD, Research, Post Training | `Mountain View, CA, USA: San Francisco, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8257006) | 2026-10-10 |
+| **Zipline** | Firmware Engineer Intern (Spring 2027)  | `South San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) | 2026-10-10 |
+| **Zipline** | Firmware Engineer Intern (Summer 2027)  | `South San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) | 2026-10-10 |
 | **Bosch** | Product Management Co-op- Spring 2027 | `Fountain Inn, SC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | 2026-10-09 |
 | **Bosch** | Mechanical Engineering Co-op Spring 2027 | `Fountain Inn, SC, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154765539) | 2026-10-09 |
 | **Bosch** | Manufacturing Engineering Intern | `Grand Rapids, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154762134) | 2026-10-09 |
@@ -56,7 +62,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Replit** | Software Engineering Intern – Winter 2027  | `Foster City, CA` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea) | 2026-10-08 |
 | **Roblox** | [2027] Applied Scientist - PhD Intern | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) | 2026-10-08 |
 | **Roblox** | [2027] Data Scientist - PhD Intern | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | 2026-10-08 |
-| **Waymo** | 2026 Summer Intern, PhD, Research, World Modeling Evaluation | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8265173) | 2026-10-08 |
+| **Waymo** | 2027 Summer Intern, PhD, Research, World Modeling Evaluation | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8265173) | 2026-10-08 |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8262154) | 2026-10-08 |
 | **Amazon** | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | `Redmond, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | 2026-10-07 |
 | **Bosch** | Product Management Internship (1 Year) | `Breda, NB, Netherlands` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154135589) | 2026-10-07 |
@@ -521,7 +527,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Shield AI** | Summer 2027 - Software Engineer Intern | `San Diego, California` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) | 2026-09-20 |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 2026-09-20 |
 | **Sierra** | Software Engineer Intern, Agent (Summer 2027) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) | 2026-09-20 |
-| **Sony** | Account Management & Business Analytics Intern | `San Diego` | 🟢 Active | [Apply ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Civil/Structural (Starship) | `Starbase, TX` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Electrical - '26/'27 (Starlink) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Electrical - '26/'27 (Starlink) | `Bastrop, TX` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-09-20 |
@@ -698,7 +703,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Intel** | Module Engineering PhD Intern 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) | 2026-09-09 |
 | **StackAdapt** | Machine Learning Engineer Intern - Winter 2027 | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | 2026-09-09 |
 | **StackAdapt** | Software Engineer, Backend Intern - Winter 2027 | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | 2026-09-09 |
-| **StackAdapt** | Software Engineer Intern - Winter 2027 | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) | 2026-09-09 |
 | **TD Bank** | Business System Analyst Co-op / Intern​ (Winter 2027) | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-System-Analyst-Co-op---Intern---Winter-2027-_R_1509798) | 2026-09-09 |
 | **TD Bank** | Software Engineer Co-op / Intern (Winter 2027) | `3 Locations` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790) | 2026-09-09 |
 | **TD Bank** | Mobile Software Engineer Co-op / Intern​ (Winter 2027) | `Toronto, Ontario` | 🟢 Active | [Apply ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825) | 2026-09-09 |
@@ -723,12 +727,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Applied Science: Internship Opportunities - Redmond | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556986141) | 2026-09-03 |
 | **BMO** | Commercial Analyst Development Program - Seattle, WA (New Grad 2027) | `Seattle, WA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Commercial-Analyst-Development-Program---Seattle--WA--New-Grad-2027-_R260025748) | 2026-09-02 |
 | **BMO** | Commercial Analyst Development Program - Phoenix, AZ (New Grad 2027) | `Phoenix, AZ, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Phoenix-AZ-USA/Commercial-Analyst-Development-Program---Phoenix--AZ--New-Grad-2027-_R260025746) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Milwaukee, WI (New Grad 2027) | `Milwaukee, WI, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Milwaukee-WI-USA/Commercial-Analyst-Development-Program---Milwaukee--WI--New-Grad-2027-_R260025744-1) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Indianapolis, IN (New Grad 2027) | `Indianapolis, IN, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Indianapolis-IN-USA/Commercial-Analyst-Development-Program---Indianapolis--IN--New-Grad-2027-_R260025736) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Green Bay, WI (New Grad 2027) | `Green Bay, WI, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Green-Bay-WI-USA/Commercial-Analyst-Development-Program---Green-Bay--WI--New-Grad-2027-_R260025644-1) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Grand Rapids, MI (New Grad 2027) | `Grand Rapids, MI, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Grand-Rapids-MI-USA/Commercial-Analyst-Development-Program---Grand-Rapids--MI--New-Grad-2027-_R260025632) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Chicago, IL (New Grad 2027) | `Chicago, IL, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Commercial-Analyst-Development-Program---Chicago--IL--New-Grad-2027-_R260025628-2) | 2026-09-02 |
-| **BMO** | Commercial Analyst Development Program - Atlanta, GA (New Grad 2027) | `Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Atlanta-GA-USA/Commercial-Analyst-Development-Program---Atlanta--GA--New-Grad-2027-_R260025591) | 2026-09-02 |
 | **HPE** | Electrical Engineering Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | 2026-09-02 |
 | **Verkada** | Hardware Engineer (Winter Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4321158007) | 2026-09-02 |
 | **Verkada** | Product Design Mechanical Engineer (Winter Co-op) | `San Mateo, CA United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/verkada/jobs/4288829007) | 2026-09-02 |
@@ -876,7 +874,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (426)
+## 🔒 Closed Postings (434)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -959,6 +957,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | `Vancouver, British Columbia` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b) | 2026-09-20 |
 | **Robinhood** | Offensive Security Intern (Summer 2027) | `Bellevue, WA; Menlo Park, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) | 2026-09-20 |
 | **Rubrik** | Software Engineering Winter Internship | `Palo Alto, CA` | 🔴 Closed | [Link ↗](https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088) | 2026-09-20 |
+| **Sony** | Account Management & Business Analytics Intern | `San Diego` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543) | 2026-09-20 |
 | **Sony** | Software Engineer Intern | `San Diego` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Silicon Engineering | `Irvine, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-09-20 |
 | **SpaceX** | New Graduate Engineer, Silicon Engineering | `Redmond, WA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-09-20 |
@@ -1022,6 +1021,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **HPE** | Mechanical Engineer – PhD/MS New Graduate | `Sunnyvale, California, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Mechanical-Engineer---PhD-MS-New-Graduate_1208347-2) | 2026-09-09 |
 | **NVIDIA** | Physical Design Intern, VLSI - 2027 | `2 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1) | 2026-09-09 |
 | **RBC** | 2027 Winter - CLAO, Data Analyst Intern (4 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Data-Analyst-Intern--4-months-_R-0000186987-1) | 2026-09-09 |
+| **StackAdapt** | Software Engineer Intern - Winter 2027 | `Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) | 2026-09-09 |
 | **BMO** | AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2) | 2026-09-08 |
 | **TD Bank** | Liquidity Measurement - Analytics & Reporting Intern/Co-op Winter 2027 | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Liquidity-Measurement---Analytics---Reporting-Intern-Co-op-Winter-2027_R_1504121) | 2026-09-08 |
 | **TD Bank** | AI2 Data Science Co-op (WINTER 2027) | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702) | 2026-09-08 |
@@ -1050,6 +1050,12 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **HPE** | Hardware Engineering Intern | `2 Locations` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408) | 2026-09-03 |
 | **Intel** | Platform Hardware and Systems Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | 2026-09-03 |
 | **Intel** | System Technology - Research Engineer (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | 2026-09-03 |
+| **BMO** | Commercial Analyst Development Program - Milwaukee, WI (New Grad 2027) | `Milwaukee, WI, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Milwaukee-WI-USA/Commercial-Analyst-Development-Program---Milwaukee--WI--New-Grad-2027-_R260025744-1) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Indianapolis, IN (New Grad 2027) | `Indianapolis, IN, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Indianapolis-IN-USA/Commercial-Analyst-Development-Program---Indianapolis--IN--New-Grad-2027-_R260025736) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Green Bay, WI (New Grad 2027) | `Green Bay, WI, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Green-Bay-WI-USA/Commercial-Analyst-Development-Program---Green-Bay--WI--New-Grad-2027-_R260025644-1) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Grand Rapids, MI (New Grad 2027) | `Grand Rapids, MI, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Grand-Rapids-MI-USA/Commercial-Analyst-Development-Program---Grand-Rapids--MI--New-Grad-2027-_R260025632) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Chicago, IL (New Grad 2027) | `Chicago, IL, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Commercial-Analyst-Development-Program---Chicago--IL--New-Grad-2027-_R260025628-2) | 2026-09-02 |
+| **BMO** | Commercial Analyst Development Program - Atlanta, GA (New Grad 2027) | `Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Atlanta-GA-USA/Commercial-Analyst-Development-Program---Atlanta--GA--New-Grad-2027-_R260025591) | 2026-09-02 |
 | **Google** | Data Analytics Apprenticeship, February 2027 Start | `New York, NY, USA; Atlanta, GA, USA` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start) | 2026-09-02 |
 | **Intel** | Software Engineering - Intern, Graduate | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 2026-09-02 |
 | **Intel** | Software Engineering - Intern, Bachelor’s | `5 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | 2026-09-02 |
