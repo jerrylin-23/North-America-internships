@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-845-green?style=flat-square)](#-active-postings-845)
+[![Active Postings](https://img.shields.io/badge/active%20postings-848-green?style=flat-square)](#-active-postings-848)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-13-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,11 +12,12 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (845)
+## 📈 Active Postings (848)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **1Password** | Data Intern  - Product Analytics - Winter 2027 | `Remote (United States | Canada)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48) | 2026-10-13 |
+| **Amazon** | ASIC Engineer Intern, Summer 2027 | `Sunnyvale, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | 2026-10-13 |
 | **Bosch** | Information Security and Privacy Intern | `Farmington Hills, MI, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) | 2026-10-13 |
 | **Bosch** | Manufacturing Engineer Intern - Summer 2027 | `Lincolnshire, IL, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000155100809) | 2026-10-13 |
 | **Hex** | AI Engineer Intern | `San Francisco` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6) | 2026-10-13 |
@@ -29,6 +30,8 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **HPE** | VLSI Design Verification Intern | `Ft. Collins, Colorado, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399) | 2026-10-13 |
 | **HPE** | HPC/AI Systems Service Process Improvement Engineer Intern | `All, Illinois, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402) | 2026-10-13 |
 | **HPE** | HPC/AI System Admin HW/SW Service Engineer Intern | `All, Tennessee, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404) | 2026-10-13 |
+| **HPE** | VLSI Logic Design Intern | `Chippewa Falls, Wisconsin, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Logic-Design-Intern_1213411) | 2026-10-13 |
+| **HPE** | ASIC Verification Engineering Intern | `Roseville, California, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219) | 2026-10-13 |
 | **Intel** | Student Intern, Collaboration Services System Programmer | `Costa Rica, San Jose` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) | 2026-10-13 |
 | **Intel** | Process Integration Development Engineer PhD Intern New 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977) | 2026-10-13 |
 | **Intel** | Module Engineering - PhD Intern (Advanced Wet Etch and Cleans) | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975) | 2026-10-13 |
