@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-867-green?style=flat-square)](#-active-postings-867)
+[![Active Postings](https://img.shields.io/badge/active%20postings-854-green?style=flat-square)](#-active-postings-854)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-14-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (867)
+## 📈 Active Postings (854)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -130,7 +130,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Waymo** | 2027 Summer Intern, PhD, Research, World Modeling Evaluation | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8265173) | 2026-10-08 |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8262154) | 2026-10-08 |
 | **Amazon** | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | `Redmond, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | 2026-10-07 |
-| **Bosch** | Product Management Internship (1 Year) | `Breda, NB, Netherlands` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154135589) | 2026-10-07 |
 | **HPE** | Optical Engineering Intern | `Sunnyvale, California, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Engineering-Intern_1214223) | 2026-10-07 |
 | **HPE** | Hardware Engineering Intern | `Sunnyvale, California, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064) | 2026-10-07 |
 | **HPE** | Electrical Engineering Labs Intern | `Spring, Texas, United States of America` | 🟢 Active | [Apply ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083) | 2026-10-07 |
@@ -549,9 +548,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | `Irvine, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69) | 2026-09-20 |
 | **Rivian and Volkswagen Group Technologies** | Electromechanical Design Engineering Intern (January - August 2027) | `Irvine, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8) | 2026-09-20 |
 | **Rivian and Volkswagen Group Technologies** | Data Engineering Intern - AI & Analytics (January - August 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322) | 2026-09-20 |
-| **Robinhood** | Associate Product Manager (New Grad) | `New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973) | 2026-09-20 |
-| **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | 2026-09-20 |
-| **Robinhood** | Security Risk Management Intern (Summer 2027) | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) | 2026-09-20 |
 | **Roblox** | [Summer 2027] Product Management Intern | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | 2026-09-20 |
 | **Samsara** | Account Development Representative Intern - Atlanta | `Atlanta, Georgia, United States` | 🟢 Active | [Apply ↗](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | 2026-09-20 |
 | **Samsara** | Account Development Representative Intern - Phoenix | `Phoenix, Arizona, United States` | 🟢 Active | [Apply ↗](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | 2026-09-20 |
@@ -693,14 +689,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Google** | User Experience Engineer Intern, PhD, Summer 2027 | `Mountain View, CA, USA; Atlanta, GA, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027) | 2026-09-14 |
 | **Google** | Business Data Scientist Intern, PhD, Summer 2027 | `Mountain View, CA, USA; Ann Arbor, MI, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027) | 2026-09-14 |
 | **NVIDIA** | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) | 2026-09-14 |
-| **Robinhood** | Software Developer Intern, Backend (Summer 2027) | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) | 2026-09-14 |
-| **Robinhood** | Software Developer Intern/Co-op, Backend (Winter 2027) | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428) | 2026-09-14 |
-| **Robinhood** | Software Developer Intern, iOS (Summer 2027) | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) | 2026-09-14 |
-| **Robinhood** | Software Developer Intern, Web (Summer 2027) | `Toronto, Canada` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) | 2026-09-14 |
-| **Robinhood** | Software Engineering Intern, Android (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) | 2026-09-14 |
-| **Robinhood** | Software Engineering Intern, Backend (Summer 2027) | `Bellevue, WA; Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) | 2026-09-14 |
-| **Robinhood** | Software Engineering Intern, iOS (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) | 2026-09-14 |
-| **Robinhood** | Software Engineering Intern, Web (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) | 2026-09-14 |
 | **Amazon** | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | `Toronto, Ontario, CAN` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | 2026-09-12 |
 | **Amazon** | Data Center Engineering Operations Technician Internship | `Sterling, Virginia, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship) | 2026-09-12 |
 | **Intel** | Module Engineering PhD Intern New 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021) | 2026-09-12 |
@@ -829,7 +817,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
-| **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🟢 Active | [Apply ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **Konrad Group** | Software Developer (Entry Level) | `Toronto` | 🟢 Active | [Apply ↗](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 2026-07-11 |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-07-11 |
@@ -900,7 +887,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (478)
+## 🔒 Closed Postings (491)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -909,6 +896,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Bosch** | Information Security and Privacy Intern | `Farmington Hills, MI, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154757409) | 2026-10-09 |
 | **Meta** | Thermal Engineering Intern | `Austin, TX` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1123905276826454/) | 2026-10-09 |
 | **Meta** | Production Systems Engineering Intern | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1144327871507763/) | 2026-10-09 |
+| **Bosch** | Product Management Internship (1 Year) | `Breda, NB, Netherlands` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154135589) | 2026-10-07 |
 | **Affirm** | Software Engineer I (New Grad 2027) (NYC) | `New York, New York, United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | 2026-10-06 |
 | **Affirm** | Software Engineer I (New Grad 2027) (SF) | `San Francisco, California, United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/affirm/jobs/8010617003) | 2026-10-06 |
 | **Amazon** | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) | 2026-10-06 |
@@ -1006,6 +994,9 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Microsoft** | Mechanical Engineering INTERN | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556995569) | 2026-09-20 |
 | **NVIDIA** | Software Engineering Intern, DLFW Comms - 2027 | `3 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701) | 2026-09-20 |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | `Vancouver, British Columbia` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b) | 2026-09-20 |
+| **Robinhood** | Associate Product Manager (New Grad) | `New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973) | 2026-09-20 |
+| **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | 2026-09-20 |
+| **Robinhood** | Security Risk Management Intern (Summer 2027) | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) | 2026-09-20 |
 | **Robinhood** | Offensive Security Intern (Summer 2027) | `Bellevue, WA; Menlo Park, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) | 2026-09-20 |
 | **Rubrik** | Software Engineering Winter Internship | `Palo Alto, CA` | 🔴 Closed | [Link ↗](https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088) | 2026-09-20 |
 | **Sony** | Account Management & Business Analytics Intern | `San Diego` | 🔴 Closed | [Link ↗](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543) | 2026-09-20 |
@@ -1068,6 +1059,14 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Intel** | Packaging Technology Development Graduate Intern | `US, Arizona, Phoenix` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080) | 2026-09-14 |
 | **Intel** | System Technology Research Engineer - (PhD Intern) | `3 Locations` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | 2026-09-14 |
 | **Okta** | Developer Support Associate (New Grad) | `Chicago, Illinois` | 🔴 Closed | [Link ↗](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) | 2026-09-14 |
+| **Robinhood** | Software Developer Intern, Backend (Summer 2027) | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) | 2026-09-14 |
+| **Robinhood** | Software Developer Intern/Co-op, Backend (Winter 2027) | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428) | 2026-09-14 |
+| **Robinhood** | Software Developer Intern, iOS (Summer 2027) | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) | 2026-09-14 |
+| **Robinhood** | Software Developer Intern, Web (Summer 2027) | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) | 2026-09-14 |
+| **Robinhood** | Software Engineering Intern, Android (Summer 2027) | `Menlo Park, CA; New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) | 2026-09-14 |
+| **Robinhood** | Software Engineering Intern, Backend (Summer 2027) | `Bellevue, WA; Menlo Park, CA; New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) | 2026-09-14 |
+| **Robinhood** | Software Engineering Intern, iOS (Summer 2027) | `Menlo Park, CA; New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) | 2026-09-14 |
+| **Robinhood** | Software Engineering Intern, Web (Summer 2027) | `Menlo Park, CA; New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) | 2026-09-14 |
 | **NVIDIA** | PhD Research Intern, Circuits - 2027 | `2 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | 2026-09-13 |
 | **Lyft** | Software Engineer Intern, Fullstack (Summer 2027) | `New York, NY` | 🔴 Closed | [Link ↗](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) | 2026-09-12 |
 | **BMO** | AI Intern, Winter 2027 (Internship) - 4 months | `Chicago, IL, USA` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/AI-Intern--Winter-2027--Internship----4-months_R260026562-3) | 2026-09-11 |
@@ -1250,6 +1249,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Amazon** | Quality Assurance Engineer Fall Internship – 2026 (US) | `Seattle, Washington, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) | 2026-07-16 |
 | **Aquatic Capital Management** | Quantitative Researcher, Early Career  | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-07-11 |
 | **Aquatic Capital Management** | Software Engineer, Early Career | `Chicago; New York` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 2026-07-11 |
+| **D2L** | Software Developer - New Graduate | `Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada` | 🔴 Closed | [Link ↗](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | 2026-07-11 |
 | **HPE** | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | `Spring, Texas, United States of America` | 🔴 Closed | [Link ↗](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) | 2026-07-11 |
 | **Intel** | Module Engineering Undergraduate Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0285313) | 2026-07-11 |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning(Full-Time) | `Chicago; New York` | 🔴 Closed | [Link ↗](https://www.jumptrading.com/hr/job?gh_jid=8052343) | 2026-07-11 |
