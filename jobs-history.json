@@ -40,10 +40,34 @@
     "date_added": "2026-10-15"
   },
   {
+    "title": "Intern - AI & Infrastructure Engineer - Spring 2027",
+    "url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878",
+    "company": "Commonwealth Fusion Systems",
+    "location": "Devens, MA",
+    "status": "Active",
+    "date_added": "2026-10-15"
+  },
+  {
     "title": "Product Manager, MBA Intern",
     "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
     "company": "Duolingo",
     "location": "Pittsburgh, PA",
+    "status": "Active",
+    "date_added": "2026-10-15"
+  },
+  {
+    "title": "Data Scientist, Intern",
+    "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+    "company": "Duolingo",
+    "location": "New York, NY; Pittsburgh, PA",
+    "status": "Active",
+    "date_added": "2026-10-15"
+  },
+  {
+    "title": "Data Scientist, Intern (PhD)",
+    "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+    "company": "Duolingo",
+    "location": "New York, NY; Pittsburgh, PA",
     "status": "Active",
     "date_added": "2026-10-15"
   },
@@ -552,7 +576,7 @@
     "date_added": "2026-10-13"
   },
   {
-    "title": "Research Scientist Intern - Coating Characterization",
+    "title": "Research Scientist Intern - Plasma Light Source Characterization",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
     "company": "KLA",
     "location": "Ann Arbor, MI",
@@ -1091,7 +1115,7 @@
     "title": "DFX Engineering Intern",
     "url": "https://www.metacareers.com/jobs/966089683203668/",
     "company": "Meta",
-    "location": "Sunnyvale, CA; Seattle, WA",
+    "location": "Seattle, WA",
     "status": "Active",
     "date_added": "2026-10-08"
   },
@@ -1604,14 +1628,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
     "company": "Intel",
     "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-10-03"
-  },
-  {
-    "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380",
-    "company": "ServiceNow",
-    "location": "Mountain View, California, United States",
     "status": "Active",
     "date_added": "2026-10-03"
   },
@@ -3112,14 +3128,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "System Test Engineer  Intern",
-    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585",
-    "company": "Arista Networks",
-    "location": "Santa Clara, CA, United States",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "CAD Engineer Intern (Spring 2027)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006",
     "company": "Astranis",
@@ -3576,6 +3584,14 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Hardware Reliability Intern [Winter 2027]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Summer 2027 - Trading Operations Engineer Intern",
     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
     "company": "Five Rings",
@@ -3688,14 +3704,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Personal Systems Product Management Intern",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
-    "company": "HP",
-    "location": "Austin, Texas, United States of America",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Software and Engineering Intern Roles - Imaging and Print",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
     "company": "HP",
@@ -3764,14 +3772,6 @@
     "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
     "company": "Hudson River Trading",
     "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Hardware Engineer Intern - Summer 2027",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-    "company": "IMC Trading",
-    "location": "Chicago, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -7216,6 +7216,14 @@
     "date_added": "2026-10-03"
   },
   {
+    "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380",
+    "company": "ServiceNow",
+    "location": "Mountain View, California, United States",
+    "status": "Closed",
+    "date_added": "2026-10-03"
+  },
+  {
     "title": "Thermal Mechanical Engineering Undergraduate Intern, GPU Platforms",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
     "company": "Intel",
@@ -7648,6 +7656,14 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "System Test Engineer  Intern",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000111461585",
+    "company": "Arista Networks",
+    "location": "Santa Clara, CA, United States",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Radiation Effects Engineer Intern (Fall 2026)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
     "company": "Astranis",
@@ -7848,14 +7864,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Hardware Test Intern [Fall 2026]",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-    "company": "Figure AI",
-    "location": "San Jose, CA",
-    "status": "Closed",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Power Systems Integration Intern [Fall 2026]",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
     "company": "Figure AI",
@@ -7908,6 +7916,22 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
     "company": "Google",
     "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Personal Systems Product Management Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
+    "company": "HP",
+    "location": "Austin, Texas, United States of America",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Hardware Engineer Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+    "company": "IMC Trading",
+    "location": "Chicago, United States",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
