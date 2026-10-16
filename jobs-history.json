@@ -27,7 +27,7 @@
     "title": "Production Systems Engineering Intern",
     "url": "https://www.metacareers.com/jobs/4536253699919879/",
     "company": "Meta",
-    "location": "Sunnyvale, CA; Menlo Park, CA",
+    "location": "Menlo Park, CA",
     "status": "Active",
     "date_added": "2026-10-16"
   },
@@ -1620,14 +1620,6 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414",
     "company": "HPE",
     "location": "Chippewa Falls, Wisconsin, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-05"
-  },
-  {
-    "title": "Hardware Tools and Libraries Intern",
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
-    "company": "HPE",
-    "location": "Sunnyvale, California, United States of America",
     "status": "Active",
     "date_added": "2026-10-05"
   },
@@ -5088,22 +5080,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Applications Engineer Intern (Spring 2027)",
-    "url": "https://www.zipline.com/open-roles/7908677003?gh_jid=7908677003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Applications Engineer Intern (Summer 2027)",
-    "url": "https://www.zipline.com/open-roles/7909946003?gh_jid=7909946003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Civil and Structural Engineer Intern (Summer 2027)",
     "url": "https://www.zipline.com/open-roles/7920472003?gh_jid=7920472003",
     "company": "Zipline",
@@ -5242,14 +5218,6 @@
   {
     "title": "Mechanical Engineer Intern (Summer 2027)",
     "url": "https://www.zipline.com/open-roles/7866071003?gh_jid=7866071003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Perception Intern (Summer 2027)",
-    "url": "https://www.zipline.com/open-roles/7909570003?gh_jid=7909570003",
     "company": "Zipline",
     "location": "South San Francisco, California, USA",
     "status": "Active",
@@ -7264,6 +7232,14 @@
     "date_added": "2026-10-06"
   },
   {
+    "title": "Hardware Tools and Libraries Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
+    "company": "HPE",
+    "location": "Sunnyvale, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-10-05"
+  },
+  {
     "title": "Hardware Engineer Intern, BS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
     "company": "Marvell",
@@ -8236,6 +8212,30 @@
     "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
     "company": "Zip",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applications Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7908677003?gh_jid=7908677003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Applications Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7909946003?gh_jid=7909946003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Perception Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7909570003?gh_jid=7909570003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
