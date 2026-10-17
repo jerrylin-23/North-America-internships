@@ -1632,18 +1632,18 @@
     "date_added": "2026-10-05"
   },
   {
-    "title": "Module Engineering (PhD Intern)",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683",
-    "company": "Intel",
-    "location": "US, Oregon, Hillsboro",
+    "title": "Hardware Tools and Libraries Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
+    "company": "HPE",
+    "location": "Sunnyvale, California, United States of America",
     "status": "Active",
     "date_added": "2026-10-05"
   },
   {
-    "title": "Software Engineer Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
-    "company": "Khan Academy",
-    "location": "Remote (US + Canada Only)",
+    "title": "Module Engineering (PhD Intern)",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
     "status": "Active",
     "date_added": "2026-10-05"
   },
@@ -5496,14 +5496,6 @@
     "date_added": "2026-09-15"
   },
   {
-    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-    "company": "BMO",
-    "location": "Toronto, ON, CAN",
-    "status": "Active",
-    "date_added": "2026-09-15"
-  },
-  {
     "title": "Software Engineer, Intern (Summer 2027) - TOR",
     "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
     "company": "DoorDash",
@@ -7232,10 +7224,10 @@
     "date_added": "2026-10-06"
   },
   {
-    "title": "Hardware Tools and Libraries Intern",
-    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
-    "company": "HPE",
-    "location": "Sunnyvale, California, United States of America",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+    "company": "Khan Academy",
+    "location": "Remote (US + Canada Only)",
     "status": "Closed",
     "date_added": "2026-10-05"
   },
@@ -8420,6 +8412,14 @@
     "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
     "company": "Autodesk",
     "location": "Montreal, QC, CAN",
+    "status": "Closed",
+    "date_added": "2026-09-15"
+  },
+  {
+    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
+    "company": "BMO",
+    "location": "Toronto, ON, CAN",
     "status": "Closed",
     "date_added": "2026-09-15"
   },
