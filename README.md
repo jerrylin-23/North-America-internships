@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-898-green?style=flat-square)](#-active-postings-898)
+[![Active Postings](https://img.shields.io/badge/active%20postings-905-green?style=flat-square)](#-active-postings-905)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-20-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (898)
+## 📈 Active Postings (905)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -22,8 +22,13 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Analog Devices** | Software Tools Engineering Intern | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) | 2026-10-20 |
 | **Analog Devices** | Analog Design Engineering Intern (Audio) | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) | 2026-10-20 |
 | **Analog Devices** | Analog Design Engineering Intern (Power Management) | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) | 2026-10-20 |
+| **Bosch** | Driving Foundations Research Intern | `Sunnyvale, CA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000156648989) | 2026-10-20 |
 | **Intel** | Thin Films Module Engineering - PhD Intern | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074) | 2026-10-20 |
 | **Intel** | Signal Integrity Student Worker Engineer | `Costa Rica, San Jose` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318) | 2026-10-20 |
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) | 2026-10-20 |
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) | 2026-10-20 |
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 | `US, Oregon, Hillsboro` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) | 2026-10-20 |
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 | `US, California, Santa Clara` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | 2026-10-20 |
 | **Meta** | Research Scientist Intern, On-Device AI Model Optimization (PhD) | `Menlo Park, CA; Burlingame, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/4455569504707135/) | 2026-10-20 |
 | **Meta** | Research Scientist Intern, Smart Glasses in Wearables AI (PhD) | `Menlo Park, CA; Burlingame, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1584033410435097/) | 2026-10-20 |
 | **Meta** | Research Scientist Intern, Computational Imaging And Robotics (PhD) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2857194467985784/) | 2026-10-20 |
@@ -32,10 +37,15 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Detection & Response Security Engineer, Intern (Summer 2027) | `New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1677981003713152/) | 2026-10-20 |
 | **Meta** | Security Engineer Posture Management, Intern (Summer 2027) | `New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1359570553913180/) | 2026-10-20 |
 | **Meta** | Product Security Engineer, Intern (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2535222523640873/) | 2026-10-20 |
+| **Meta** | Research Scientist Intern, Multimodal Behavioral AI (PhD) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1428978125312655/) | 2026-10-20 |
+| **Meta** | Research Scientist Intern, AI-Driven Neural Interfaces (PhD) | `Menlo Park, CA; Burlingame, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1436615821934863/) | 2026-10-20 |
 | **Netflix** | Software Engineer Intern - Summer 2027 | `Los Gatos, California, United States of America` | 🟢 Active | [Apply ↗](https://explore.jobs.netflix.net/careers/job/790318904468) | 2026-10-20 |
 | **Palantir** | Software Engineer, Internship - Query Engines | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | 2026-10-20 |
 | **Palantir** | Software Engineer, New Grad - Query Engines | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | 2026-10-20 |
+| **Salesforce** | Summer 2027 Intern - AI Research | `California - Palo Alto` | 🟢 Active | [Apply ↗](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) | 2026-10-20 |
+| **SambaNova** | AI Performance Engineer - New Grad | `Austin, Texas, United States; San Jose, California, United States` | 🟢 Active | [Apply ↗](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | 2026-10-20 |
 | **SpaceX** | New Graduate Engineer, Electrical (Starshield) | `Hawthorne, CA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) | 2026-10-20 |
+| **Zillow** | Applied Scientist (Economics) Intern | `Seattle-WA-2nd Ave` | 🟢 Active | [Apply ↗](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | 2026-10-20 |
 | **Adobe** | 2027 Intern - AI & Architecture | `San Jose` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | 2026-10-19 |
 | **Adobe** | 2027 Intern - Experience Researcher | `San Jose` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) | 2026-10-19 |
 | **Adobe** | 2027 Intern - Data, AI & Innovation | `San Jose` | 🟢 Active | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | 2026-10-19 |
@@ -101,7 +111,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | ASIC Engineering Intern, Design Verification (Silicon Engineering) | `Sunnyvale, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1079763448023260/) | 2026-10-14 |
 | **Meta** | Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs) | `Sunnyvale, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1758435721926913/) | 2026-10-14 |
 | **Meta** | Materials Engineer Intern- Surface Finishing, Coating (PhD) | `Sunnyvale, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1128496099859192/) | 2026-10-14 |
-| **Meta** | ASIC Design Engineer Intern | `Sunnyvale, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1406976394946562/) | 2026-10-14 |
+| **Meta** | ASIC Design Engineer Intern | `Sunnyvale, CA; Austin, TX` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1406976394946562/) | 2026-10-14 |
 | **Meta** | Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD) | `Redmond, WA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1658187582680157/) | 2026-10-14 |
 | **Meta** | Hardware Engineer Intern, Camera & Sensing Architecture | `Sunnyvale, CA; Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/29216393121298039/) | 2026-10-14 |
 | **Meta** | Structural Design Engineer - FEA (Intern) | `Sunnyvale, CA; Redmond, WA; Seattle, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1763344164969127/) | 2026-10-14 |
@@ -292,7 +302,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Astranis** | Radiation Effects Engineer Intern (Winter 2027) | `San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/astranis/jobs/4704335006) | 2026-10-01 |
 | **Astranis** | RF Hardware Intern (Summer 2027) | `San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/astranis/jobs/4708436006) | 2026-10-01 |
 | **Astranis** | RF Hardware Intern (Winter 2027) | `San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/astranis/jobs/4708417006) | 2026-10-01 |
-| **Autodesk** | Software Development Internship (Summer 2027) | `Toronto, ON, CAN` | 🟢 Active | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) | 2026-10-01 |
 | **Bosch** | Factory Automation Engineering Intern - New Grad Opportunity | `Burlington, ON, Canada` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000152918940) | 2026-10-01 |
 | **Cisco** | Mechanical Engineer I (Intern) - United States | `San Jose, California, US` | 🟢 Active | [Apply ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028) | 2026-10-01 |
 | **Cisco** | Hardware Engineer II (Co-op) - United States | `San Jose, California, US` | 🟢 Active | [Apply ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | 2026-10-01 |
@@ -336,7 +345,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **KLA** | Mechatronics/Systems Engineering Internship | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) | 2026-09-30 |
 | **Ramp** | Applied Scientist Intern | `New York, NY (HQ)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | 2026-09-30 |
 | **Stripe** | High School Internship, Software Engineering (Summer 2027) | `Seattle, San Francisco` | 🟢 Active | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8241260) | 2026-09-30 |
-| **Waymo** | 2027 Summer Intern, BS, Software Engineering, Labeling | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8238525) | 2026-09-30 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8240198) | 2026-09-30 |
 | **Celonis** | Associate Deployment Engineer - Galaxy Graduate Program | `Raleigh, US, North Carolina` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003) | 2026-09-29 |
 | **Cisco** | Physical Design Engineer I (Co-op) - United States | `Maynard, Massachusetts, US` | 🟢 Active | [Apply ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763) | 2026-09-29 |
@@ -459,7 +467,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Belvedere Trading** | Quantitative Trader - Entry Level 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee) | 2026-09-20 |
 | **Belvedere Trading** | Quantitative Trading Intern - Summer 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | 2026-09-20 |
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) | 2026-09-20 |
-| **Belvedere Trading** | Software Engineer - Entry Level 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) | 2026-09-20 |
 | **Belvedere Trading** | Software Engineer Intern - Summer 2027 | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | 2026-09-20 |
 | **Block** | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | `Bay Area, CA, United States of America` | 🟢 Active | [Apply ↗](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | 2026-09-20 |
 | **Bosch** | Intern- Quality Systems Management | `Albion, IN, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148848849) | 2026-09-20 |
@@ -931,7 +938,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (548)
+## 🔒 Closed Postings (551)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -977,6 +984,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Harvey** | Software Engineering Intern (Winter 2027) | `Toronto` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf) | 2026-10-02 |
 | **Meta** | Mechanical Engineering Intern, Infrastructure | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/921722064324989/) | 2026-10-02 |
 | **Microsoft** | Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556925816) | 2026-10-02 |
+| **Autodesk** | Software Development Internship (Summer 2027) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) | 2026-10-01 |
 | **Autodesk** | Intern, AI Data Developer (Winter) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | 2026-10-01 |
 | **Autodesk** | Intern, AI/ML Platform (Winter) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | 2026-10-01 |
 | **Autodesk** | Software Development Internship (Winter 2027) | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1) | 2026-10-01 |
@@ -1002,6 +1010,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Meta** | DFX Engineering Intern | `Sunnyvale, CA; Seattle, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1683903403071591/) | 2026-09-30 |
 | **Microsoft** | Security Operations Engineering INTERN | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393557019490) | 2026-09-30 |
 | **Microsoft** | Electrical Engineering INTERN (PhD) | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556986148) | 2026-09-30 |
+| **Waymo** | 2027 Summer Intern, BS, Software Engineering, Labeling | `Mountain View, CA, USA` | 🔴 Closed | [Link ↗](https://careers.withwaymo.com/jobs?gh_jid=8238525) | 2026-09-30 |
 | **Robinhood** | Data Science Intern (Summer 2027) | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) | 2026-09-29 |
 | **BMO** | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | `Toronto, ON, CAN` | 🔴 Closed | [Link ↗](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622-1) | 2026-09-28 |
 | **Bosch** | Radar Sensing AI Research Intern | `Pittsburgh, PA, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000152219569) | 2026-09-28 |
@@ -1038,6 +1047,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer | `Montreal, QC, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | 2026-09-20 |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | `Montreal, QC, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | 2026-09-20 |
 | **Autodesk** | Product Management Intern, Stagiaire Gestion de Produit | `Montreal, QC, CAN` | 🔴 Closed | [Link ↗](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) | 2026-09-20 |
+| **Belvedere Trading** | Software Engineer - Entry Level 2027 | `Chicago, Illinois` | 🔴 Closed | [Link ↗](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) | 2026-09-20 |
 | **Bosch** | 2027 Spring Industrial Engineer co-op | `Charleston, SC, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000141338859) | 2026-09-20 |
 | **Bosch** | Manufacturing Engineer Intern - Summer 2027 | `Lincolnshire, IL, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148542054) | 2026-09-20 |
 | **Bosch** | Manufacturing Engineer Intern - Summer 2027 | `Lincolnshire, IL, United States` | 🔴 Closed | [Link ↗](https://jobs.smartrecruiters.com/BoschGroup/744000148518808) | 2026-09-20 |
