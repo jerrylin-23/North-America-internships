@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-907-green?style=flat-square)](#-active-postings-907)
+[![Active Postings](https://img.shields.io/badge/active%20postings-909-green?style=flat-square)](#-active-postings-909)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-21-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,11 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (907)
+## 📈 Active Postings (909)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Analog Devices** | Analog Design Engineering Intern | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | 2026-10-21 |
 | **Meta** | Research Scientist Intern, PhD — Meta Superintelligence Labs | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1510576574212840/) | 2026-10-21 |
 | **Microsoft** | Research Intern - Algorithms Group: Generative Modeling | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557043740) | 2026-10-21 |
 | **Microsoft** | Research Intern - Extended Perception Interaction Cognition (EPIC) | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557043754) | 2026-10-21 |
@@ -510,6 +511,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **DRW** | Quantitative Trading Analyst Intern | `Chicago, Illinois` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 2026-09-20 |
 | **DRW** | Software Developer Intern | `Montreal` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 2026-09-20 |
 | **DRW** | Software Developer Intern | `Chicago` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 2026-09-20 |
+| **Exegy** | Stagiaire en développement logiciel / Software Developer Intern | `Montreal` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb) | 2026-09-20 |
 | **Figure AI** | Electrical Engineering Intern [Winter 2027] | `San Jose, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4676467006) | 2026-09-20 |
 | **Figure AI** | Hardware Reliability Intern [Winter 2027] | `San Jose, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | 2026-09-20 |
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern | `New York` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) | 2026-09-20 |
@@ -940,7 +942,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (554)
+## 🔒 Closed Postings (553)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1076,7 +1078,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Duolingo** | Associate Product Manager, Intern | `Pittsburgh, PA` | 🔴 Closed | [Link ↗](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | 2026-09-20 |
 | **Duolingo** | Software Engineer, Intern | `New York, NY; Pittsburgh, PA; Seattle, WA` | 🔴 Closed | [Link ↗](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002) | 2026-09-20 |
 | **Duolingo** | Software Engineer, Thrive Intern | `Pittsburgh, PA` | 🔴 Closed | [Link ↗](https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002) | 2026-09-20 |
-| **Exegy** | Stagiaire en développement logiciel / Software Developer Intern | `Montreal` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb) | 2026-09-20 |
 | **Figure AI** | Firmware Intern [Fall 2026] | `San Jose, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 2026-09-20 |
 | **Figure AI** | Power Systems Integration Intern [Fall 2026] | `San Jose, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/figureai/jobs/4702104006) | 2026-09-20 |
 | **Google** | Security Consultant Intern, BS/MS, Summer 2027 | `Toronto, ON, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bsms-summer-2027) | 2026-09-20 |
