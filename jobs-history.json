@@ -1,5 +1,45 @@
 [
   {
+    "title": "Research Scientist Intern, PhD — Meta Superintelligence Labs",
+    "url": "https://www.metacareers.com/jobs/1510576574212840/",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Research Intern - Algorithms Group: Generative Modeling",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Research Intern - Extended Perception Interaction Cognition (EPIC)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Summer 2027 - Data Science Intern (R6324)",
+    "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797",
+    "company": "Shield AI",
+    "location": "San Diego, California",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
     "title": "2027 Intern - Security Engineer",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
     "company": "Adobe",
@@ -1224,14 +1264,6 @@
     "date_added": "2026-10-13"
   },
   {
-    "title": "Cloud Network Engineering Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037856",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-10-13"
-  },
-  {
     "title": "Research Intern - Agentic Data Memory",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
     "company": "Microsoft",
@@ -2170,14 +2202,6 @@
   {
     "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "company": "Intel",
-    "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-10-02"
-  },
-  {
-    "title": "Thermal Mechanical Engineering Undergraduate Intern, GPU Platforms",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
     "company": "Intel",
     "location": "Canada, Toronto",
     "status": "Active",
@@ -3892,14 +3916,6 @@
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
     "company": "DRW",
     "location": "Montreal",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Platform Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
-    "company": "DRW",
-    "location": "Chicago",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -7312,6 +7328,14 @@
     "date_added": "2026-10-13"
   },
   {
+    "title": "Cloud Network Engineering Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037856",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-10-13"
+  },
+  {
     "title": "Test Solutions Engineering Intern, BS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
     "company": "Marvell",
@@ -7556,6 +7580,14 @@
     "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
     "company": "Harvey",
     "location": "Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-02"
+  },
+  {
+    "title": "Thermal Mechanical Engineering Undergraduate Intern, GPU Platforms",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
+    "company": "Intel",
+    "location": "Canada, Toronto",
     "status": "Closed",
     "date_added": "2026-10-02"
   },
@@ -8228,6 +8260,14 @@
     "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
     "company": "Dropbox",
     "location": "Remote - US: All locations",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Platform Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7997729",
+    "company": "DRW",
+    "location": "Chicago",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
