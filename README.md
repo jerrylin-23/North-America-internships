@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-937-green?style=flat-square)](#-active-postings-937)
+[![Active Postings](https://img.shields.io/badge/active%20postings-958-green?style=flat-square)](#-active-postings-958)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-22-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (937)
+## 📈 Active Postings (958)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -25,6 +25,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **1Password** | Developer Intern, Extension Excellence - Winter 2027 | `Remote (United States | Canada)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491) | 2026-10-22 |
 | **Amazon** | Associate Delivery Consultant Intern, National Security, AWS Professional Services | `Arlington, Virginia, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services) | 2026-10-22 |
 | **Amazon** | 2027 Frontier AI & Robotics Internship (Undergraduate) - United States, Frontier AI & Robotics, Frontier AI & Robotics | `San Francisco, California, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | 2026-10-22 |
+| **Amazon** | System Development Engineer Intern/Co-op, ROBOTICS -  2027 | `North Reading, Massachusetts, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027) | 2026-10-22 |
 | **Commonwealth Fusion Systems** | Intern - Materials Test Engineer - Summer 2027 | `Devens, MA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e) | 2026-10-22 |
 | **Databricks** | Data Science Intern (2027 Start) | `Mountain View, California; San Francisco, California` | 🟢 Active | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | 2026-10-22 |
 | **Intel** | Compiler Engineering Graduate Intern | `Canada, Toronto` | 🟢 Active | [Apply ↗](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | 2026-10-22 |
@@ -38,9 +39,27 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Research Scientist Intern, FAIR - Video Generation (PhD) | `Menlo Park, CA; Seattle, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/3549654831867862/) | 2026-10-22 |
 | **Meta** | Research Scientist Intern, FAIR - Multimodal Foundations (PhD) | `Bellevue, WA; Menlo Park, CA; Boston, MA; New York, NY; San Francisco, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2322361288548512/) | 2026-10-22 |
 | **Meta** | Research Scientist Intern, AI Alignment | `Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2356892281747003/) | 2026-10-22 |
+| **Meta** | Research Scientist Intern, Video Recommendations (PhD) | `Bellevue, WA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/932919123033502/) | 2026-10-22 |
+| **Meta** | Research Scientist Intern, FAIR Chemistry | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2162858564439476/) | 2026-10-22 |
+| **Palantir** | Forward Deployed Software Engineer, Internship - Warp Speed | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) | 2026-10-22 |
+| **Palantir** | Forward Deployed Software Engineer, New Grad - Warp Speed | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | 2026-10-22 |
 | **Patreon** | Product Manager Intern - Summer 2027 | `New York` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Data Engineering Intern - AI & Analytics (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Electromechanical Design Engineering Intern (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applications (Summer 2027) | `Vancouver, British Columbia` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Electromechanical Design Engineering Intern (Summer 2027) | `Vancouver, British Columbia` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applications (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Connected Systems (Summer 2027) | `Vancouver, British Columbia` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Connected Systems (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (Summer 2027) | `Vancouver, British Columbia` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Embedded Platforms (Summer 2027) | `Palo Alto, California` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048) | 2026-10-22 |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Embedded Platforms (Summer 2027) | `Vancouver, British Columbia` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) | 2026-10-22 |
 | **Twitch** | Undergrad Software Engineering Intern (Grad Year: Spring 2028) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/twitch/jobs/8886748002) | 2026-10-22 |
 | **Twitch** | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | `San Francisco, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/twitch/jobs/8886605002) | 2026-10-22 |
+| **Waymo** | 2027 Summer Intern, PhD, AI Foundations - Recipes | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8306841) | 2026-10-22 |
+| **Waymo** | 2027 Summer Intern, PhD, Research, Multimodal Foundation Models | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8306867) | 2026-10-22 |
+| **Waymo** | 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8306779) | 2026-10-22 |
 | **Analog Devices** | Analog Design Engineering Intern | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | 2026-10-21 |
 | **Anduril** | 2027 Business Operations Engineer Intern | `Ashville, Ohio, United States; Costa Mesa, California, United States` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | 2026-10-21 |
 | **Anduril** | 2027 Product Sourcing Engineer Intern | `Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | 2026-10-21 |
@@ -306,7 +325,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Software Engineer Intern, Systems and Infrastructure (PhD) | `Sunnyvale, CA; Bellevue, WA; Redmond, WA; Menlo Park, CA; Seattle, WA; Burlingame, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/945520495299801/) | 2026-10-06 |
 | **Meta** | Software Engineer Intern, Machine Learning (PhD) | `Sunnyvale, CA; Bellevue, WA; Redmond, WA; Menlo Park, CA; Seattle, WA; Burlingame, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2180490782513668/) | 2026-10-06 |
 | **Meta** | Data Scientist Intern, Product Analytics (Summer 2027) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1633096478817942/) | 2026-10-06 |
-| **Meta** | Software Engineering Intern | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1952991802037374/) | 2026-10-06 |
+| **Meta** | Software Engineering Intern | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1952991802037374/) | 2026-10-06 |
 | **Pure Storage** | Software Engineer Intern (Summer 2027) | `Santa Clara, California` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/purestorage/jobs/8249749) | 2026-10-06 |
 | **Shield AI** | Software Development Engineer - New Graduate | `San Diego, California` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583) | 2026-10-06 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery | `Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8257159) | 2026-10-06 |
@@ -632,6 +651,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Software Engineer, New Grad - Production Infrastructure | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | 2026-09-20 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | `Chicago, IL` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | 2026-09-20 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | 2026-09-20 |
+| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) | 2026-09-20 |
 | **Physical Intelligence** | Research Internships | `San Francisco` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) | 2026-09-20 |
 | **Point72** | Fundamental Research Fellow, Canvas  | `New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) | 2026-09-20 |
 | **Point72** | Machine Learning Researcher - Intern | `New York` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 2026-09-20 |
@@ -946,6 +966,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Software Engineer, Internship | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | 2026-06-17 |
+| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4661650005) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | 2026-06-17 |
 | **Scale AI** | SWE Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689954005) | 2026-06-17 |
@@ -970,7 +991,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (570)
+## 🔒 Closed Postings (568)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1136,7 +1157,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **NVIDIA** | Software Engineering Intern, DLFW Comms - 2027 | `3 Locations` | 🔴 Closed | [Link ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701) | 2026-09-20 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Defense Tech | `Washington, D.C.` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) | 2026-09-20 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Intel | `Washington, D.C.` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | 2026-09-20 |
-| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | `Washington, D.C.` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) | 2026-09-20 |
 | **PsiQuantum** | Intern, System Architecture | `Daresbury, England, United Kingdom; Palo Alto, California, United States; Remote` | 🔴 Closed | [Link ↗](https://www.psiquantum.com/apply?gh_jid=7695577003) | 2026-09-20 |
 | **Replit** | Software Engineer - New Grad (2027) | `Foster City, CA` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) | 2026-09-20 |
 | **Robinhood** | Associate Product Manager (New Grad) | `New York, NY` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973) | 2026-09-20 |
@@ -1521,7 +1541,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Glean** | Product Management Intern, Admin Console (Summer 2026) | `Mountain View, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/gleanwork/jobs/4699772005) | 2026-06-17 |
 | **Hootsuite** | Co-op/Intern, Product Management - Summer 2026 | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://careers.hootsuite.com/job/?gh_jid=7942387) | 2026-06-17 |
 | **Notion** | Software Engineer Intern (Fall 2026) | `San Francisco, California` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 2026-06-17 |
-| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | `New York, NY` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 2026-06-17 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Poland | `New York, NY` | 🔴 Closed | [Link ↗](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | 2026-06-17 |
 | **Pinterest** | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 2026-06-17 |
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
