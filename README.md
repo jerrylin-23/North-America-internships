@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-919-green?style=flat-square)](#-active-postings-919)
+[![Active Postings](https://img.shields.io/badge/active%20postings-921-green?style=flat-square)](#-active-postings-921)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-22-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,12 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (919)
+## 📈 Active Postings (921)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Meta** | Research Scientist Intern, Central Applied Science (PhD) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1582569213186235/) | 2026-10-22 |
+| **Meta** | Mechanical Engineering Intern | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1600772061108369/) | 2026-10-22 |
 | **Analog Devices** | Analog Design Engineering Intern | `United Kingdom, Edinburgh, SC, Freer` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) | 2026-10-21 |
 | **Anduril** | 2027 Business Operations Engineer Intern | `Ashville, Ohio, United States; Costa Mesa, California, United States` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | 2026-10-21 |
 | **Anduril** | 2027 Product Sourcing Engineer Intern | `Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | 2026-10-21 |
