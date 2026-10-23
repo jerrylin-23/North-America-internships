@@ -24,10 +24,26 @@
     "date_added": "2026-10-23"
   },
   {
+    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "company": "Amazon",
+    "location": "Redmond, Washington, USA",
+    "status": "Active",
+    "date_added": "2026-10-23"
+  },
+  {
     "title": "Design Verification Engineering Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097",
     "company": "Analog Devices",
     "location": "United Kingdom, Edinburgh, SC, Freer",
+    "status": "Active",
+    "date_added": "2026-10-23"
+  },
+  {
+    "title": "2027 New Grad Low Observables Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
     "status": "Active",
     "date_added": "2026-10-23"
   },
@@ -112,18 +128,18 @@
     "date_added": "2026-10-23"
   },
   {
-    "title": "Research Scientist Intern, Computational Photography (PhD)",
-    "url": "https://www.metacareers.com/jobs/1943752136600713/",
-    "company": "Meta",
-    "location": "Burlingame, CA",
-    "status": "Active",
-    "date_added": "2026-10-23"
-  },
-  {
     "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
     "url": "https://www.metacareers.com/jobs/1648122343381284/",
     "company": "Meta",
     "location": "Sunnyvale, CA; Bellevue, WA; Seattle, WA",
+    "status": "Active",
+    "date_added": "2026-10-23"
+  },
+  {
+    "title": "Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)",
+    "url": "https://www.metacareers.com/jobs/2053489871986285/",
+    "company": "Meta",
+    "location": "Redmond, WA",
     "status": "Active",
     "date_added": "2026-10-23"
   },
@@ -148,6 +164,14 @@
     "url": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
     "company": "Shield AI",
     "location": "Seattle, Washington",
+    "status": "Active",
+    "date_added": "2026-10-23"
+  },
+  {
+    "title": "Data Science Intern - Summer 2027 Intern",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666",
+    "company": "Sun Life Financial",
+    "location": "Wellesley Hills, Massachusetts",
     "status": "Active",
     "date_added": "2026-10-23"
   },
@@ -299,7 +323,7 @@
     "title": "Research Scientist Intern, Feed Recommendations (PhD)",
     "url": "https://www.metacareers.com/jobs/29044546168568671/",
     "company": "Meta",
-    "location": "Bellevue, WA",
+    "location": "Bellevue, WA; Menlo Park, CA",
     "status": "Active",
     "date_added": "2026-10-22"
   },
@@ -2635,7 +2659,7 @@
     "title": "Software Engineering Intern",
     "url": "https://www.metacareers.com/jobs/1952991802037374/",
     "company": "Meta",
-    "location": "Menlo Park, CA; New York, NY",
+    "location": "Menlo Park, CA; Seattle, WA; New York, NY",
     "status": "Active",
     "date_added": "2026-10-06"
   },
@@ -3564,14 +3588,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-09-24"
-  },
-  {
-    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-    "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
-    "company": "Amazon",
-    "location": "Redmond, Washington, USA",
     "status": "Active",
     "date_added": "2026-09-24"
   },
@@ -7776,6 +7792,14 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Research Scientist Intern, Computational Photography (PhD)",
+    "url": "https://www.metacareers.com/jobs/1943752136600713/",
+    "company": "Meta",
+    "location": "Burlingame, CA",
+    "status": "Closed",
+    "date_added": "2026-10-23"
+  },
+  {
     "title": "Software Engineering Intern, Summer 2027",
     "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
     "company": "Crusoe",
@@ -8470,6 +8494,14 @@
     "location": "Mountain View, CA, USA",
     "status": "Closed",
     "date_added": "2026-09-25"
+  },
+  {
+    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "company": "Amazon",
+    "location": "Redmond, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-09-24"
   },
   {
     "title": "Content Systems Intern (Summer 2027)",
