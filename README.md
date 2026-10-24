@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-977-green?style=flat-square)](#-active-postings-977)
+[![Active Postings](https://img.shields.io/badge/active%20postings-982-green?style=flat-square)](#-active-postings-982)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-10-24-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,12 +12,18 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (977)
+## 📈 Active Postings (982)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Figure AI** | Developer Productivity Intern [Winter 2027] | `San Jose, CA` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 2026-10-24 |
 | **Meta** | Research Scientist Intern, Policy Learning for Robotics (PhD) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2554989011673624/) | 2026-10-24 |
+| **Microsoft** | Software Engineering Intern | `United States, Oklahoma, Tulsa` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044771) | 2026-10-24 |
+| **Microsoft** | Product Management Intern | `United States, Massachusetts, Cambridge` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044772) | 2026-10-24 |
+| **Microsoft** | Research Intern - Algorithms Group: Theory | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557045963) | 2026-10-24 |
+| **Microsoft** | Research Intern - Gray Systems Lab (GSL) | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557045445) | 2026-10-24 |
+| **Microsoft** | Security Research Intern | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044769) | 2026-10-24 |
+| **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge | `United States, Massachusetts, Cambridge` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044765) | 2026-10-24 |
 | **Samsara** | Account Development Representative Intern - Phoenix | `Phoenix, Arizona, United States` | 🟢 Active | [Apply ↗](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | 2026-10-24 |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | `San Francisco, CA, USA` | 🟢 Active | [Apply ↗](https://careers.withwaymo.com/jobs?gh_jid=8304574) | 2026-10-24 |
 | **1Password** | Developer Intern, Credential Brokering - Winter 2027 | `Remote (United States | Canada)` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba) | 2026-10-23 |
@@ -173,7 +179,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Production Systems Engineering Intern | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/4536253699919879/) | 2026-10-16 |
 | **Meta** | Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1141752241867684/) | 2026-10-16 |
 | **Microsoft** | Research Intern - Efficient AI Software Systems | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557041731) | 2026-10-16 |
-| **Microsoft** | Research Intern - Gray Systems Lab (GSL) | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557041730) | 2026-10-16 |
 | **Microsoft** | Research Intern - MSR AI Interaction and Learning | `United States, Washington, Redmond; United States, New York, New York` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557042156) | 2026-10-16 |
 | **Microsoft** | Research Intern - Machine Learning at MSR NYC | `United States, New York, New York; United States, Massachusetts, Cambridge` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557042145) | 2026-10-16 |
 | **SpaceX** | New Graduate Engineer, Infrastructure  | `Starbase, TX` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) | 2026-10-16 |
@@ -910,6 +915,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **NVIDIA** | Software Engineering Intern, Dynamo - Fall 2026 | `US, CA, Santa Clara` | 🟢 Active | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 2026-08-06 |
 | **Roblox** | [Summer 2027] Software Engineer Intern | `San Mateo, CA, United States` | 🟢 Active | [Apply ↗](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-06 |
 | **Amazon** | 2027 MBA Leadership Development Program (MLDP) Intern | `Seattle, Washington, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | 2026-08-05 |
+| **Microsoft** | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 2026-08-04 |
 | **Modal** | ML Research Intern | `New York` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-07-29 |
 | **Squarepoint Capital** | Intern Quant Researcher | `London, Paris, New York, Singapore, Hong Kong` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 2026-07-27 |
 | **Akuna Capital** | Platform Engineer Intern, Summer 2027 | `Chicago, IL` | 🟢 Active | [Apply ↗](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | 2026-07-25 |
@@ -937,7 +943,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Apple** | Product Design Masters Engineering Internships | `Various Locations within United States` | 🟢 Active | [Apply ↗](https://jobs.apple.com/en-us/details/200663996-3810/product-design-masters-engineering-internships) | 2026-07-25 |
 | **Google** | Student Researcher, PhD, Fall 2026 | `Mountain View, CA, USA; Ann Arbor, MI, USA` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026) | 2026-07-25 |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | `Waterloo, ON, Canada; Toronto, ON, Canada` | 🟢 Active | [Apply ↗](https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bsms-fall-2026) | 2026-07-25 |
-| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities | `United States, Washington, Redmond; United States, California, Mountain View` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | `Palo Alto, CA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Software Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 2026-07-25 |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern | `New York, NY` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 2026-07-25 |
@@ -1010,7 +1015,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (577)
+## 🔒 Closed Postings (578)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1020,6 +1025,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Adobe** | 2027 Intern - Data, AI & Innovation | `San Jose` | 🔴 Closed | [Link ↗](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | 2026-10-19 |
 | **Intel** | Cloud Analytics - Application PhD Intern | `US, Oregon, Hillsboro` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170) | 2026-10-19 |
 | **D2L** | Software Developer - Winter 2027 Co-op - Custom Development Services | `Kitchener, ON` | 🔴 Closed | [Link ↗](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | 2026-10-16 |
+| **Microsoft** | Research Intern - Gray Systems Lab (GSL) | `United States, Washington, Redmond; United States, California, Mountain View` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393557041730) | 2026-10-16 |
 | **Cisco** | ASIC Design Engineer I (Intern) - United States | `San Jose, California, US` | 🔴 Closed | [Link ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790) | 2026-10-14 |
 | **Meta** | Research Scientist Intern, Hearing Science and Auditory Perception (PhD) | `Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2637905303337145/) | 2026-10-14 |
 | **D2L** | Software Developer - Winter 2027 Co-op - Vancouver | `Vancouver, BC` | 🔴 Closed | [Link ↗](https://www.d2l.com/careers/jobs/?job_id=8279317&gh_jid=8279317) | 2026-10-13 |
@@ -1418,7 +1424,6 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Google** | Software Developer, Early Career, Campus | `Waterloo, ON, Canada` | 🔴 Closed | [Link ↗](https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus) | 2026-08-07 |
 | **Microsoft** | Research Intern - Firmware Security | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556955518) | 2026-08-06 |
 | **Intel** | AI Software Engineer Graduate Intern | `Virtual US` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 2026-08-04 |
-| **Microsoft** | Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students, | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922923) | 2026-08-04 |
 | **Microsoft** | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 2026-08-04 |
 | **Microsoft** | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | `United States, Washington, Redmond` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 2026-08-04 |
@@ -1446,6 +1451,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Meta** | Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD) | `Menlo Park, CA; New York, NY` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/24536664159369645/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Machine Perception for Input and Interaction (PhD) | `Redmond, WA; Seattle, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/779670167783218/) | 2026-07-25 |
 | **Meta** | Research Scientist Intern, Embedded Contextual AI on Wearables (PhD) | `Sunnyvale, CA; Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2160167211413098/) | 2026-07-25 |
+| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities | `United States, Washington, Redmond; United States, California, Mountain View` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556868271) | 2026-07-25 |
 | **Microsoft** | Software Engineering INTERN | `India, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556911730) | 2026-07-25 |
 | **Microsoft** | Research Sciences INTERN | `India, Multiple Locations, Multiple Locations` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556641091) | 2026-07-25 |
 | **Microsoft** | Research Intern - Self-Improving AI | `United States, Massachusetts, Cambridge; United States, New York, New York` | 🔴 Closed | [Link ↗](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 2026-07-25 |
