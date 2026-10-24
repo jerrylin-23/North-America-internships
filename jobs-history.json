@@ -1,5 +1,37 @@
 [
   {
+    "title": "Developer Productivity Intern [Winter 2027]",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Active",
+    "date_added": "2026-10-24"
+  },
+  {
+    "title": "Research Scientist Intern, Policy Learning for Robotics (PhD)",
+    "url": "https://www.metacareers.com/jobs/2554989011673624/",
+    "company": "Meta",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-10-24"
+  },
+  {
+    "title": "Account Development Representative Intern - Phoenix",
+    "url": "https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784",
+    "company": "Samsara",
+    "location": "Phoenix, Arizona, United States",
+    "status": "Active",
+    "date_added": "2026-10-24"
+  },
+  {
+    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+    "company": "Waymo",
+    "location": "San Francisco, CA, USA",
+    "status": "Active",
+    "date_added": "2026-10-24"
+  },
+  {
     "title": "Developer Intern, Credential Brokering - Winter 2027",
     "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
     "company": "1Password",
@@ -147,7 +179,7 @@
     "title": "2027 - Software Engineering Intern, AMER",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
     "company": "MongoDB",
-    "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+    "location": "Austin; New York City; San Francisco",
     "status": "Active",
     "date_added": "2026-10-23"
   },
@@ -2756,14 +2788,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670",
     "company": "HP",
     "location": "Vancouver, Washington, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-03"
-  },
-  {
-    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "company": "Intel",
-    "location": "Canada, Toronto",
     "status": "Active",
     "date_added": "2026-10-03"
   },
@@ -8158,6 +8182,14 @@
     "location": "TORONTO, Ontario, Canada",
     "status": "Closed",
     "date_added": "2026-10-05"
+  },
+  {
+    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-03"
   },
   {
     "title": "Research Intern - Maia 200 Development",
