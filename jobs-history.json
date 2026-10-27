@@ -968,10 +968,10 @@
     "date_added": "2026-10-21"
   },
   {
-    "title": "Electrical Engineer I - New Grad (SD)",
+    "title": "Electrical Engineer I - New Grad",
     "url": "https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
     "company": "Shield AI",
-    "location": "San Diego, California",
+    "location": "Dallas, Texas",
     "status": "Active",
     "date_added": "2026-10-21"
   },
@@ -2090,14 +2090,6 @@
   {
     "title": "Research Scientist Intern - Plasma Light Source Characterization",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
-    "company": "KLA",
-    "location": "Ann Arbor, MI",
-    "status": "Active",
-    "date_added": "2026-10-13"
-  },
-  {
-    "title": "Product Development Intern - Electron Beam Instrumentation",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030",
     "company": "KLA",
     "location": "Ann Arbor, MI",
     "status": "Active",
@@ -8092,6 +8084,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833",
     "company": "Intel",
     "location": "Costa Rica, San Jose",
+    "status": "Closed",
+    "date_added": "2026-10-13"
+  },
+  {
+    "title": "Product Development Intern - Electron Beam Instrumentation",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030",
+    "company": "KLA",
+    "location": "Ann Arbor, MI",
     "status": "Closed",
     "date_added": "2026-10-13"
   },
