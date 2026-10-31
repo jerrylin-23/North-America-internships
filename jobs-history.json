@@ -1,5 +1,37 @@
 [
   {
+    "title": "Intern - Electrical/Electromechanical Engineer - Spring 2027",
+    "url": "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+    "company": "Commonwealth Fusion Systems",
+    "location": "Devens, MA",
+    "status": "Active",
+    "date_added": "2026-10-31"
+  },
+  {
+    "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)",
+    "url": "https://www.metacareers.com/jobs/1126899676481179/",
+    "company": "Meta",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-10-31"
+  },
+  {
+    "title": "Research Scientist Intern, Video RecSys (PhD)",
+    "url": "https://www.metacareers.com/jobs/1553890293163197/",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-10-31"
+  },
+  {
+    "title": "Research Intern",
+    "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+    "company": "Sierra",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "date_added": "2026-10-31"
+  },
+  {
     "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast",
     "url": "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
     "company": "Amazon",
@@ -514,14 +546,6 @@
   {
     "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
     "url": "https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545",
-    "company": "Commonwealth Fusion Systems",
-    "location": "Devens, MA",
-    "status": "Active",
-    "date_added": "2026-10-27"
-  },
-  {
-    "title": "Intern - Scientific Software Engineer - Summer 2027",
-    "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619",
     "company": "Commonwealth Fusion Systems",
     "location": "Devens, MA",
     "status": "Active",
@@ -3472,14 +3496,6 @@
     "date_added": "2026-10-03"
   },
   {
-    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "company": "Intel",
-    "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-10-03"
-  },
-  {
     "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
     "company": "Amazon",
@@ -3532,14 +3548,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
-    "status": "Active",
-    "date_added": "2026-10-02"
-  },
-  {
-    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "company": "Intel",
-    "location": "Canada, Toronto",
     "status": "Active",
     "date_added": "2026-10-02"
   },
@@ -4140,14 +4148,6 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
     "company": "Waymo",
     "location": "Mountain View, CA, USA ",
-    "status": "Active",
-    "date_added": "2026-09-25"
-  },
-  {
-    "title": "Field Systems Engineer Intern (Spring 2027)",
-    "url": "https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
     "status": "Active",
     "date_added": "2026-09-25"
   },
@@ -5836,14 +5836,6 @@
     "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
     "company": "Rivian and Volkswagen Group Technologies",
     "location": "Vancouver, British Columbia",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "[Summer 2027] Product Management Intern",
-    "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-    "company": "Roblox",
-    "location": "San Mateo, CA, United States",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -8216,6 +8208,14 @@
     "date_added": "2026-10-28"
   },
   {
+    "title": "Intern - Scientific Software Engineer - Summer 2027",
+    "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619",
+    "company": "Commonwealth Fusion Systems",
+    "location": "Devens, MA",
+    "status": "Closed",
+    "date_added": "2026-10-27"
+  },
+  {
     "title": "Software Engineer, Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
     "company": "Glean",
@@ -8832,6 +8832,14 @@
     "date_added": "2026-10-05"
   },
   {
+    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-03"
+  },
+  {
     "title": "Research Intern - Maia 200 Development",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
     "company": "Microsoft",
@@ -8876,6 +8884,14 @@
     "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
     "company": "Harvey",
     "location": "Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-02"
+  },
+  {
+    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "company": "Intel",
+    "location": "Canada, Toronto",
     "status": "Closed",
     "date_added": "2026-10-02"
   },
@@ -9308,6 +9324,14 @@
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
     "company": "Waymo",
     "location": "Mountain View, CA, USA",
+    "status": "Closed",
+    "date_added": "2026-09-25"
+  },
+  {
+    "title": "Field Systems Engineer Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
     "status": "Closed",
     "date_added": "2026-09-25"
   },
@@ -10084,6 +10108,14 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
     "company": "Robinhood",
     "location": "Bellevue, WA; Menlo Park, CA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "[Summer 2027] Product Management Intern",
+    "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
