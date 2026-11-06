@@ -1,5 +1,21 @@
 [
   {
+    "title": "EWIS Harness Design - Engineer I - New Grad",
+    "url": "https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a",
+    "company": "Shield AI",
+    "location": "Seattle, Washington",
+    "status": "Active",
+    "date_added": "2026-11-06"
+  },
+  {
+    "title": "June 2027 Co-Op - Software Engineer Intern",
+    "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-11-06"
+  },
+  {
     "title": "Equipment Engineering Co-Op GFU (May-Dec)",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545",
     "company": "Analog Devices",
@@ -27,7 +43,7 @@
     "title": "Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)",
     "url": "https://www.metacareers.com/jobs/1920724172670221/",
     "company": "Meta",
-    "location": "Sunnyvale, CA; Menlo Park, CA",
+    "location": "Sunnyvale, CA; Bellevue, WA; Menlo Park, CA",
     "status": "Active",
     "date_added": "2026-11-05"
   },
@@ -1882,6 +1898,14 @@
   {
     "title": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Active",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Research Intern - Algorithms Group: Generative Modeling",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
     "status": "Active",
@@ -3756,6 +3780,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Active",
+    "date_added": "2026-10-02"
+  },
+  {
+    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "company": "Intel",
+    "location": "Canada, Toronto",
     "status": "Active",
     "date_added": "2026-10-02"
   },
@@ -6576,14 +6608,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Electrical Project Engineer Intern (Summer 2027)",
-    "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Hardware Test Intern (Spring 2027)",
     "url": "https://www.zipline.com/open-roles/7894349003?gh_jid=7894349003",
     "company": "Zipline",
@@ -7170,14 +7194,6 @@
   {
     "title": "Software Engineer Intern",
     "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-    "company": "Coinbase",
-    "location": "Hybrid - San Francisco, CA",
-    "status": "Active",
-    "date_added": "2026-09-09"
-  },
-  {
-    "title": "User Research Intern",
-    "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
     "company": "Coinbase",
     "location": "Hybrid - San Francisco, CA",
     "status": "Active",
@@ -8576,14 +8592,6 @@
     "date_added": "2026-10-21"
   },
   {
-    "title": "Research Intern - Algorithms Group: Generative Modeling",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Closed",
-    "date_added": "2026-10-21"
-  },
-  {
     "title": "Summer 2027 - Data Science Intern (R6324)",
     "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797",
     "company": "Shield AI",
@@ -9268,14 +9276,6 @@
     "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
     "company": "Harvey",
     "location": "Toronto",
-    "status": "Closed",
-    "date_added": "2026-10-02"
-  },
-  {
-    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "company": "Intel",
-    "location": "Canada, Toronto",
     "status": "Closed",
     "date_added": "2026-10-02"
   },
@@ -10736,6 +10736,14 @@
     "date_added": "2026-09-20"
   },
   {
+    "title": "Electrical Project Engineer Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
     "title": "Aircraft Software Integration Intern (Spring 2027)",
     "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
     "company": "Zipline",
@@ -11380,6 +11388,14 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2",
     "company": "BMO",
     "location": "Toronto, ON, CAN",
+    "status": "Closed",
+    "date_added": "2026-09-09"
+  },
+  {
+    "title": "User Research Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "company": "Coinbase",
+    "location": "Hybrid - San Francisco, CA",
     "status": "Closed",
     "date_added": "2026-09-09"
   },
