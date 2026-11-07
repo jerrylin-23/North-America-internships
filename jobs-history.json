@@ -1,5 +1,125 @@
 [
   {
+    "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704571006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Mechanical Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Android Engineer Intern",
+    "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+    "company": "Match Group",
+    "location": "Los Angeles, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Backend Engineer Intern",
+    "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
+    "company": "Match Group",
+    "location": "Palo Alto, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Data Scientist Intern",
+    "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff",
+    "company": "Match Group",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "iOS Engineer Intern",
+    "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef",
+    "company": "Match Group",
+    "location": "Los Angeles, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
+    "company": "Match Group",
+    "location": "Palo Alto, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "User Experience Research Intern",
+    "url": "https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713",
+    "company": "Match Group",
+    "location": "Los Angeles, California",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
+    "url": "https://www.metacareers.com/jobs/1406087328180524/",
+    "company": "Meta",
+    "location": "Burlingame, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Research Intern - AI & Human Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
+    "company": "Microsoft",
+    "location": "United States, New York, New York; United States, Massachusetts, Cambridge",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+    "url": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
+    "company": "Shield AI",
+    "location": "Dallas, Texas",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "New Graduate Engineer, Mechanical",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002",
+    "company": "SpaceX",
+    "location": "McGregor, TX",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "AI Workflows & Safety Decision Making Intern [2027]",
+    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Data Science Intern [Summer 2027]",
+    "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+    "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
     "title": "Wet Lab Sensor Research Co-Op",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1",
     "company": "Analog Devices",
@@ -1728,7 +1848,7 @@
     "date_added": "2026-10-23"
   },
   {
-    "title": "Software Engineer I - New Grad (R6052)",
+    "title": "Software Engineer I - Internal Tools (New Grad) - R6052",
     "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196",
     "company": "Shield AI",
     "location": "Seattle, Washington",
@@ -2163,7 +2283,7 @@
     "title": "Electrical Engineer I - New Grad",
     "url": "https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
     "company": "Shield AI",
-    "location": "Dallas, Texas",
+    "location": "San Diego, California",
     "status": "Active",
     "date_added": "2026-10-21"
   },
@@ -2648,14 +2768,6 @@
     "date_added": "2026-10-16"
   },
   {
-    "title": "Research Intern - Efficient AI Software Systems",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-10-16"
-  },
-  {
     "title": "Research Intern - MSR AI Interaction and Learning",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
     "company": "Microsoft",
@@ -2776,14 +2888,6 @@
     "date_added": "2026-10-15"
   },
   {
-    "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "status": "Active",
-    "date_added": "2026-10-15"
-  },
-  {
     "title": "Researcher Intern, CoreAI",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
     "company": "Microsoft",
@@ -2856,14 +2960,6 @@
     "date_added": "2026-10-14"
   },
   {
-    "title": "ASIC Engineering Intern, Design Verification (Silicon Engineering)",
-    "url": "https://www.metacareers.com/jobs/1079763448023260/",
-    "company": "Meta",
-    "location": "Sunnyvale, CA",
-    "status": "Active",
-    "date_added": "2026-10-14"
-  },
-  {
     "title": "Materials Engineer Intern- Surface Finishing, Coating (PhD)",
     "url": "https://www.metacareers.com/jobs/1128496099859192/",
     "company": "Meta",
@@ -2900,14 +2996,6 @@
     "url": "https://www.metacareers.com/jobs/2374839409720164/",
     "company": "Meta",
     "location": "Sunnyvale, CA",
-    "status": "Active",
-    "date_added": "2026-10-14"
-  },
-  {
-    "title": "Research Intern - Machine Learning and Statistics",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-    "company": "Microsoft",
-    "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
     "status": "Active",
     "date_added": "2026-10-14"
   },
@@ -3952,14 +4040,6 @@
     "date_added": "2026-10-03"
   },
   {
-    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "company": "Intel",
-    "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-10-03"
-  },
-  {
     "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
     "company": "Amazon",
@@ -3996,14 +4076,6 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
-    "status": "Active",
-    "date_added": "2026-10-02"
-  },
-  {
-    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "company": "Intel",
-    "location": "Canada, Toronto",
     "status": "Active",
     "date_added": "2026-10-02"
   },
@@ -4244,6 +4316,14 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
     "company": "Pinterest",
     "location": "San Francisco, CA, US; Remote, US",
+    "status": "Active",
+    "date_added": "2026-10-01"
+  },
+  {
+    "title": "UX Quantitative Research Intern (USA)",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+    "company": "Pinterest",
+    "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
     "status": "Active",
     "date_added": "2026-10-01"
   },
@@ -4660,14 +4740,6 @@
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704778006",
     "company": "Astranis",
     "location": "San Francisco",
-    "status": "Active",
-    "date_added": "2026-09-24"
-  },
-  {
-    "title": "AI Research Intern",
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
-    "company": "Intuitive",
-    "location": "Sunnyvale, CA, United States",
     "status": "Active",
     "date_added": "2026-09-24"
   },
@@ -6360,7 +6432,7 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
+    "title": "June 2027 Co-0p - Electrical Engineering Intern",
     "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
     "company": "Shield AI",
     "location": "Dallas, Texas",
@@ -8888,6 +8960,14 @@
     "date_added": "2026-10-16"
   },
   {
+    "title": "Research Intern - Efficient AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-10-16"
+  },
+  {
     "title": "Research Intern - Gray Systems Lab (GSL)",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557041730",
     "company": "Microsoft",
@@ -8912,6 +8992,14 @@
     "date_added": "2026-10-15"
   },
   {
+    "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "status": "Closed",
+    "date_added": "2026-10-15"
+  },
+  {
     "title": "Summer 2027 Intern - Solution Engineer",
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
     "company": "Salesforce",
@@ -8924,6 +9012,14 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790",
     "company": "Cisco",
     "location": "San Jose, California, US",
+    "status": "Closed",
+    "date_added": "2026-10-14"
+  },
+  {
+    "title": "ASIC Engineering Intern, Design Verification (Silicon Engineering)",
+    "url": "https://www.metacareers.com/jobs/1079763448023260/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA",
     "status": "Closed",
     "date_added": "2026-10-14"
   },
@@ -8980,6 +9076,14 @@
     "url": "https://www.metacareers.com/jobs/2637905303337145/",
     "company": "Meta",
     "location": "Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-10-14"
+  },
+  {
+    "title": "Research Intern - Machine Learning and Statistics",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+    "company": "Microsoft",
+    "location": "United States, Massachusetts, Cambridge; United States, Washington, Redmond",
     "status": "Closed",
     "date_added": "2026-10-14"
   },
@@ -9448,6 +9552,14 @@
     "date_added": "2026-10-05"
   },
   {
+    "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-03"
+  },
+  {
     "title": "Research Intern - Maia 200 Development",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
     "company": "Microsoft",
@@ -9508,6 +9620,14 @@
     "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
     "company": "Harvey",
     "location": "Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-02"
+  },
+  {
+    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "company": "Intel",
+    "location": "Canada, Toronto",
     "status": "Closed",
     "date_added": "2026-10-02"
   },
@@ -9644,14 +9764,6 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
     "company": "Microsoft",
     "location": "United States, Washington, Redmond",
-    "status": "Closed",
-    "date_added": "2026-10-01"
-  },
-  {
-    "title": "UX Quantitative Research Intern (USA)",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-    "company": "Pinterest",
-    "location": "Remote, US",
     "status": "Closed",
     "date_added": "2026-10-01"
   },
@@ -9980,6 +10092,14 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151687099",
     "company": "Bosch",
     "location": "Charleston, SC, United States",
+    "status": "Closed",
+    "date_added": "2026-09-24"
+  },
+  {
+    "title": "AI Research Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+    "company": "Intuitive",
+    "location": "Sunnyvale, CA, United States",
     "status": "Closed",
     "date_added": "2026-09-24"
   },
