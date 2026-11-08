@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-1067-green?style=flat-square)](#-active-postings-1067)
+[![Active Postings](https://img.shields.io/badge/active%20postings-1071-green?style=flat-square)](#-active-postings-1071)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-08-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,14 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (1067)
+## 📈 Active Postings (1071)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Shield AI** | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | 2026-11-08 |
+| **Shield AI** | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | `United States` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | 2026-11-08 |
+| **Shield AI** | Engineer I, Software - Perception - New Grad - 6135 | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | 2026-11-08 |
+| **Shield AI** | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff) | 2026-11-08 |
 | **Astranis** | Embedded Software Developer, Network/Payload Intern (Winter 2027) | `San Francisco` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/astranis/jobs/4704571006) | 2026-11-07 |
 | **KLA** | Mechanical Engineer Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1) | 2026-11-07 |
 | **Match Group** | Android Engineer Intern | `Los Angeles, California` | 🟢 Active | [Apply ↗](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) | 2026-11-07 |
