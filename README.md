@@ -2,7 +2,7 @@
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
 [![Active Postings](https://img.shields.io/badge/active%20postings-1071-green?style=flat-square)](#-active-postings-1071)
-[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-08-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
+[![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-09-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
 An automated repository tracking Software Engineering (SWE), Machine Learning (ML), Data Science (DS), Quantitative Research/Trading, and Product Management internships & co-ops in Canada and the United States (Rolling & Year-Round).
@@ -16,6 +16,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Samsung** | ePro Business & Data Analyst Intern | `6625 Excellence Way, Plano, TX, USA` | 🟢 Active | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) | 2026-11-09 |
 | **Shield AI** | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | 2026-11-08 |
 | **Shield AI** | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | `United States` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | 2026-11-08 |
 | **Shield AI** | Engineer I, Software - Perception - New Grad - 6135 | `Washington, D.C.` | 🟢 Active | [Apply ↗](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | 2026-11-08 |
@@ -1074,7 +1075,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | `New York` | 🟢 Active | [Apply ↗](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 2026-07-09 |
 | **Cohere** | Machine Learning Intern/Co-op  (Winter 2027) | `Canada` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | 2026-06-17 |
 | **Cohere** | Research Internship (Winter 2027) | `Canada` | 🟢 Active | [Apply ↗](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-17 |
-| **Databricks** | PhD GenAI Research Scientist Intern | `San Francisco, California` | 🟢 Active | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | 2026-06-17 |
 | **Palantir** | Forward Deployed Software Engineer, Internship - France | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | 2026-06-17 |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | 2026-06-17 |
@@ -1104,7 +1104,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (724)
+## 🔒 Closed Postings (725)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1806,6 +1806,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **TD Bank** | Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | `Toronto, Ontario` | 🔴 Closed | [Link ↗](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 2026-06-20 |
 | **Ansatz Capital** | Internship (No intern program at this time) | `New York` | 🔴 Closed | [Link ↗](https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7) | 2026-06-17 |
 | **Cohere** | Software Engineer Intern (Winter 2027) | `Canada` | 🔴 Closed | [Link ↗](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 2026-06-17 |
+| **Databricks** | PhD GenAI Research Scientist Intern | `San Francisco, California` | 🔴 Closed | [Link ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | 2026-06-17 |
 | **Faire** | Data Science Intern | `San Francisco, CA` | 🔴 Closed | [Link ↗](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) | 2026-06-17 |
 | **Glean** | Product Management Intern, Admin Console (Summer 2026) | `Mountain View, CA` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/gleanwork/jobs/4699772005) | 2026-06-17 |
 | **Hootsuite** | Co-op/Intern, Product Management - Summer 2026 | `Toronto, Canada` | 🔴 Closed | [Link ↗](https://careers.hootsuite.com/job/?gh_jid=7942387) | 2026-06-17 |
