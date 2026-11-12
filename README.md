@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-1076-green?style=flat-square)](#-active-postings-1076)
+[![Active Postings](https://img.shields.io/badge/active%20postings-1080-green?style=flat-square)](#-active-postings-1080)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-12-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,14 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (1076)
+## 📈 Active Postings (1080)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Analog Devices** | Analog Design Engineering Intern | `Canada, Ottawa` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | 2026-11-12 |
+| **Analog Devices** | Mechanical Engineer - Advanced Robotics Intern | `US, MA, Wilmington` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505) | 2026-11-12 |
+| **Analog Devices** | Product Engineering (Prod Dev) Intern | `Canada, Ottawa` | 🟢 Active | [Apply ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | 2026-11-12 |
+| **Bosch** | AI Research Intern – Time Series Foundation Models | `Sunnyvale, California, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000161339309) | 2026-11-12 |
 | **Meta** | Research Scientist Intern, TPU(PhD) | `Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2690374264750493/) | 2026-11-12 |
 | **ServiceNow** | Assoc Detection Engineering Intern  | `Kirkland, Washington, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161210069) | 2026-11-12 |
 | **ServiceNow** | Assoc Security Engineering & Automation Intern  | `Santa Clara, CALIFORNIA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161209810) | 2026-11-12 |
