@@ -1,5 +1,69 @@
 [
   {
+    "title": "Research Scientist Intern, TPU(PhD)",
+    "url": "https://www.metacareers.com/jobs/2690374264750493/",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Assoc Detection Engineering Intern ",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
+    "company": "ServiceNow",
+    "location": "Kirkland, Washington, United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Assoc Security Engineering & Automation Intern ",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
+    "company": "ServiceNow",
+    "location": "Santa Clara, CALIFORNIA, United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
+    "company": "ServiceNow",
+    "location": "Santa Clara, CALIFORNIA, United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Assoc Information Security Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
+    "company": "ServiceNow",
+    "location": "San Diego, CALIFORNIA, United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127",
+    "url": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50",
+    "company": "Shield AI",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Engineer II, Software - Autonomy Capabilities - New Grad - 6131",
+    "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af",
+    "company": "Shield AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
+    "title": "Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139",
+    "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12",
+    "company": "Shield AI",
+    "location": "United States",
+    "status": "Active",
+    "date_added": "2026-11-12"
+  },
+  {
     "title": "Advanced Analytics Intern",
     "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
     "company": "Airbnb",
@@ -556,14 +620,6 @@
     "url": "https://www.metacareers.com/jobs/1826604892017856/",
     "company": "Meta",
     "location": "Sunnyvale, CA; Menlo Park, CA",
-    "status": "Active",
-    "date_added": "2026-11-06"
-  },
-  {
-    "title": "Research Scientist Intern, AI Systems and Infrastructure (PhD)",
-    "url": "https://www.metacareers.com/jobs/1750797606003820/",
-    "company": "Meta",
-    "location": "Menlo Park, CA; New York, NY",
     "status": "Active",
     "date_added": "2026-11-06"
   },
@@ -4354,14 +4410,6 @@
   {
     "title": "Radiation Effects Engineer Intern (Winter 2027)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704335006",
-    "company": "Astranis",
-    "location": "San Francisco",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
-    "title": "RF Hardware Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
     "company": "Astranis",
     "location": "San Francisco",
     "status": "Active",
@@ -8576,6 +8624,14 @@
     "date_added": "2026-11-07"
   },
   {
+    "title": "Research Scientist Intern, AI Systems and Infrastructure (PhD)",
+    "url": "https://www.metacareers.com/jobs/1750797606003820/",
+    "company": "Meta",
+    "location": "Menlo Park, CA; New York, NY",
+    "status": "Closed",
+    "date_added": "2026-11-06"
+  },
+  {
     "title": "MPQ MDCX Engineering Student Worker",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0288847-1",
     "company": "Intel",
@@ -9854,6 +9910,14 @@
     "location": "Mountain View, CA, USA",
     "status": "Closed",
     "date_added": "2026-10-02"
+  },
+  {
+    "title": "RF Hardware Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
+    "company": "Astranis",
+    "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-10-01"
   },
   {
     "title": "Software Development Internship (Summer 2027)",
