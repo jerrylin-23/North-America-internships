@@ -56,6 +56,22 @@
     "date_added": "2026-11-13"
   },
   {
+    "title": "Engineer I, Software - New Grad - 6531",
+    "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b",
+    "company": "Shield AI",
+    "location": "Washington, D.C.",
+    "status": "Active",
+    "date_added": "2026-11-13"
+  },
+  {
+    "title": "New Graduate Engineer, Aerospace Software (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-11-13"
+  },
+  {
     "title": "Contract Student Worker  – Firmware Engineer (FW Core System Services)",
     "url": "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
     "company": "Zoox",
@@ -82,6 +98,14 @@
   {
     "title": "Data Scientist Intern [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-11-13"
+  },
+  {
+    "title": "Systems & Safety Engineering Intern [Summer 2027]",
+    "url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
     "company": "Zoox",
     "location": "Foster City, CA",
     "status": "Active",
@@ -1952,14 +1976,6 @@
     "date_added": "2026-10-27"
   },
   {
-    "title": "Data Science Intern",
-    "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
-    "company": "Zillow",
-    "location": "Seattle-WA-2nd Ave",
-    "status": "Active",
-    "date_added": "2026-10-27"
-  },
-  {
     "title": "Tech Ops Engineer Intern, 2027 Tech Ops Intern",
     "url": "https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern",
     "company": "Amazon",
@@ -2916,14 +2932,6 @@
     "url": "https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002",
     "company": "SpaceX",
     "location": "Hawthorne, CA",
-    "status": "Active",
-    "date_added": "2026-10-20"
-  },
-  {
-    "title": "Applied Scientist (Economics) Intern",
-    "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-    "company": "Zillow",
-    "location": "Seattle-WA-2nd Ave",
     "status": "Active",
     "date_added": "2026-10-20"
   },
@@ -4812,14 +4820,6 @@
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
     "company": "Celonis",
     "location": "Raleigh, US, North Carolina",
-    "status": "Active",
-    "date_added": "2026-09-29"
-  },
-  {
-    "title": "Systems Quality Engineer II (Co-op) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
-    "company": "Cisco",
-    "location": "Maynard, Massachusetts, US",
     "status": "Active",
     "date_added": "2026-09-29"
   },
@@ -8960,6 +8960,14 @@
     "date_added": "2026-10-27"
   },
   {
+    "title": "Data Science Intern",
+    "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+    "company": "Zillow",
+    "location": "Seattle-WA-2nd Ave",
+    "status": "Closed",
+    "date_added": "2026-10-27"
+  },
+  {
     "title": "Software Engineer, Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
     "company": "Glean",
@@ -9220,6 +9228,14 @@
     "url": "https://www.metacareers.com/jobs/2857194467985784/",
     "company": "Meta",
     "location": "Redmond, WA",
+    "status": "Closed",
+    "date_added": "2026-10-20"
+  },
+  {
+    "title": "Applied Scientist (Economics) Intern",
+    "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
+    "company": "Zillow",
+    "location": "Seattle-WA-2nd Ave",
     "status": "Closed",
     "date_added": "2026-10-20"
   },
@@ -10294,6 +10310,14 @@
     "location": "Mountain View, CA, USA",
     "status": "Closed",
     "date_added": "2026-09-30"
+  },
+  {
+    "title": "Systems Quality Engineer II (Co-op) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
+    "company": "Cisco",
+    "location": "Maynard, Massachusetts, US",
+    "status": "Closed",
+    "date_added": "2026-09-29"
   },
   {
     "title": "Physical Design Engineer I (Co-op) - United States",
