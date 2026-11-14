@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-1049-green?style=flat-square)](#-active-postings-1049)
+[![Active Postings](https://img.shields.io/badge/active%20postings-1051-green?style=flat-square)](#-active-postings-1051)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-14-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,10 +12,12 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (1049)
+## 📈 Active Postings (1051)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
+| **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East | `Herndon, Virginia, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) | 2026-11-14 |
+| **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | `Umatilla, Oregon, USA` | 🟢 Active | [Apply ↗](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) | 2026-11-14 |
 | **ServiceNow** | AI Identity Intern | `Kirkland, Washington, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161594249) | 2026-11-14 |
 | **ServiceNow** | Security Engineer Intern | `Kirkland, Washington, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161592679) | 2026-11-14 |
 | **ServiceNow** | Sr Outbound Product Manager Intern (MBA Summer 2027) | `San Diego, CALIFORNIA, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) | 2026-11-14 |
