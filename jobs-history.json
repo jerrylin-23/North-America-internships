@@ -1,5 +1,13 @@
 [
   {
+    "title": "Product Design (Mechanical Engineering) Co-Op",
+    "url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
+    "company": "Samsara",
+    "location": "San Francisco - SF9",
+    "status": "Active",
+    "date_added": "2026-11-15"
+  },
+  {
     "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
     "url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
     "company": "Amazon",
@@ -4936,14 +4944,6 @@
     "date_added": "2026-09-24"
   },
   {
-    "title": "Firmware Engineer Co-Op",
-    "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
-    "company": "Samsara",
-    "location": "San Francisco - SF9",
-    "status": "Active",
-    "date_added": "2026-09-24"
-  },
-  {
     "title": "2027 Summer Intern, PhD, Research Scientist, Foundation Models",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
     "company": "Waymo",
@@ -6500,14 +6500,6 @@
     "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002",
     "company": "SpaceX",
     "location": "Starbase, TX",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002",
-    "company": "SpaceX",
-    "location": "Bastrop, TX",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -10536,6 +10528,14 @@
     "date_added": "2026-09-24"
   },
   {
+    "title": "Firmware Engineer Co-Op",
+    "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+    "company": "Samsara",
+    "location": "San Francisco - SF9",
+    "status": "Closed",
+    "date_added": "2026-09-24"
+  },
+  {
     "title": "Software Defined Radio Hardware Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
     "company": "Astranis",
@@ -11476,6 +11476,14 @@
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
     "company": "Sony",
     "location": "San Diego",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002",
+    "company": "SpaceX",
+    "location": "Bastrop, TX",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
