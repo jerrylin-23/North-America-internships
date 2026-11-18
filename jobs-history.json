@@ -16,10 +16,26 @@
     "date_added": "2026-11-18"
   },
   {
+    "title": "2027 Business Systems Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-11-18"
+  },
+  {
     "title": "Robot Learning Research Intern ",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
     "company": "Bosch",
     "location": "Pittsburgh, PA, United States",
+    "status": "Active",
+    "date_added": "2026-11-18"
+  },
+  {
+    "title": "Spring 2027 Intern - Software Engineering",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000162353069",
+    "company": "Western Digital",
+    "location": "Irvine, CA, United States",
     "status": "Active",
     "date_added": "2026-11-18"
   },
@@ -680,7 +696,7 @@
     "date_added": "2026-11-10"
   },
   {
-    "title": "Software Engineer, Intern - Connectivity Platform and Product",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
     "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
     "company": "Palantir",
     "location": "New York, NY",
@@ -688,7 +704,7 @@
     "date_added": "2026-11-10"
   },
   {
-    "title": "Software Engineer, Intern - Connectivity Platform and Product",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
     "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
     "company": "Palantir",
     "location": "Denver, CO",
@@ -3184,14 +3200,6 @@
     "date_added": "2026-10-15"
   },
   {
-    "title": "Intern - Mechanical Equipment Engineer - Spring 2027",
-    "url": "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
-    "company": "Commonwealth Fusion Systems",
-    "location": "Devens, MA",
-    "status": "Active",
-    "date_added": "2026-10-15"
-  },
-  {
     "title": "Intern - Nuclear Engineer - Summer 2027",
     "url": "https://jobs.lever.co/cfsenergy/1be023ee-0351-4d09-acca-f56180d06463",
     "company": "Commonwealth Fusion Systems",
@@ -3264,7 +3272,7 @@
     "date_added": "2026-10-15"
   },
   {
-    "title": "Machine Learning Intern",
+    "title": "Stagiaire en machine learning / Machine Learning Intern",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
     "company": "Tower Research Capital",
     "location": "Montreal",
@@ -4072,14 +4080,6 @@
     "date_added": "2026-10-07"
   },
   {
-    "title": "Data Science and Analytics - PhD Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859",
-    "company": "Intel",
-    "location": "US, Oregon, Hillsboro",
-    "status": "Active",
-    "date_added": "2026-10-07"
-  },
-  {
     "title": "Data Scientist Intern, Product Analytics (PhD) (Summer 2027)",
     "url": "https://www.metacareers.com/jobs/929757023499411/",
     "company": "Meta",
@@ -4706,6 +4706,14 @@
   {
     "title": "Machine Learning Engineer Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-09-30"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
     "company": "KLA",
     "location": "Milpitas, CA",
     "status": "Active",
@@ -5628,14 +5636,6 @@
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
     "company": "DRW",
     "location": "Montreal",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-    "company": "DRW",
-    "location": "Chicago",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -9272,6 +9272,14 @@
     "date_added": "2026-10-16"
   },
   {
+    "title": "Intern - Mechanical Equipment Engineer - Spring 2027",
+    "url": "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
+    "company": "Commonwealth Fusion Systems",
+    "location": "Devens, MA",
+    "status": "Closed",
+    "date_added": "2026-10-15"
+  },
+  {
     "title": "Intern - Mechanical Engineer - Summer 2027",
     "url": "https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76",
     "company": "Commonwealth Fusion Systems",
@@ -9700,6 +9708,14 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154135589",
     "company": "Bosch",
     "location": "Breda, NB, Netherlands",
+    "status": "Closed",
+    "date_added": "2026-10-07"
+  },
+  {
+    "title": "Data Science and Analytics - PhD Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
     "status": "Closed",
     "date_added": "2026-10-07"
   },
@@ -10258,14 +10274,6 @@
   {
     "title": "Software Engineering Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
-    "company": "KLA",
-    "location": "Milpitas, CA",
-    "status": "Closed",
-    "date_added": "2026-09-30"
-  },
-  {
-    "title": "Software Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
     "company": "KLA",
     "location": "Milpitas, CA",
     "status": "Closed",
@@ -11156,6 +11164,14 @@
     "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
     "company": "Dropbox",
     "location": "Remote - US: All locations",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "company": "DRW",
+    "location": "Chicago",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
