@@ -1,5 +1,85 @@
 [
   {
+    "title": "2027 Engineering Systems Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, ADAS Systems, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, Embedded Software, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, Infotainment Software, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "Product Security Engineering Intern, Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
+    "title": "2027 Summer Intern, PhD, Agentic AI",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+    "company": "Waymo",
+    "location": "Mountain View, California, United States",
+    "status": "Active",
+    "date_added": "2026-11-20"
+  },
+  {
     "title": "Equipment Engineering Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Equipment-Engineering-Intern_R269551",
     "company": "Analog Devices",
@@ -628,14 +708,6 @@
     "url": "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
     "company": "Zoox",
     "location": "Foster City, CA",
-    "status": "Active",
-    "date_added": "2026-11-13"
-  },
-  {
-    "title": "Contract Student Worker - Machine Learning Engineer",
-    "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
-    "company": "Zoox",
-    "location": "Boston, MA",
     "status": "Active",
     "date_added": "2026-11-13"
   },
@@ -2916,14 +2988,6 @@
     "url": "https://www.metacareers.com/jobs/1656954472496223/",
     "company": "Meta",
     "location": "Burlingame, CA",
-    "status": "Active",
-    "date_added": "2026-10-21"
-  },
-  {
-    "title": "Research Scientist Intern, Robot Foundation Models (PhD)",
-    "url": "https://www.metacareers.com/jobs/27730225806654441/",
-    "company": "Meta",
-    "location": "Redmond, WA",
     "status": "Active",
     "date_added": "2026-10-21"
   },
@@ -8296,6 +8360,14 @@
     "date_added": "2026-06-17"
   },
   {
+    "title": "PhD GenAI Research Scientist Intern",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "company": "Databricks",
+    "location": "San Francisco, California",
+    "status": "Active",
+    "date_added": "2026-06-17"
+  },
+  {
     "title": "Forward Deployed Software Engineer, Internship - France",
     "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
     "company": "Palantir",
@@ -8444,6 +8516,14 @@
     "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b",
     "company": "Shield AI",
     "location": "Washington, D.C.",
+    "status": "Closed",
+    "date_added": "2026-11-13"
+  },
+  {
+    "title": "Contract Student Worker - Machine Learning Engineer",
+    "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+    "company": "Zoox",
+    "location": "Boston, MA",
     "status": "Closed",
     "date_added": "2026-11-13"
   },
@@ -9212,6 +9292,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
     "company": "Intel",
     "location": "US, California, Folsom",
+    "status": "Closed",
+    "date_added": "2026-10-21"
+  },
+  {
+    "title": "Research Scientist Intern, Robot Foundation Models (PhD)",
+    "url": "https://www.metacareers.com/jobs/27730225806654441/",
+    "company": "Meta",
+    "location": "Redmond, WA",
     "status": "Closed",
     "date_added": "2026-10-21"
   },
@@ -15292,14 +15380,6 @@
     "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
     "company": "Cohere",
     "location": "Canada",
-    "status": "Closed",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "PhD GenAI Research Scientist Intern",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-    "company": "Databricks",
-    "location": "San Francisco, California",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
