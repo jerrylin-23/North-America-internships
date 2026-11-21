@@ -47,6 +47,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Microsoft** | Security Research: PhD Internship Opportunities | `United States, Washington, Redmond` | 🟢 Active | [Apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557074642) | 2026-11-21 |
 | **ServiceNow** | Security Software Engineer Intern | `Kirkland, Washington, United States` | 🟢 Active | [Apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) | 2026-11-21 |
 | **SpaceX** | New Graduate Engineer, Propulsion (Raptor) | `Hawthorne, CA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) | 2026-11-21 |
+| **SpaceX** | New Graduate Engineer, Electrical (Starfall) | `Hawthorne, CA` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002) | 2026-11-21 |
 | **Anduril** | 2027 Engineering Systems Intern | `Costa Mesa, California, United States` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) | 2026-11-20 |
 | **Lucid Motors** | Intern, ADAS Systems, Summer 2027 | `Newark, CA` | 🟢 Active | [Apply ↗](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | 2026-11-20 |
 | **Lucid Motors** | Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 | `Newark, CA` | 🟢 Active | [Apply ↗](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | 2026-11-20 |
@@ -1085,8 +1086,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Palantir** | Forward Deployed Software Engineer, Internship - US Government | `New York, NY` | 🟢 Active | [Apply ↗](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4661650005) | 2026-06-17 |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) | 2026-06-17 |
-| **Scale AI** | SWE Fellow - Human Frontier Collective (Canada) | `Canada` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689954005) | 2026-06-17 |
-| **Scale AI** | SWE Fellow - Human Frontier Collective (US) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | 2026-06-17 |
+| **Scale AI** | SWE Fellow - Human Frontier Collective (US, UK, & Canada) | `United States` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) | 2026-06-17 |
 | **Squarepoint Capital** | Intern Software Developer - Montreal - 2027 | `Montreal` | 🟢 Active | [Apply ↗](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 2026-06-17 |
 | **Aquatic Capital Management** | Quantitative Researcher, Intern (Summer 2027)  | `Chicago; London` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 2026-06-13 |
 | **Aquatic Capital Management** | Software Engineer, Intern (Summer 2027)  | `Chicago` | 🟢 Active | [Apply ↗](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 2026-06-13 |
@@ -1107,7 +1107,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (908)
+## 🔒 Closed Postings (909)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -2001,6 +2001,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Pinterest** | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 2026-06-17 |
 | **Pinterest** | Master's Fall Machine Learning Internship (ATG - Visual Search) | `San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US` | 🔴 Closed | [Link ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | 2026-06-17 |
 | **RBC** | 2026 CFO Fall Co-op Student, Capital Markets Enterprise-Wide Stress Testing (8 months) | `TORONTO, Ontario, Canada` | 🔴 Closed | [Link ↗](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117) | 2026-06-17 |
+| **Scale AI** | SWE Fellow - Human Frontier Collective (Canada) | `Canada` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/scaleai/jobs/4689954005) | 2026-06-17 |
 | **Scale AI** | AI Builder Intern | `San Francisco, CA; New York, NY` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 2026-06-17 |
 | **Scale AI** | Finance Fellow - Human Frontier Collective (US) | `United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/scaleai/jobs/4565836005) | 2026-06-17 |
 | **Scale AI** | Legal Fellow - Human Frontier Collective (US) | `United States` | 🔴 Closed | [Link ↗](https://job-boards.greenhouse.io/scaleai/jobs/4565834005) | 2026-06-17 |

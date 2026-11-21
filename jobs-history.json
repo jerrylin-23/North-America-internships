@@ -248,6 +248,14 @@
     "date_added": "2026-11-21"
   },
   {
+    "title": "New Graduate Engineer, Electrical (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "status": "Active",
+    "date_added": "2026-11-21"
+  },
+  {
     "title": "2027 Engineering Systems Intern",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
     "company": "Anduril",
@@ -8552,15 +8560,7 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "SWE Fellow - Human Frontier Collective (Canada)",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689954005",
-    "company": "Scale AI",
-    "location": "Canada",
-    "status": "Active",
-    "date_added": "2026-06-17"
-  },
-  {
-    "title": "SWE Fellow - Human Frontier Collective (US)",
+    "title": "SWE Fellow - Human Frontier Collective (US, UK, & Canada)",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
     "company": "Scale AI",
     "location": "United States",
@@ -15708,6 +15708,14 @@
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO-Fall-Co-op-Student--Capital-Markets-Enterprise-Wide-Stress-Testing--8-months-_R-0000175117",
     "company": "RBC",
     "location": "TORONTO, Ontario, Canada",
+    "status": "Closed",
+    "date_added": "2026-06-17"
+  },
+  {
+    "title": "SWE Fellow - Human Frontier Collective (Canada)",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689954005",
+    "company": "Scale AI",
+    "location": "Canada",
     "status": "Closed",
     "date_added": "2026-06-17"
   },
