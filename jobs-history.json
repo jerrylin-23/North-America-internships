@@ -736,14 +736,6 @@
     "date_added": "2026-11-17"
   },
   {
-    "title": "Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
-    "company": "ServiceNow",
-    "location": "Santa Clara, CALIFORNIA, United States",
-    "status": "Active",
-    "date_added": "2026-11-17"
-  },
-  {
     "title": "Forward Deployed Solution Engineer Intern (Masters Summer 2027)",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020",
     "company": "ServiceNow",
@@ -7152,14 +7144,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Supplier Industrialization Engineering Intern (Spring 2027)",
-    "url": "https://www.zipline.com/open-roles/7891019003?gh_jid=7891019003",
-    "company": "Zipline",
-    "location": "South San Francisco, California, USA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Supplier Industrialization Engineering Intern (Summer 2027)",
     "url": "https://www.zipline.com/open-roles/7891110003?gh_jid=7891110003",
     "company": "Zipline",
@@ -8628,6 +8612,14 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1",
     "company": "Marvell",
     "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-11-17"
+  },
+  {
+    "title": "Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+    "company": "ServiceNow",
+    "location": "Santa Clara, CALIFORNIA, United States",
     "status": "Closed",
     "date_added": "2026-11-17"
   },
@@ -12404,6 +12396,14 @@
     "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
     "company": "Zip",
     "location": "San Francisco",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Supplier Industrialization Engineering Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles/7891019003?gh_jid=7891019003",
+    "company": "Zipline",
+    "location": "South San Francisco, California, USA",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
