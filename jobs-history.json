@@ -1,17 +1,57 @@
 [
   {
+    "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+    "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+    "company": "Amazon",
+    "location": "Sunnyvale, California, USA",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Intern – Software Asset Management Analyst",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430",
+    "company": "Intel",
+    "location": "Costa Rica, San Jose",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Logic Design Engineering Graduate Intern | SPE ISCP SFD Domain42",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Logic-Design-Engineering-Graduate-Intern---SPE-ISCP-SFD-Domain42_JR0289549",
+    "company": "Intel",
+    "location": "Costa Rica, San Jose",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Technical Program Manager, Systems Intern",
+    "url": "https://nuro.ai/careersitem?gh_jid=8412577",
+    "company": "Nuro",
+    "location": "Mountain View, California (HQ)",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Data Engineer Intern",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374",
+    "company": "Samsung",
+    "location": "6555 Excellence Way, Plano, TX, USA",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
     "title": "Robot Learning Engineer Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543",
     "company": "Analog Devices",
     "location": "US, CA, San Jose, Rio Robles",
-    "status": "Active",
-    "date_added": "2026-11-23"
-  },
-  {
-    "title": "Mixed Signal Design Engineering Intern",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Design-Engineering-Intern_R267442",
-    "company": "Analog Devices",
-    "location": "US, MA, Wilmington",
     "status": "Active",
     "date_added": "2026-11-23"
   },
@@ -322,14 +362,6 @@
   {
     "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
     "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
-    "company": "Lucid Motors",
-    "location": "Newark, CA",
-    "status": "Active",
-    "date_added": "2026-11-20"
-  },
-  {
-    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
-    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
     "company": "Lucid Motors",
     "location": "Newark, CA",
     "status": "Active",
@@ -704,14 +736,6 @@
     "date_added": "2026-11-17"
   },
   {
-    "title": "AI Application Intern (8 months/40 hours per week) ",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
-    "company": "Bosch",
-    "location": "Farmington Hills, MI, United States",
-    "status": "Active",
-    "date_added": "2026-11-17"
-  },
-  {
     "title": "IT LTG Student Systems Analyst",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/IT-LTG-Student-Systems-Analyst_JR0288638",
     "company": "Intel",
@@ -758,14 +782,6 @@
     "location": "Santa Clara, CALIFORNIA, United States",
     "status": "Active",
     "date_added": "2026-11-17"
-  },
-  {
-    "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
-    "company": "Analog Devices",
-    "location": "US, MA, Wilmington",
-    "status": "Active",
-    "date_added": "2026-11-16"
   },
   {
     "title": "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
@@ -1172,14 +1188,6 @@
     "url": "https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003",
     "company": "Celonis",
     "location": "Raleigh, US, North Carolina",
-    "status": "Active",
-    "date_added": "2026-11-10"
-  },
-  {
-    "title": "Performance Engineering Co-op",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2",
-    "company": "HP",
-    "location": "Fort Collins, Colorado, United States of America",
     "status": "Active",
     "date_added": "2026-11-10"
   },
@@ -1624,7 +1632,7 @@
     "date_added": "2026-11-06"
   },
   {
-    "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+    "title": "PhD Software Engineer Intern, Autonomy Software [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
     "company": "Zoox",
     "location": "Foster City, CA",
@@ -2184,14 +2192,6 @@
     "date_added": "2026-10-30"
   },
   {
-    "title": "Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
-    "url": "https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191",
-    "company": "Zoox",
-    "location": "Foster City, CA",
-    "status": "Active",
-    "date_added": "2026-10-30"
-  },
-  {
     "title": "UX Researcher Intern – Summer 2027",
     "url": "https://www.amazon.jobs/en/jobs/10592767/ux-researcher-intern-summer-2027",
     "company": "Amazon",
@@ -2314,14 +2314,6 @@
   {
     "title": "Health Economics & Outcomes Research (HEOR) Intern",
     "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313154",
-    "company": "Intuitive",
-    "location": "Sunnyvale, CA, United States",
-    "status": "Active",
-    "date_added": "2026-10-28"
-  },
-  {
-    "title": "Robotics Engineering Intern",
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
     "company": "Intuitive",
     "location": "Sunnyvale, CA, United States",
     "status": "Active",
@@ -2764,14 +2756,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157483412",
     "company": "Bosch",
     "location": "Sunnyvale, CA, United States",
-    "status": "Active",
-    "date_added": "2026-10-23"
-  },
-  {
-    "title": "Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Engineering-Intern_2642277-1",
-    "company": "KLA",
-    "location": "Milpitas, CA",
     "status": "Active",
     "date_added": "2026-10-23"
   },
@@ -5176,14 +5160,6 @@
     "date_added": "2026-09-29"
   },
   {
-    "title": "Materials Engineering Summer 2027 Intern",
-    "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
-    "company": "Helion",
-    "location": "Everett, WA",
-    "status": "Active",
-    "date_added": "2026-09-29"
-  },
-  {
     "title": "Chemical Engineer / Chemist Postdoctoral Intern",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765-1",
     "company": "HP",
@@ -5444,14 +5420,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
     "company": "Amazon",
     "location": "Seattle, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-09-23"
-  },
-  {
-    "title": "Propulsion Engineer Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
-    "company": "Astranis",
-    "location": "San Francisco",
     "status": "Active",
     "date_added": "2026-09-23"
   },
@@ -7112,14 +7080,6 @@
     "date_added": "2026-09-20"
   },
   {
-    "title": "Contract Student Worker - Data Scientist",
-    "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f",
-    "company": "Zoox",
-    "location": "Foster City, CA",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
     "title": "Contract Student Worker Automation & Behavioral Science Engineer",
     "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e",
     "company": "Zoox",
@@ -8456,10 +8416,10 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "Machine Learning Fellow - Human Frontier Collective (US, UK, & Canada)",
+    "title": "Machine Learning Fellow - Human Frontier Collective",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005",
     "company": "Scale AI",
-    "location": "United States",
+    "location": "Canada; United Kingdom; United States",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -8496,6 +8456,22 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Mixed Signal Design Engineering Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Design-Engineering-Intern_R267442",
+    "company": "Analog Devices",
+    "location": "US, MA, Wilmington",
+    "status": "Closed",
+    "date_added": "2026-11-23"
+  },
+  {
+    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "company": "Lucid Motors",
+    "location": "Newark, CA",
+    "status": "Closed",
+    "date_added": "2026-11-20"
+  },
+  {
     "title": "Analog Design Engineering Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Analog-Design-Engineering-Intern_R268078",
     "company": "Analog Devices",
@@ -8516,6 +8492,14 @@
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
     "company": "Analog Devices",
     "location": "US, MA, Wilmington",
+    "status": "Closed",
+    "date_added": "2026-11-17"
+  },
+  {
+    "title": "AI Application Intern (8 months/40 hours per week) ",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
+    "company": "Bosch",
+    "location": "Farmington Hills, MI, United States",
     "status": "Closed",
     "date_added": "2026-11-17"
   },
@@ -8574,6 +8558,14 @@
     "location": "Santa Clara, CALIFORNIA, United States",
     "status": "Closed",
     "date_added": "2026-11-17"
+  },
+  {
+    "title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
+    "company": "Analog Devices",
+    "location": "US, MA, Wilmington",
+    "status": "Closed",
+    "date_added": "2026-11-16"
   },
   {
     "title": "Clinical Research Engineering Intern",
@@ -8700,6 +8692,14 @@
     "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
     "company": "Cursor",
     "location": "San Francisco, CA",
+    "status": "Closed",
+    "date_added": "2026-11-10"
+  },
+  {
+    "title": "Performance Engineering Co-op",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Performance-Engineering-Co-op_UNI4986-2",
+    "company": "HP",
+    "location": "Fort Collins, Colorado, United States of America",
     "status": "Closed",
     "date_added": "2026-11-10"
   },
@@ -9008,6 +9008,14 @@
     "date_added": "2026-10-30"
   },
   {
+    "title": "Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
+    "url": "https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Closed",
+    "date_added": "2026-10-30"
+  },
+  {
     "title": "Contract Student Worker - Software Engineer (40 hrs/wk)",
     "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d",
     "company": "Zoox",
@@ -9068,6 +9076,14 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
+    "status": "Closed",
+    "date_added": "2026-10-28"
+  },
+  {
+    "title": "Robotics Engineering Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
+    "company": "Intuitive",
+    "location": "Sunnyvale, CA, United States",
     "status": "Closed",
     "date_added": "2026-10-28"
   },
@@ -9292,6 +9308,14 @@
     "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
     "company": "1Password",
     "location": "Remote (United States | Canada)",
+    "status": "Closed",
+    "date_added": "2026-10-23"
+  },
+  {
+    "title": "Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Engineering-Intern_2642277-1",
+    "company": "KLA",
+    "location": "Milpitas, CA",
     "status": "Closed",
     "date_added": "2026-10-23"
   },
@@ -10840,6 +10864,14 @@
     "date_added": "2026-09-29"
   },
   {
+    "title": "Materials Engineering Summer 2027 Intern",
+    "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
+    "company": "Helion",
+    "location": "Everett, WA",
+    "status": "Closed",
+    "date_added": "2026-09-29"
+  },
+  {
     "title": "Process Engineering Summer 2027 Intern ",
     "url": "https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e",
     "company": "Helion",
@@ -11044,6 +11076,14 @@
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
     "company": "Analog Devices",
     "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-09-23"
+  },
+  {
+    "title": "Propulsion Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
+    "company": "Astranis",
+    "location": "San Francisco",
     "status": "Closed",
     "date_added": "2026-09-23"
   },
@@ -12628,6 +12668,14 @@
     "url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
     "company": "Zipline",
     "location": "South San Francisco, California, USA",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Contract Student Worker - Data Scientist",
+    "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f",
+    "company": "Zoox",
+    "location": "Foster City, CA",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
