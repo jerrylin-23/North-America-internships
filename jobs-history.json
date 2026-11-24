@@ -16,14 +16,6 @@
     "date_added": "2026-11-24"
   },
   {
-    "title": "Logic Design Engineering Graduate Intern | SPE ISCP SFD Domain42",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Logic-Design-Engineering-Graduate-Intern---SPE-ISCP-SFD-Domain42_JR0289549",
-    "company": "Intel",
-    "location": "Costa Rica, San Jose",
-    "status": "Active",
-    "date_added": "2026-11-24"
-  },
-  {
     "title": "Software Engineering Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1",
     "company": "KLA",
@@ -32,10 +24,26 @@
     "date_added": "2026-11-24"
   },
   {
+    "title": "Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)",
+    "url": "https://www.metacareers.com/jobs/1482835147112669/",
+    "company": "Meta",
+    "location": "Redmond, WA",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
     "title": "Technical Program Manager, Systems Intern",
     "url": "https://nuro.ai/careersitem?gh_jid=8412577",
     "company": "Nuro",
     "location": "Mountain View, California (HQ)",
+    "status": "Active",
+    "date_added": "2026-11-24"
+  },
+  {
+    "title": "Product Management Intern (MSP), Winter 2027",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+    "company": "Rubrik",
+    "location": "Palo Alto, CA",
     "status": "Active",
     "date_added": "2026-11-24"
   },
@@ -92,14 +100,6 @@
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295",
     "company": "Cisco",
     "location": "RTP, North Carolina, US",
-    "status": "Active",
-    "date_added": "2026-11-21"
-  },
-  {
-    "title": "Data Science Analyst II (Intern) – Untied States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Science-Analyst-II--Intern----Untied-States_2032691",
-    "company": "Cisco",
-    "location": "San Jose, California, US",
     "status": "Active",
     "date_added": "2026-11-21"
   },
@@ -732,14 +732,6 @@
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
     "company": "Anduril",
     "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, United States",
-    "status": "Active",
-    "date_added": "2026-11-17"
-  },
-  {
-    "title": "IT LTG Student Systems Analyst",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/IT-LTG-Student-Systems-Analyst_JR0288638",
-    "company": "Intel",
-    "location": "Costa Rica, San Jose",
     "status": "Active",
     "date_added": "2026-11-17"
   },
@@ -1418,6 +1410,14 @@
   {
     "title": "Data Science Intern [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+    "company": "Zoox",
+    "location": "Foster City, CA",
+    "status": "Active",
+    "date_added": "2026-11-07"
+  },
+  {
+    "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
+    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
     "company": "Zoox",
     "location": "Foster City, CA",
     "status": "Active",
@@ -2147,7 +2147,7 @@
     "title": "Research Scientist Intern, MSL - Agentic Post-Training (PhD)",
     "url": "https://www.metacareers.com/jobs/1155292783739299/",
     "company": "Meta",
-    "location": "Menlo Park, CA",
+    "location": "Menlo Park, CA; New York, NY",
     "status": "Active",
     "date_added": "2026-10-30"
   },
@@ -2412,14 +2412,6 @@
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1",
     "company": "HP",
     "location": "San Francisco, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-27"
-  },
-  {
-    "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
-    "company": "Marvell",
-    "location": "Santa Clara, CA",
     "status": "Active",
     "date_added": "2026-10-27"
   },
@@ -3186,14 +3178,6 @@
   {
     "title": "Industrial Design Engineer Intern , Summer 2027",
     "url": "https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027",
-    "company": "Amazon",
-    "location": "Bellevue, Washington, USA",
-    "status": "Active",
-    "date_added": "2026-10-20"
-  },
-  {
-    "title": "Hardware Development Engineer Intern , Winter 2027",
-    "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
     "company": "Amazon",
     "location": "Bellevue, Washington, USA",
     "status": "Active",
@@ -5000,14 +4984,6 @@
     "date_added": "2026-10-01"
   },
   {
-    "title": "Micro-Intern: Research Technology Developer (IAP)",
-    "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
-    "company": "Point72",
-    "location": "New York",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
     "title": "Data Analyst, Intern",
     "url": "https://stripe.com/jobs/search?gh_jid=8194287",
     "company": "Stripe",
@@ -5144,14 +5120,6 @@
     "date_added": "2026-09-30"
   },
   {
-    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
-    "company": "Celonis",
-    "location": "Raleigh, US, North Carolina",
-    "status": "Active",
-    "date_added": "2026-09-29"
-  },
-  {
     "title": "Systems Quality Engineer I (Co-op) - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
     "company": "Cisco",
@@ -5196,14 +5164,6 @@
     "url": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
     "company": "Lyft",
     "location": "Longueuil, Canada",
-    "status": "Active",
-    "date_added": "2026-09-29"
-  },
-  {
-    "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-    "company": "Marvell",
-    "location": "Santa Clara, CA",
     "status": "Active",
     "date_added": "2026-09-29"
   },
@@ -5852,14 +5812,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141337134",
     "company": "Bosch",
     "location": "Charleston, SC, United States",
-    "status": "Active",
-    "date_added": "2026-09-20"
-  },
-  {
-    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003",
-    "company": "Celonis",
-    "location": "New York, US, New York",
     "status": "Active",
     "date_added": "2026-09-20"
   },
@@ -8424,10 +8376,10 @@
     "date_added": "2026-06-17"
   },
   {
-    "title": "SWE Fellow - Human Frontier Collective (US, UK, & Canada)",
+    "title": "SWE Fellow - Human Frontier Collective",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
     "company": "Scale AI",
-    "location": "United States",
+    "location": "Canada; United Kingdom; United States",
     "status": "Active",
     "date_added": "2026-06-17"
   },
@@ -8456,12 +8408,28 @@
     "date_added": "2026-06-13"
   },
   {
+    "title": "Logic Design Engineering Graduate Intern | SPE ISCP SFD Domain42",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Logic-Design-Engineering-Graduate-Intern---SPE-ISCP-SFD-Domain42_JR0289549",
+    "company": "Intel",
+    "location": "Costa Rica, San Jose",
+    "status": "Closed",
+    "date_added": "2026-11-24"
+  },
+  {
     "title": "Mixed Signal Design Engineering Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Design-Engineering-Intern_R267442",
     "company": "Analog Devices",
     "location": "US, MA, Wilmington",
     "status": "Closed",
     "date_added": "2026-11-23"
+  },
+  {
+    "title": "Data Science Analyst II (Intern) – Untied States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Science-Analyst-II--Intern----Untied-States_2032691",
+    "company": "Cisco",
+    "location": "San Jose, California, US",
+    "status": "Closed",
+    "date_added": "2026-11-21"
   },
   {
     "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
@@ -8508,6 +8476,14 @@
     "url": "https://jobs.ashbyhq.com/Crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
     "company": "Crusoe",
     "location": "San Francisco, CA - US",
+    "status": "Closed",
+    "date_added": "2026-11-17"
+  },
+  {
+    "title": "IT LTG Student Systems Analyst",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/IT-LTG-Student-Systems-Analyst_JR0288638",
+    "company": "Intel",
+    "location": "Costa Rica, San Jose",
     "status": "Closed",
     "date_added": "2026-11-17"
   },
@@ -8764,14 +8740,6 @@
     "url": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
     "company": "Shield AI",
     "location": "Dallas, Texas",
-    "status": "Closed",
-    "date_added": "2026-11-07"
-  },
-  {
-    "title": "AI Workflows Intern [Summer 2027]",
-    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
-    "company": "Zoox",
-    "location": "Foster City, CA",
     "status": "Closed",
     "date_added": "2026-11-07"
   },
@@ -9200,6 +9168,14 @@
     "date_added": "2026-10-27"
   },
   {
+    "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-10-27"
+  },
+  {
     "title": "Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
     "url": "https://www.metacareers.com/jobs/1831104024740439/",
     "company": "Meta",
@@ -9590,6 +9566,14 @@
     "location": "San Diego, California",
     "status": "Closed",
     "date_added": "2026-10-21"
+  },
+  {
+    "title": "Hardware Development Engineer Intern , Winter 2027",
+    "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+    "company": "Amazon",
+    "location": "Bellevue, Washington, USA",
+    "status": "Closed",
+    "date_added": "2026-10-20"
   },
   {
     "title": "Signal Integrity Student Worker Engineer",
@@ -10680,6 +10664,14 @@
     "date_added": "2026-10-01"
   },
   {
+    "title": "Micro-Intern: Research Technology Developer (IAP)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
+    "company": "Point72",
+    "location": "New York",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
     "title": "Software Engineering Intern - Summer 2027 (Remote)",
     "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
     "company": "Riot Games",
@@ -10816,6 +10808,14 @@
     "date_added": "2026-09-30"
   },
   {
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
+    "company": "Celonis",
+    "location": "Raleigh, US, North Carolina",
+    "status": "Closed",
+    "date_added": "2026-09-29"
+  },
+  {
     "title": "Systems Quality Engineer II (Co-op) - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
     "company": "Cisco",
@@ -10876,6 +10876,14 @@
     "url": "https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e",
     "company": "Helion",
     "location": "Everett, WA",
+    "status": "Closed",
+    "date_added": "2026-09-29"
+  },
+  {
+    "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+    "company": "Marvell",
+    "location": "Santa Clara, CA",
     "status": "Closed",
     "date_added": "2026-09-29"
   },
@@ -11676,6 +11684,14 @@
     "url": "https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88",
     "company": "Bree",
     "location": "Toronto",
+    "status": "Closed",
+    "date_added": "2026-09-20"
+  },
+  {
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003",
+    "company": "Celonis",
+    "location": "New York, US, New York",
     "status": "Closed",
     "date_added": "2026-09-20"
   },
