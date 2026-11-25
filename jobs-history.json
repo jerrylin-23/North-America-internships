@@ -2328,30 +2328,6 @@
     "date_added": "2026-10-29"
   },
   {
-    "title": "Software Engineering Intern - HP IQ",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
-    "company": "HP",
-    "location": "San Francisco, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-29"
-  },
-  {
-    "title": "Software Quality Assurance Intern",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
-    "company": "HP",
-    "location": "San Francisco, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-29"
-  },
-  {
-    "title": "Software Systems Intern - HP IQ",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
-    "company": "HP",
-    "location": "San Francisco, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-29"
-  },
-  {
     "title": "Software Engineer Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
     "company": "KLA",
@@ -2556,14 +2532,6 @@
     "url": "https://www.metacareers.com/jobs/1625515955324134/",
     "company": "Meta",
     "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-    "status": "Active",
-    "date_added": "2026-10-27"
-  },
-  {
-    "title": "Wireless Engineering Intern",
-    "url": "https://www.metacareers.com/jobs/1881250979530334/",
-    "company": "Meta",
-    "location": "Sunnyvale, CA",
     "status": "Active",
     "date_added": "2026-10-27"
   },
@@ -9072,6 +9040,30 @@
     "date_added": "2026-10-29"
   },
   {
+    "title": "Software Engineering Intern - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+    "company": "HP",
+    "location": "San Francisco, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-10-29"
+  },
+  {
+    "title": "Software Quality Assurance Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+    "company": "HP",
+    "location": "San Francisco, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-10-29"
+  },
+  {
+    "title": "Software Systems Intern - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+    "company": "HP",
+    "location": "San Francisco, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-10-29"
+  },
+  {
     "title": "Software Intern",
     "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1",
     "company": "KLA",
@@ -9244,6 +9236,14 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
     "company": "Marvell",
     "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-10-27"
+  },
+  {
+    "title": "Wireless Engineering Intern",
+    "url": "https://www.metacareers.com/jobs/1881250979530334/",
+    "company": "Meta",
+    "location": "Sunnyvale, CA",
     "status": "Closed",
     "date_added": "2026-10-27"
   },

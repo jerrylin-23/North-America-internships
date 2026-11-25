@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-1060-green?style=flat-square)](#-active-postings-1060)
+[![Active Postings](https://img.shields.io/badge/active%20postings-1056-green?style=flat-square)](#-active-postings-1056)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-25-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (1060)
+## 📈 Active Postings (1056)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -307,9 +307,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Figma** | PhD Intern, Security Engineer (2027) | `San Francisco, CA • New York, NY` | 🟢 Active | [Apply ↗](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | 2026-10-29 |
 | **HP** | Software Engineering Intern, Connectivity - HP IQ | `San Francisco, California, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1) | 2026-10-29 |
 | **HP** | Software Product Security Intern - HP IQ | `San Francisco, California, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2) | 2026-10-29 |
-| **HP** | Software Engineering Intern - HP IQ | `San Francisco, California, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) | 2026-10-29 |
-| **HP** | Software Quality Assurance Intern | `San Francisco, California, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) | 2026-10-29 |
-| **HP** | Software Systems Intern - HP IQ | `San Francisco, California, United States of America` | 🟢 Active | [Apply ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1) | 2026-10-29 |
 | **KLA** | Software Engineer Intern | `Milpitas, CA` | 🟢 Active | [Apply ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) | 2026-10-29 |
 | **Meta** | Research Scientist Intern, ML Innovation for Products (PhD) | `Sunnyvale, CA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1060093353751700/) | 2026-10-29 |
 | **Meta** | Research Scientist Intern, Integrity (Trust and Safety) AI (PhD) | `Bellevue, WA; Seattle, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1105933535765181/) | 2026-10-29 |
@@ -336,7 +333,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Meta** | Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd) | `Bellevue, WA; Menlo Park, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1789380188995838/) | 2026-10-27 |
 | **Meta** | Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD) | `Menlo Park, CA; Seattle, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/29358420983776961/) | 2026-10-27 |
 | **Meta** | Research Scientist Intern, Ranking & Recommendations (PhD) | `Bellevue, WA; Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1625515955324134/) | 2026-10-27 |
-| **Meta** | Wireless Engineering Intern | `Sunnyvale, CA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1881250979530334/) | 2026-10-27 |
 | **Meta** | Research Scientist Intern, AI Research - Speech & Audio (PhD) | `Menlo Park, CA; New York, NY` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/1567168005156007/) | 2026-10-27 |
 | **SambaNova** | Cloud Platform Engineer - New Grad | `Austin, Texas, United States; San Jose, California, United States` | 🟢 Active | [Apply ↗](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | 2026-10-27 |
 | **SambaNova** | Compiler Engineer - New Grad | `Austin, Texas, United States; San Jose, California, United States` | 🟢 Active | [Apply ↗](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | 2026-10-27 |
@@ -1093,7 +1089,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (949)
+## 🔒 Closed Postings (953)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -1171,6 +1167,9 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Zoox** | Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk) | `Foster City, CA` | 🔴 Closed | [Link ↗](https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191) | 2026-10-30 |
 | **Zoox** | Contract Student Worker - Software Engineer (40 hrs/wk) | `Foster City, CA` | 🔴 Closed | [Link ↗](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) | 2026-10-30 |
 | **Amazon** | 2027 Applied Science Internship - Robotics - United States | `North Reading, Massachusetts, USA` | 🔴 Closed | [Link ↗](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | 2026-10-29 |
+| **HP** | Software Engineering Intern - HP IQ | `San Francisco, California, United States of America` | 🔴 Closed | [Link ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) | 2026-10-29 |
+| **HP** | Software Quality Assurance Intern | `San Francisco, California, United States of America` | 🔴 Closed | [Link ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) | 2026-10-29 |
+| **HP** | Software Systems Intern - HP IQ | `San Francisco, California, United States of America` | 🔴 Closed | [Link ↗](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1) | 2026-10-29 |
 | **KLA** | Software Intern | `Milpitas, CA` | 🔴 Closed | [Link ↗](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1) | 2026-10-29 |
 | **Meta** | Research Scientist Intern, Scam and Trust (PhD) | `Menlo Park, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/2355649268510104/) | 2026-10-29 |
 | **Shield AI** | Summer 2027 - Product Support Engineering Intern 6470 - 6442 | `Dallas, Texas` | 🔴 Closed | [Link ↗](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) | 2026-10-29 |
@@ -1193,6 +1192,7 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 | **Databricks** | Software Engineer - New Grad (2027 Start) | `Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada` | 🔴 Closed | [Link ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | 2026-10-27 |
 | **Databricks** | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | `Bellevue, Washington; Mountain View, California` | 🔴 Closed | [Link ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | 2026-10-27 |
 | **Marvell** | AIOps Forward Deployment Engineer Intern, BS - Summer 2027 | `Santa Clara, CA` | 🔴 Closed | [Link ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440) | 2026-10-27 |
+| **Meta** | Wireless Engineering Intern | `Sunnyvale, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1881250979530334/) | 2026-10-27 |
 | **Meta** | Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD) | `Redmond, WA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1831104024740439/) | 2026-10-27 |
 | **Meta** | Product Design Engineering Intern — AI Glasses | `Sunnyvale, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1714201770266311/) | 2026-10-27 |
 | **Meta** | Research Scientist Intern, Foundation Model Optimization (PhD) | `Menlo Park, CA; Burlingame, CA` | 🔴 Closed | [Link ↗](https://www.metacareers.com/jobs/1435245618154892/) | 2026-10-27 |
