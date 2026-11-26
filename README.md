@@ -1,7 +1,7 @@
 # 🍁 North America Tech Internships & Co-ops (Rolling)
 
 [![Scraper Status](https://img.shields.io/badge/scraper-automated-blueviolet?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships/actions)
-[![Active Postings](https://img.shields.io/badge/active%20postings-1061-green?style=flat-square)](#-active-postings-1061)
+[![Active Postings](https://img.shields.io/badge/active%20postings-1060-green?style=flat-square)](#-active-postings-1060)
 [![Last Scanned](https://img.shields.io/badge/last%20scanned-2026-11-26-blue?style=flat-square)](https://github.com/jerrylin-23/2027-canada-internships)
 [![GitHub stars](https://img.shields.io/github/stars/jerrylin-23/2027-canada-internships?style=social)](https://github.com/jerrylin-23/2027-canada-internships/stargazers)
 
@@ -12,7 +12,7 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 
 ---
 
-## 📈 Active Postings (1061)
+## 📈 Active Postings (1060)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
@@ -52,7 +52,6 @@ An automated repository tracking Software Engineering (SWE), Machine Learning (M
 | **Marvell** | AMS CAD Engineer Intern | `Irvine, CA` | 🟢 Active | [Apply ↗](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/AMS-CAD-Engineer-Intern_2604571) | 2026-11-23 |
 | **Meta** | Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD) | `Redmond, WA` | 🟢 Active | [Apply ↗](https://www.metacareers.com/jobs/2357948038329505/) | 2026-11-23 |
 | **Samsung** | Software Development Engineer - Intern | `645 Clyde Avenue, Mountain View, CA, USA` | 🟢 Active | [Apply ↗](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018) | 2026-11-23 |
-| **Cisco** | AI Cybersecurity Engineer I (Intern) – United States | `RTP, North Carolina, US` | 🟢 Active | [Apply ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295) | 2026-11-21 |
 | **Commonwealth Fusion Systems** | Intern - Electrical Engineer - Spring 2027 | `Devens, MA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747) | 2026-11-21 |
 | **Commonwealth Fusion Systems** | Intern - Electrical Engineer, RF Heating Systems - Spring 2027 | `Devens, MA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0) | 2026-11-21 |
 | **Commonwealth Fusion Systems** | Intern - Molten Salt Blanket Engineer - Summer 2027 | `Devens, MA` | 🟢 Active | [Apply ↗](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) | 2026-11-21 |
@@ -1094,12 +1093,13 @@ Amazon, Meta and NVIDIA are now scraped, so their live roles appear in the table
 
 ---
 
-## 🔒 Closed Postings (960)
+## 🔒 Closed Postings (961)
 
 | Company | Role | Location | Status | Link | Date Added |
 |---------|------|----------|--------|------|------------|
 | **Intel** | Logic Design Engineering Graduate Intern | SPE ISCP SFD Domain42 | `Costa Rica, San Jose` | 🔴 Closed | [Link ↗](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Logic-Design-Engineering-Graduate-Intern---SPE-ISCP-SFD-Domain42_JR0289549) | 2026-11-24 |
 | **Analog Devices** | Mixed Signal Design Engineering Intern | `US, MA, Wilmington` | 🔴 Closed | [Link ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Design-Engineering-Intern_R267442) | 2026-11-23 |
+| **Cisco** | AI Cybersecurity Engineer I (Intern) – United States | `RTP, North Carolina, US` | 🔴 Closed | [Link ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295) | 2026-11-21 |
 | **Cisco** | Data Science Analyst II (Intern) – Untied States | `San Jose, California, US` | 🔴 Closed | [Link ↗](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Science-Analyst-II--Intern----Untied-States_2032691) | 2026-11-21 |
 | **Lucid Motors** | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | `Newark, CA` | 🔴 Closed | [Link ↗](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | 2026-11-20 |
 | **Analog Devices** | Analog Design Engineering Intern | `US, OR, Beaverton` | 🔴 Closed | [Link ↗](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Analog-Design-Engineering-Intern_R268078) | 2026-11-19 |
