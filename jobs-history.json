@@ -2568,14 +2568,6 @@
     "date_added": "2026-10-27"
   },
   {
-    "title": "Cloud Engineering Intern - HP IQ",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1",
-    "company": "HP",
-    "location": "San Francisco, California, United States of America",
-    "status": "Active",
-    "date_added": "2026-10-27"
-  },
-  {
     "title": "Research Scientist Intern, Search (PhD)",
     "url": "https://www.metacareers.com/jobs/2171476533578976/",
     "company": "Meta",
@@ -4264,14 +4256,6 @@
     "date_added": "2026-10-12"
   },
   {
-    "title": "Deployment Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
-    "company": "Figure AI",
-    "location": "San Jose, CA",
-    "status": "Active",
-    "date_added": "2026-10-12"
-  },
-  {
     "title": "People Analytics Intern, PhD, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246-people-analytics-intern-phd-summer-2027",
     "company": "Google",
@@ -4928,22 +4912,6 @@
     "date_added": "2026-10-01"
   },
   {
-    "title": "Mechanical Engineer I (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028",
-    "company": "Cisco",
-    "location": "San Jose, California, US",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
-    "title": "Hardware Engineer I (Co-op) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369",
-    "company": "Cisco",
-    "location": "San Jose, California, US",
-    "status": "Active",
-    "date_added": "2026-10-01"
-  },
-  {
     "title": "Hardware Engineer II (Co-op) - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
     "company": "Cisco",
@@ -5206,14 +5174,6 @@
     "location": "Mountain View, CA, USA",
     "status": "Active",
     "date_added": "2026-09-30"
-  },
-  {
-    "title": "Systems Quality Engineer I (Co-op) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
-    "company": "Cisco",
-    "location": "Maynard, Massachusetts, US",
-    "status": "Active",
-    "date_added": "2026-09-29"
   },
   {
     "title": "Chemical Engineer / Chemist Postdoctoral Intern",
@@ -9288,6 +9248,14 @@
     "date_added": "2026-10-27"
   },
   {
+    "title": "Cloud Engineering Intern - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Cloud-Engineering-Intern_UNI4799-1",
+    "company": "HP",
+    "location": "San Francisco, California, United States of America",
+    "status": "Closed",
+    "date_added": "2026-10-27"
+  },
+  {
     "title": "AIOps Forward Deployment Engineer Intern, BS - Summer 2027",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
     "company": "Marvell",
@@ -10136,6 +10104,14 @@
     "date_added": "2026-10-13"
   },
   {
+    "title": "Deployment Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "status": "Closed",
+    "date_added": "2026-10-12"
+  },
+  {
     "title": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027",
     "company": "Google",
@@ -10760,6 +10736,22 @@
     "date_added": "2026-10-01"
   },
   {
+    "title": "Mechanical Engineer I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028",
+    "company": "Cisco",
+    "location": "San Jose, California, US",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
+    "title": "Hardware Engineer I (Co-op) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369",
+    "company": "Cisco",
+    "location": "San Jose, California, US",
+    "status": "Closed",
+    "date_added": "2026-10-01"
+  },
+  {
     "title": "Software Engineer II (Co-op) - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
     "company": "Cisco",
@@ -11004,6 +10996,14 @@
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
     "company": "Celonis",
     "location": "Raleigh, US, North Carolina",
+    "status": "Closed",
+    "date_added": "2026-09-29"
+  },
+  {
+    "title": "Systems Quality Engineer I (Co-op) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
+    "company": "Cisco",
+    "location": "Maynard, Massachusetts, US",
     "status": "Closed",
     "date_added": "2026-09-29"
   },
