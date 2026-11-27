@@ -1,5 +1,21 @@
 [
   {
+    "title": "Network Analytics & Reporting Intern",
+    "url": "https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007",
+    "company": "Lucid Motors",
+    "location": "Amsterdam, NH",
+    "status": "Active",
+    "date_added": "2026-11-27"
+  },
+  {
+    "title": "Salesforce Engineer Intern",
+    "url": "https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007",
+    "company": "Lucid Motors",
+    "location": "Amsterdam, NH",
+    "status": "Active",
+    "date_added": "2026-11-27"
+  },
+  {
     "title": "Security Engineer Intern",
     "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
     "company": "Coinbase",
@@ -3760,14 +3776,6 @@
     "date_added": "2026-10-15"
   },
   {
-    "title": "Compiler Engineering Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-    "company": "Intel",
-    "location": "Canada, Toronto",
-    "status": "Active",
-    "date_added": "2026-10-15"
-  },
-  {
     "title": "DSP & Systems Architecture Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/DSP---Systems-Architecture-Intern_2604806-1",
     "company": "Marvell",
@@ -4732,14 +4740,6 @@
     "url": "https://www.metacareers.com/jobs/1952991802037374/",
     "company": "Meta",
     "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
-    "status": "Active",
-    "date_added": "2026-10-06"
-  },
-  {
-    "title": "Software Engineer Intern, Machine Learning (PhD)",
-    "url": "https://www.metacareers.com/jobs/2180490782513668/",
-    "company": "Meta",
-    "location": "Menlo Park, CA; New York, NY",
     "status": "Active",
     "date_added": "2026-10-06"
   },
@@ -9864,6 +9864,14 @@
     "date_added": "2026-10-15"
   },
   {
+    "title": "Compiler Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+    "company": "Intel",
+    "location": "Canada, Toronto",
+    "status": "Closed",
+    "date_added": "2026-10-15"
+  },
+  {
     "title": "Module Engineering PhD Intern New 2027",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076",
     "company": "Intel",
@@ -10436,6 +10444,14 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1",
     "company": "Marvell",
     "location": "Santa Clara, CA",
+    "status": "Closed",
+    "date_added": "2026-10-06"
+  },
+  {
+    "title": "Software Engineer Intern, Machine Learning (PhD)",
+    "url": "https://www.metacareers.com/jobs/2180490782513668/",
+    "company": "Meta",
+    "location": "Menlo Park, CA; New York, NY",
     "status": "Closed",
     "date_added": "2026-10-06"
   },
